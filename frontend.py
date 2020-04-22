@@ -6,6 +6,14 @@ import pandas as pd
 import streamlit
 import numpy as np
 
+# Display a page title in markdown.
+title_md = """
+# Rank Cards in a Dominion Board
+
+## Which cards are in play?
+"""
+streamlit.markdown(title_md)
+
 # Helper function to highlight rows in a dataframe.
 def highlight(series):
 
@@ -31,7 +39,7 @@ df["Score"] = 100 * df["Score"]
 
 # Multi-select cards.
 selected_cards = streamlit.multiselect(
-    label = "Which cards are in play?",
+    label = "",
     options = df["Card"] # str []
         )
 
@@ -52,3 +60,16 @@ slc = slc.style.apply(highlight, subset=["Score"])
 
 # Show data
 streamlit.dataframe(slc)
+
+# About text.
+about_md = """
+## About:
+The Qvist rankings are a yearly poll of dominion players about the strength of cards. These rankings come from the Qvist poll.
+
+A card's score reflects how highly ranked a card is compared to other cards of the same cost. For the technically minded, the score is a percentile rank.
+
+Some cards may be missing scores. This does not imply that a card is good or bad, simply that it cannot be scored.
+
+Contact: Robert Thorstad, thorstadrs {at} gmail {dot} com
+"""
+streamlit.sidebar.markdown(about_md)
