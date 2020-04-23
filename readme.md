@@ -1,3 +1,3 @@
 # Dominion Dashboard
 
-![Demo](frontend-demo.png)
+![Demo](frontend-demo.svg)
