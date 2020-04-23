@@ -33,7 +33,7 @@ def highlight(series):
     return highlighting_instructions
 
             # Load data and make cosmetic adjustments for better visualization.
-df = pd.read_csv("qvist.csv")
+df = pd.read_csv("data/qvist.csv")
 df.columns = ["Card", "Score"]
 df["Score"] = 100 * df["Score"]
 
