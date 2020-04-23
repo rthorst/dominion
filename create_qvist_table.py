@@ -2,14 +2,14 @@
 Translate the QVIST rankings website into a sql table.
 """
 
+import csv
 import bs4
-import csv 
 import numpy as np
 
-def plus_minus_to_int(v):
-    if v == ' - ':
+def plus_minus_to_int(unknown_type_val):
+    if unknown_type_val == ' - ':
         return 0
-    return int(v)
+    return int(unknown_type_val)
 
 # Find all cards.
 html = open("data/qvist-table.html", "r").read()
@@ -35,15 +35,13 @@ for tr in trs:
         # if the current card is not a breakpoint, simply add it to the current set.
         if card_name not in breakpoints:
             curr_set_card_names.append(card_name)
-        
-        # otherwise, save the current set of cards and empty it.
-        else:
+        else: # otherwise, add cards to all_sets_card_names and empty it.
             all_sets_card_names.append(curr_set_card_names)
             curr_set_card_names = [card_name]
 
-    except Exception as e:
+    except Exception as generic_exception:
     
-        print(e)
+        print(generic_exception)
 
 # Save the results to CSV.
 of_p = "data/qvist.csv"
