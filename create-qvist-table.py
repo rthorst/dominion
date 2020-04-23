@@ -13,7 +13,7 @@ def plus_minus_to_int(v):
         return int(v)
 
 # Find all cards.
-html = open("qvist-table.html", "r").read()
+html = open("data/qvist-table.html", "r").read()
 soup = bs4.BeautifulSoup(html)
 trs = soup.findAll("tr")
 
@@ -47,7 +47,7 @@ for tr in trs:
 
 # Save the results to CSV.
 print(all_sets_card_names)
-of_p = "qvist.csv"
+of_p = "data/qvist.csv"
 with open(of_p, "w", newline="") as of:
 
     # write header.

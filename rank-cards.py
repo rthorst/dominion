@@ -19,7 +19,7 @@ while not done:
 
 
 # Load scores of all cards, and cast to dictionary.
-df = pd.read_csv("qvist.csv")
+df = pd.read_csv("data/qvist.csv")
 card_to_score = {}
 for card, score in df.values:
 
