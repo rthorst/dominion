@@ -1,9 +1,7 @@
+""" A command-line interface to rank dominion cards based on user input """
 
-"""
-Command-line interface to rank dominion cards based on user input.
-"""
+import pandas as pd
 
-import pandas as pd 
 
 # Get cards as user input.
 cards = []

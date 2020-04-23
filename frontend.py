@@ -4,7 +4,6 @@ Front-end, should allow the user to easily input cards and see them ranked.
 
 import pandas as pd
 import streamlit
-import numpy as np
 
 # Display a page title in markdown.
 title_md = """
@@ -14,16 +13,17 @@ title_md = """
 """
 streamlit.markdown(title_md)
 
-# Helper function to highlight rows in a dataframe.
 def highlight(series):
-
+    """ helper function to provide highlighting instructions
+        for a pandas series
+    """
     highlighting_instructions = []
-    for v in series:
+    for val in series:
 
         instruction = "background_color: "
-        if v < 33.3:
+        if val < 33.3:
             instruction += "lightsalmon"
-        elif v < 66.6:
+        elif val < 66.6:
             instruction += "lightgoldenrodyellow"
         else:
             instruction += "palegreen"
@@ -39,8 +39,8 @@ df["Score"] = 100 * df["Score"]
 
 # Multi-select cards.
 selected_cards = streamlit.multiselect(
-    label = "",
-    options = df["Card"] # str []
+    label="",
+    options=df["Card"] # str []
         )
 
 # Select which cards to show to the user, showing only cards selected,
