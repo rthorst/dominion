@@ -1,1 +1,3 @@
-rank-cards.py takes card names as input and returns their qvist ranking.
+# Dominion Dashboard
+
+Work in progress: dashboard for the card game Dominion.
