@@ -36,6 +36,7 @@ for tr in trs:
         # if the current card is not a breakpoint, simply add it to the current set.
         if card_name not in breakpoints:
             curr_set_card_names.append(card_name)
+        
         # otherwise, save the current set of cards and empty it.
         else:
             all_sets_card_names.append(curr_set_card_names)
@@ -46,7 +47,6 @@ for tr in trs:
         print(e)
 
 # Save the results to CSV.
-print(all_sets_card_names)
 of_p = "data/qvist.csv"
 with open(of_p, "w", newline="") as of:
 
