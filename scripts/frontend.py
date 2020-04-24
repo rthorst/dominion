@@ -32,8 +32,8 @@ def highlight(series):
 
     return highlighting_instructions
 
-            # Load data and make cosmetic adjustments for better visualization.
-df = pd.read_csv("data/qvist.csv")
+# Load data and make cosmetic adjustments for better visualization.
+df = pd.read_csv("../data/glicko.csv")
 df.columns = ["Card", "Score"]
 df["Score"] = 100 * df["Score"]
 
