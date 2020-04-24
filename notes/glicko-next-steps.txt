@@ -1,0 +1,4 @@
+1. Download glicko ratings.
+2. Compare to qvist ratings.
+3. Implement glicko instead.
+4. Remove qvist files.
