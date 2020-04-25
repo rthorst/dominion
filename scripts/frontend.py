@@ -34,7 +34,7 @@ def highlight(series):
 
 # Load data.
 df_glicko = pd.read_csv("../data/glicko/glicko_concatenated_ratings.csv")
-df_combos = pd.read_csv("../data/combos-and-counters.csv")
+df_combos = pd.read_csv("../data/combos_and_counters/combos-and-counters.csv")
 
 #####
 #Show cards and their ratings.

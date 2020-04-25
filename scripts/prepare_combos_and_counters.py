@@ -8,12 +8,13 @@ import pandas as pd
 def parse_combos_into_csv():
     """
     Read combos from text file -> well formatting CSV.
-    Input: ../data/2-card-combos.txt
-    Output: ../data/2-card-combos.csv
+    Input: ../data/combos_and_counters/2-card-combos.txt
+    Output: ../data/combos_and_counters/2-card-combos.csv
     """
 
     # Load data.
-    in_p = os.path.join("..", "data", "2-card-combos.txt")
+    in_p = os.path.join("..", "data", "combos_and_counters", 
+            "2-card-combos.txt")
     f = open(in_p, "r")
     combos_lines = f.readlines()
     combos_lines = [line.replace("\n", "") for line in combos_lines]
@@ -29,7 +30,7 @@ def parse_combos_into_csv():
 
     # Write CSV.
     header = ["Card1", "Card2"]
-    of_p = os.path.join("..", "data", "2-card-combos.csv")
+    of_p = os.path.join("..", "data", "combos_and_counters", "2-card-combos.csv")
     with open(of_p, "w", newline="") as of:
 
         # Write header.
@@ -43,12 +44,12 @@ def parse_combos_into_csv():
 def parse_counters_into_csv():
     """
     Read counters from text file -> well formatting CSV.
-    Input: ../data/counters.txt
-    Output: ../data/counters.csv
+    Input: ../data/combos_and_counters/counters.txt
+    Output: ../data/combos_and_counters/counters.csv
     """
 
     # Load data.
-    in_p = os.path.join("..", "data", "counters.txt")
+    in_p = os.path.join("..", "data", "combos_and_counters", "counters.txt")
     f = open(in_p, "r")
     combos_lines = f.readlines()
     combos_lines = [line.replace("\n", "") for line in combos_lines]
@@ -64,7 +65,7 @@ def parse_counters_into_csv():
 
     # Write CSV.
     header = ["Card1", "Card2"]
-    of_p = os.path.join("..", "data", "counters.csv")
+    of_p = os.path.join("..", "data", "combos_and_counters", "counters.csv")
     with open(of_p, "w", newline="") as of:
 
         # Write header.
@@ -80,15 +81,16 @@ def merge_combos_and_counters():
     """
     Merge datasets of combos and counters.
     Input:
-        2-card-combos.csv
-        counters.csv
+        data/combos_and_counters/2-card-combos.csv
+        data/combos_and_counters/counters.csv
     Output:
+        data/combos_and_counters/
         counters-and-combos.csv (card1 | card 2 | interaction_type)
     """
 
     # Load combos and counters independently.
-    df_combos = pd.read_csv("../data/2-card-combos.csv")
-    df_counters = pd.read_csv("../data/counters.csv")
+    df_combos = pd.read_csv("../data/combos_and_counters/2-card-combos.csv")
+    df_counters = pd.read_csv("../data/combos_and_counters/counters.csv")
 
     # Add an indicator column for which type of interaction is 
     # present, a combo or a counter.
@@ -99,7 +101,7 @@ def merge_combos_and_counters():
     df_merged = pd.concat([df_combos, df_counters])
 
     # Write output.
-    df_merged.to_csv("../data/combos-and-counters.csv", index=False)
+    df_merged.to_csv("../data/combos_and_counters/combos-and-counters.csv", index=False)
 
 if __name__ == "__main__":
     parse_combos_into_csv()
