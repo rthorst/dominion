@@ -99,7 +99,7 @@ def merge_combos_and_counters():
     df_merged = pd.concat([df_combos, df_counters])
 
     # Write output.
-    df_merged.to_csv("../data/combos-and-counters.csv")
+    df_merged.to_csv("../data/combos-and-counters.csv", index=False)
 
 if __name__ == "__main__":
     parse_combos_into_csv()

@@ -34,8 +34,7 @@ def highlight(series):
 
 # Load data.
 df_glicko = pd.read_csv("../data/glicko_concatenated_ratings.csv")
-df_combos = pd.read_csv("../data/2-card-combos.csv")
-
+df_combos = pd.read_csv("../data/combos-and-counters.csv")
 
 #####
 #Show cards and their ratings.
@@ -69,12 +68,12 @@ streamlit.markdown("### Card Ratings")
 streamlit.dataframe(slc_glicko)
 
 #####
-#Detect combos.
+#Detect combinations and counters.
 #####
 
 # Keep only rows of the dataframe where both cards are in play.
 combo_mask = []
-for card1, card2 in df_combos.values:
+for card1, card2, interaction_type in df_combos.values:
 
     combo_is_in_play = (card1 in selected_cards 
             and card2 in selected_cards)
@@ -82,7 +81,7 @@ for card1, card2 in df_combos.values:
 slc_combos = df_combos[combo_mask]
 
 # Show data and header.
-streamlit.markdown("### Two-Card Combinations")
+streamlit.markdown("### Combinations and Counters")
 streamlit.dataframe(slc_combos)
 
 #####
