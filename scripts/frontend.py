@@ -9,7 +9,7 @@ import streamlit
 title_md = """
 # Dominion Helper
 
-## Which cards are in play?
+#### Which cards are in play?
 """
 streamlit.markdown(title_md)
 
@@ -64,7 +64,7 @@ slc_glicko = slc_glicko.style.apply(
         highlight, subset=["Score"])
 
 # Show data and header.
-streamlit.markdown("### Card Ratings")
+streamlit.markdown("#### Card Ratings")
 streamlit.dataframe(slc_glicko)
 
 #####
@@ -81,7 +81,7 @@ for card1, card2, interaction_type in df_combos.values:
 slc_combos = df_combos[combo_mask]
 
 # Show data and header.
-streamlit.markdown("### Combinations and Counters")
+streamlit.markdown("#### Combinations and Counters")
 streamlit.dataframe(slc_combos)
 
 #####
