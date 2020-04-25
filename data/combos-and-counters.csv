@@ -1,0 +1,89 @@
+Card1,Card2,Interaction Type
+Alchemist,Herbalist,combo
+Altar,Highway,combo
+Ambassador,Curse,combo
+Ambassador,Fool's Gold,combo
+Ambassador,Pirate Ship,combo
+Apothecary,Stables,combo
+Apothecary Native Village Apothecary,Native Village 2,combo
+Apothecary,Vault,combo
+Apprentice,Hoard,combo
+Apprentice,Envoy,combo
+Black Market,Tactician,combo
+Caravan,Vault,combo
+Cartographer,Tunnel,combo
+Cartographer,Wishing Well,combo
+Courtyard,Tournament,combo
+Chancellor,Stash,combo
+Chapel,Stash,combo
+Council Room,Goons,combo
+Counting House,Coppersmith,combo
+Fishing Village,Torturer,combo
+Fortune Teller,Jester,combo
+Ghost Ship,Fortune Teller,combo
+Golem,Counting House,combo
+Golem,Scheme,combo
+Golem,Tunnel,combo
+Goons,Apothecary,combo
+Goons,Watchtower,combo
+Governor,Warehouse,combo
+Graverobber,Pillage,combo
+Hamlet,Menagerie,combo
+Hoard,Salvager,combo
+Horn of Plenty,Native Village,combo
+Horn of Plenty,Peddler,combo
+Horse Traders,Duke,combo
+Hunting Party,Saboteur,combo
+Hunting Party,X,combo
+King's Court,Scheme,combo
+Loan,Minion,combo
+Masquerade,Margrave,combo
+Militia,Masquerade,combo
+Minion,Golem,combo
+Mine,Potion,combo
+Mint,Fool's Gold,combo
+Native Village,Bridge,combo
+Oasis,Menagerie,combo
+Quarry,Talisman,combo
+Remake,City,combo
+Salvager,Peddler,combo
+Salvager,Spice Merchant,combo
+Sea Hag,Duchy,combo
+Scheme,Conspirator,combo
+Scheme,Herbalist,combo
+Scheme,Trading Post,combo
+Scrying Pool,Secret Chamber,combo
+Scrying Pool,Vault,combo
+Sea Hag,Jester,combo
+Shanty Town,Spice Merchant,combo
+Spy,Thief,combo
+Steward,Scrying Pool,combo
+Tournament,Scheme,combo
+Treasure Map,Nomad Camp,combo
+University,City,combo
+University,Inn,combo
+University,Watchtower,combo
+University,Library,combo
+Vault,Library,combo
+Vault,Philosopher's Stone,combo
+Venture,Bank,combo
+Vineyard,Develop,combo
+Watchtower,University,combo
+Warehouse,Conspirator,combo
+Warehouse,Counting House,combo
+Bishop,Gardens,counter
+Counting House,Militia,counter
+Harvest,Fortune Teller,counter
+Harvest,Rabble,counter
+Harvest,Bureaucrat,counter
+Harvest,Ghost Ship,counter
+Library,Militia,counter
+Lookout,Sea Hag,counter
+Militia,Warehouse,counter
+Minion,Treasury,counter
+Native Village,Fortune Teller,counter
+Possession,Ambassador,counter
+Secret Chamber,Pirate Ship,counter
+Tactician,Ghost Ship,counter
+Vault,Ambassador,counter
+Wishing Well,Ghost Ship,counter
