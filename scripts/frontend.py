@@ -33,18 +33,19 @@ def highlight(series):
     return highlighting_instructions
 
 # Load data.
-df = pd.read_csv("../data/glicko_concatenated_ratings.csv")
+df_glicko = pd.read_csv("../data/glicko_concatenated_ratings.csv")
+df_combos = pd.read_csv("../data/2-cards-combos.csv")
 
 # Multi-select cards.
 selected_cards = streamlit.multiselect(
     label="",
-    options=df["Card"] # str []
+    options=df_glicko["Card"] # str []
         )
 
 # Select which cards to show to the user, showing only cards selected,
 # or all cards if no cards are selected.
 if len(selected_cards) > 0:
-    mask = [c in selected_cards for c in df.Card]
+    mask = [c in selected_cards for c in df_glicko.Card]
 
 else:
     mask = [True] * len(df)
