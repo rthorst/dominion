@@ -1,1 +1,13 @@
-Get hosted on github remote + AWS and share!
+--> Recognize combos present (from a combos list)
+--> Easier inputting cards (from text?)
+
+Combos:
+
+1) Extract list of 2-card combos from here:
+http://wiki.dominionstrategy.com/index.php/Combos_and_Counters_List
+
+2) As the user enters cards, automatically identify combos that are 
+present.
+
+3) Print them below the main dataframe.
+
