@@ -10,7 +10,7 @@ import numpy as np
 # etc. List all of those filenames
 # ignore the "concatenated" file which would be an older version of the 
 # output from this script.
-base_p = "../data"
+base_p = "../data/glicko"
 in_fnames = [fname for fname in os.listdir(base_p)
         if "glicko" in fname and "concatenated" not in fname]
 

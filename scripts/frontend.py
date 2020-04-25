@@ -33,7 +33,7 @@ def highlight(series):
     return highlighting_instructions
 
 # Load data.
-df_glicko = pd.read_csv("../data/glicko_concatenated_ratings.csv")
+df_glicko = pd.read_csv("../data/glicko/glicko_concatenated_ratings.csv")
 df_combos = pd.read_csv("../data/combos-and-counters.csv")
 
 #####
