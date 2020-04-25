@@ -7,7 +7,7 @@ import streamlit
 
 # Display a page title in markdown.
 title_md = """
-# Rank Cards in a Dominion Board
+# Dominion Helper
 
 ## Which cards are in play?
 """
