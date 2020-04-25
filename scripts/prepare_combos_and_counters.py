@@ -97,7 +97,6 @@ def merge_combos_and_counters():
 
     # Merge the two dataframes.
     df_merged = pd.concat([df_combos, df_counters])
-    print(df_merged.head())
 
 if __name__ == "__main__":
     parse_combos_into_csv()
