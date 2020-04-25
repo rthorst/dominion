@@ -1,0 +1,520 @@
+Card,Score
+Way of the Chameleon,85
+Way of the Mouse,72
+Way of the Turtle,56
+Way of the Rat,50
+Way of the Owl,63
+Way of the Ox,57
+Way of the Horse,60
+Way of the Goat,50
+Way of the Squirrel,52
+Way of the Pig,48
+Way of the Sheep,54
+Way of the Otter,54
+Way of the Monkey,45
+Way of the Butterfly,41
+Way of the Mule,43
+Way of the Worm,39
+Way of the Seal,43
+Way of the Camel,34
+Way of the Mole,35
+Way of the Frog,19
+Keep,78
+Wall,68
+Orchard,68
+Tomb,59
+Bandit Fort,58
+Triumphal Arch,51
+Tower,56
+Defiled Shrine,48
+Fountain,55
+Mountain Pass,53
+Museum,47
+Obelisk,49
+Wolf Den,45
+Colonnade,48
+Battlefield,50
+Basilica,42
+Arena,45
+Aqueduct,40
+Palace,40
+Labyrinth,32
+Baths,2
+Delusion,81
+Misery,68
+War,58
+Locusts,52
+Plague,61
+Envy,48
+Poverty,49
+Greed,52
+Haunting,40
+Bad Omens,31
+Fear,44
+Famine,9
+Donate,99
+Cathedral,78
+Academy,73
+Seize the Day,64
+Lost Arts,65
+Pathfinding,68
+Triumph,66
+Sinister Plot,64
+Dominate,69
+Ferry,67
+Inheritance,59
+Sewers,61
+Save,62
+Citadel,61
+Transport,63
+Summon,58
+Invest,60
+Mission,57
+Populate,55
+Banish,57
+Crop Rotation,56
+Bonfire,58
+Travelling Fair,54
+Star Chart,51
+Silos,57
+Canal,58
+Innovation,51
+Alms,54
+Borrow,55
+Demand,52
+Plan,56
+Seaway,55
+Gamble,54
+Training,53
+Pageant,50
+Ball,52
+Fleet,54
+Expedition,48
+Bargain,49
+Barracks,49
+Delve,53
+Windfall,48
+Guildhall,47
+Alliance,45
+Salt the Earth,48
+Advance,45
+Toil,43
+Delay,45
+Exploration,45
+Stampede,47
+March,46
+Pilgrimage,44
+Enclave,46
+Fair,44
+Desperation,44
+Piazza,38
+Pursue,42
+Conquest,43
+Capitalism,38
+Trade,43
+Scouting Party,41
+Enhance,38
+City Gate,35
+Commerce,37
+Ride,37
+Wedding,35
+Banquet,36
+Reap,35
+Road Network,33
+Quest,31
+Ritual,29
+Tax,24
+Raid,25
+Annex,19
+The Swamp's Gift,92
+The Flame's Gift,65
+The Earth's Gift,57
+The Forest's Gift,55
+The River's Gift,59
+The Field's Gift,46
+The Sea's Gift,50
+The Mountain's Gift,45
+The Sun's Gift,49
+The Wind's Gift,36
+The Sky's Gift,31
+The Moon's Gift,7
+Ruined Market,98
+Abandoned Mine,46
+Ruined Library,54
+Survivors,43
+Ruined Village,6
+Followers,82
+Trusty Steed,58
+Princess,45
+Diadem,44
+Bag of Gold,24
+Sir Bailey,89
+Dame Molly,58
+Sir Destry,64
+Sir Michael,55
+Dame Anna,48
+Dame Natalie,51
+Dame Sylvia,53
+Sir Vander,37
+Sir Martin,36
+Dame Josephine,3
+Recruiter,88
+King's Court,84
+Goons,81
+Silk Merchant,80
+Mountebank,81
+Peasant,81
+Wharf,79
+Chapel,77
+Ambassador,78
+Cultist,73
+Masquerade,72
+Page,70
+Margrave,70
+Governor,73
+Tournament,69
+Lackeys,72
+Witch,68
+Old Witch,69
+Villa,69
+Scrying Pool,67
+Urchin,66
+Ghost Ship,65
+Hermit,68
+Wandering Minstrel,67
+Bridge Troll,66
+Possession,68
+Butcher,65
+Torturer,64
+Captain,69
+Wayfarer,68
+Sentry,62
+Mastermind,62
+Remake,63
+Counterfeit,66
+Vampire,65
+City Quarter,63
+Livery,61
+Bridge,62
+Hunting Party,65
+Bounty Hunter,67
+Steward,63
+Magpie,62
+Encampment,63
+Worker's Village,65
+Sanctuary,64
+Horn of Plenty,58
+Border Village,63
+Throne Room,65
+Inventor,61
+Highway,62
+Gear,59
+Treasurer,63
+Stonemason,64
+Port,62
+Groundskeeper,65
+Junk Dealer,59
+Menagerie,64
+Lost City,60
+Catapult,61
+Outpost,57
+Seer,59
+Grand Market,63
+Black Market,57
+Den of Sin,62
+Displace,63
+Ironmonger,64
+Priest,61
+Amulet,55
+Village Green,60
+Destrier,58
+Spice Merchant,61
+Barge,58
+Exorcist,57
+Herald,57
+Familiar,61
+Fishing Village,60
+Overlord,56
+Upgrade,58
+Raze,61
+Spices,59
+Cavalry,61
+Altar,61
+Quarry,57
+Stables,58
+Haggler,59
+Stockpile,58
+Sculptor,60
+Cursed Village,56
+Wild Hunt,57
+Militia,59
+Knights,53
+Artisan,58
+Swindler,60
+Peddler,61
+Shepherd,53
+Fortress,57
+Ghost Town,59
+Crown,55
+Village,60
+Hunting Lodge,54
+Apprentice,57
+Minion,56
+University,59
+Fortune,62
+Laboratory,55
+Groom,62
+Forager,54
+Replace,52
+Royal Carriage,56
+Border Guard,57
+Dungeon,52
+Blessed Village,54
+Mountain Village,53
+Tragic Hero,52
+Patron,60
+Pixie,53
+Haunted Woods,55
+Swashbuckler,55
+Relic,58
+Hostelry,55
+Cargo Ship,56
+Enchantress,54
+Conspirator,54
+Nobles,56
+Storyteller,49
+Forum,52
+Smithy,56
+Procession,57
+Church,54
+Coin of the Realm,58
+Supplies,56
+Vineyard,53
+Ranger,57
+Swamp Hag,54
+Hamlet,55
+Market Square,54
+Transmogrify,53
+Plaza,53
+Experiment,53
+Hunting Grounds,58
+Plunder,55
+Lookout,48
+Paddock,54
+Mining Village,54
+Coven,52
+Moneylender,53
+Bazaar,53
+Artificer,52
+Jack of All Trades,52
+Archive,50
+Festival,55
+Courtyard,50
+Avanto,50
+Salvager,53
+Devil's Workshop,52
+Ratcatcher,53
+Monastery,48
+Advisor,51
+Sauna,51
+Doctor,45
+Chariot Race,49
+City,49
+Fisherman,52
+Snowy Village,48
+Market,54
+Hideout,53
+Catacombs,48
+Cemetery,53
+Bustling Village,54
+Count,48
+Bandit Camp,49
+Remodel,48
+Mill,50
+Patrol,46
+Squire,50
+Ironworks,49
+Rebuild,53
+Envoy,51
+Smugglers,49
+Charm,49
+Baker,48
+Lurker,51
+Alchemist,47
+Farming Village,50
+Sacrifice,47
+Werewolf,46
+Rabble,46
+Fool's Gold,49
+Soothsayer,50
+Legionary,52
+Falconer,48
+Sheepdog,47
+Engineer,49
+Sea Hag,51
+Scrap,46
+Conclave,51
+Animal Fair,52
+Ill-Gotten Gains,49
+Walled Village,50
+Watchtower,44
+Lighthouse,48
+Council Room,48
+Temple,48
+Caravan,48
+Courtier,50
+Distant Lands,50
+Castles,52
+Inn,46
+Hireling,45
+Journeyman,45
+Tormentor,49
+Warehouse,47
+Emporium,45
+Changeling,48
+Apothecary,47
+Necromancer,46
+Skulk,54
+Kiln,44
+Expand,40
+Bishop,49
+Crossroads,49
+Diplomat,47
+Merchant Guild,46
+Research,45
+Scheme,46
+Improve,47
+Wishing Well,48
+Acting Troupe,43
+Pooka,43
+Treasure Trove,48
+Flag Bearer,48
+Native Village,45
+Young Witch,48
+Merchant,45
+Trading Post,43
+Jester,48
+Patrician,45
+Dismantle,42
+Monument,48
+Ducat,45
+Sacred Grove,43
+Leprechaun,43
+Mint,47
+Goatherd,45
+Idol,47
+Farmers' Market,44
+Messenger,49
+Tactician,45
+Vassal,48
+Black Cat,47
+Baron,45
+Guardian,43
+Scepter,45
+Wine Merchant,41
+Settlers,46
+Forge,45
+Candlestick Maker,46
+Fairgrounds,45
+Develop,39
+Poacher,44
+Secret Cave,42
+Pawn,43
+Camel Train,45
+Bandit,43
+Guide,45
+Cobbler,47
+Rats,44
+Shanty Town,41
+Embassy,48
+Hoard,43
+Horse Traders,40
+Capital,42
+Band of Misfits,41
+Storeroom,43
+Haven,41
+Armory,42
+Duke,41
+Marauder,39
+Workshop,43
+Talisman,42
+Vault,42
+Cellar,46
+Duplicate,43
+Oracle,41
+Royal Blacksmith,46
+Caravan Guard,48
+Druid,38
+Island,39
+Loan,37
+Treasury,43
+Cutpurse,40
+Rogue,42
+Moat,42
+Faithful Hound,40
+Scholar,41
+Library,37
+Bank,36
+Gardens,42
+Secret Passage,37
+Giant,39
+Fool,39
+Golem,39
+Tunnel,43
+Tracker,38
+Sleigh,37
+Scavenger,39
+Graverobber,37
+Cardinal,39
+Explorer,38
+Nomad Camp,41
+Farmland,37
+Cartographer,40
+Prince,37
+Villain,37
+Night Watchman,31
+Oasis,37
+Gladiator,36
+Trader,31
+Bard,36
+Gatekeeper,31
+Trade Route,33
+Sage,37
+Rocks,34
+Mystic,31
+Treasure Map,35
+Herbalist,37
+Harem,35
+Silk Road,34
+Feodum,38
+Death Cart,34
+Poor House,35
+Vagrant,32
+Harbinger,36
+Crypt,33
+Miser,29
+Noble Brigand,34
+Masterpiece,32
+Embargo,31
+Pillage,34
+Pearl Diver,33
+Merchant Ship,34
+Venture,31
+Pirate Ship,31
+Beggar,32
+Taxman,31
+Duchess,32
+Bureaucrat,31
+Raider,26
+Mine,28
+Royal Seal,28
+Counting House,27
+Contraband,25
+Navigator,25
+Mandarin,24
+Fortune Teller,25
+Stash,18
+Cache,18
+Harvest,17
+Transmute,14
+Philosopher's Stone,6
