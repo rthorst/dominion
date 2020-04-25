@@ -34,7 +34,12 @@ def highlight(series):
 
 # Load data.
 df_glicko = pd.read_csv("../data/glicko_concatenated_ratings.csv")
-df_combos = pd.read_csv("../data/2-cards-combos.csv")
+df_combos = pd.read_csv("../data/2-card-combos.csv")
+
+
+#####
+#Show cards and their ratings.
+#####
 
 # Multi-select cards.
 selected_cards = streamlit.multiselect(
@@ -45,20 +50,44 @@ selected_cards = streamlit.multiselect(
 # Select which cards to show to the user, showing only cards selected,
 # or all cards if no cards are selected.
 if len(selected_cards) > 0:
-    mask = [c in selected_cards for c in df_glicko.Card]
+    glicko_mask = [c in selected_cards for c in df_glicko.Card]
 
 else:
-    mask = [True] * len(df)
+    glicko_mask = [True] * len(df_glicko)
 
 # Create the dataframe to show to the user, sorting by score.
-slc = df[mask]
-slc = slc.sort_values(by="Score", ascending=False)
+slc_glicko = df_glicko[glicko_mask]
+slc_glicko = slc_glicko.sort_values(
+        by="Score", ascending=False)
 
 # Highlight cards.
-slc = slc.style.apply(highlight, subset=["Score"])
+slc_glicko = slc_glicko.style.apply(
+        highlight, subset=["Score"])
 
-# Show data
-streamlit.dataframe(slc)
+# Show data and header.
+streamlit.markdown("### Card Ratings")
+streamlit.dataframe(slc_glicko)
+
+#####
+#Detect combos.
+#####
+
+# Keep only rows of the dataframe where both cards are in play.
+combo_mask = []
+for card1, card2 in df_combos.values:
+
+    combo_is_in_play = (card1 in selected_cards 
+            and card2 in selected_cards)
+    combo_mask.append(combo_is_in_play)
+slc_combos = df_combos[combo_mask]
+
+# Show data and header.
+streamlit.markdown("### Two-Card Combinations")
+streamlit.dataframe(slc_combos)
+
+#####
+#Sidebar
+#####
 
 # About text.
 about_md = """
