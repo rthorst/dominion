@@ -61,7 +61,7 @@ def preprocess_openings_dataset():
     df = df[keep_cols]
 
     # Save preprocessed CSV.
-    df.to_csv("../data/openings/openings_preprocessed.csv")
+    df.to_csv("../data/openings/openings_preprocessed.csv", index=False)
 
 if __name__ == "__main__":
     preprocess_openings_dataset()
