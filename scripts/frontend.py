@@ -101,7 +101,8 @@ for card1, card2 in zip(df_openings.Card1, df_openings.Card2):
             card2 in augmented_cards_in_play)
     openings_mask.append(opening_is_in_play)
 slc_openings = df_openings[openings_mask]
-slc_openings = slc_openings.sort_values(by="Level")
+slc_openings = slc_openings.sort_values(by="Level",
+        ascending=False)
 
 # Show dataframe and header.
 streamlit.markdown("#### Good openings?")
