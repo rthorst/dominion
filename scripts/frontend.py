@@ -35,6 +35,7 @@ def highlight(series):
 # Load data.
 df_glicko = pd.read_csv("../data/glicko/glicko_concatenated_ratings.csv")
 df_combos = pd.read_csv("../data/combos_and_counters/combos-and-counters.csv")
+df_openings = pd.read_csv("../data/openings/openings_preprocessed.csv")
 
 #####
 #Show cards and their ratings.
@@ -83,6 +84,28 @@ slc_combos = df_combos[combo_mask]
 # Show data and header.
 streamlit.markdown("#### Any Card Combinations or Counters?")
 streamlit.dataframe(slc_combos)
+
+####################
+# Show good openings
+####################
+
+# Filter openings to cards currently in play, 
+# augmented by "copper", "silver", "gold", "curse",
+# "estate", "duchy", "province", ""
+augmented_cards_in_play = ["copper", "silver", "gold", "curse",
+        "estate", "duchy", "province"]
+augmented_cards_in_play.extend(selected_cards)
+openings_mask = []
+for card1, card2 in zip(df_openings.Card1, df_openings.Card2):
+    opening_is_in_play = (card1 in augmented_cards_in_play and 
+            card2 in augmented_cards_in_play)
+    openings_mask.append(opening_is_in_play)
+slc_openings = df_openings[openings_mask]
+slc_openings = slc_openings.sort_values(by="Level")
+
+# Show dataframe and header.
+streamlit.markdown("#### Good openings?")
+streamlit.dataframe(slc_openings)
 
 #####
 #Sidebar
