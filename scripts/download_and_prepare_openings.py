@@ -1,32 +1,67 @@
-import requests
-import os
-import bs4
+import pandas as pd
 
-def download_openings():
+def preprocess_openings_dataset():
+    """
+    Input: ../data/openings_raw.csv
+    Output: ../data/openings_preprocessed.csv
 
-    # Download HTML of openings page.
-    data_url = "http://councilroom.com/openings"
-    html = requests.get(data_url).text
+    Openings_raw.csv is a very rough CSV of the 
+    openings data from councilroom.com. This function
+    performs various preprocessing tasks, such as 
+    removing extraneous columns and renaming the
+    level from "Level +8" -> 8, etc.
+    """
 
-    # Save raw HTML of openings page.
-    of_p = "../data/openings/openings.html"
-    with open(of_p, "w") as of:
-        of.write(html)
+    # Load data.
+    df = pd.read_csv("../data/openings/openings_raw.csv")
 
-def convert_openings_to_structured_data():
+    # Convert level to integer.
+    # input: e.g. "Level +8" or "Level -2"
+    # output: e.g. 8 or -2
+    level_integers = [level_string.lstrip("Level ").replace("+", "") 
+            for level_string in df.Level]
+    df["Level"] = level_integers
 
-    # Load the openings as a (soupified) HTML object.
-    html = open("../data/openings/openings.html", "r").read()
-    soup = bs4.BeautifulSoup(html)
+    # Split the two cards in the opening into separate
+    # columns, being careful that some openings suggest
+    # NOT buying a second card, which should be reflected
+    # by an empty string.
+    card1s = []
+    card2s = []
+    for cards_string in df.Cards:
 
-    # List all rows in the table, which contain card names and opening scores.
-    trs = soup.find_all("tr")
-    START_ROW = 1
-    trs = trs[START_ROW:]
+        
+        # Case 1: two cards are specified. Split on "/"
+        if "/" in cards_string:
+            split_cards_string = cards_string.split("/")
+            
+            # This formulation handles a rare edge case where
+            # >2 cards are possible. E.g. nomad camp, fool's
+            # gold, fool's gold. Simply retain the first two
+            # cards here: the rest is clear from context.
+            card1 = split_cards_string[0]
+            card2 = split_cards_string[1]
 
-    # The level is only presented for the first card belonging to a level.
-    # Thus, find the indices of <trs>
+        # Case 2: one card is specified. Second card is ""
+        else:
+            card1 = cards_string
+            card2 = ""
+
+        card1 = card1.replace(" ", "")
+        card2 = card2.replace(" ", "")
+
+        card1s.append(card1)
+        card2s.append(card2)
+
+    df["Card1"] = card1s
+    df["Card2"] = card2s
+
+    # Remove extraneous columns.
+    keep_cols = ["Card1", "Card2", "Level"]
+    df = df[keep_cols]
+
+    # Save preprocessed CSV.
+    df.to_csv("../data/openings/openings_preprocessed.csv")
 
 if __name__ == "__main__":
-    #download_openings()
-    convert_openings_to_structured_data()
+    preprocess_openings_dataset()
