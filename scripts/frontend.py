@@ -105,7 +105,7 @@ slc_openings = slc_openings.sort_values(by="Level",
         ascending=False)
 
 # Show dataframe and header.
-streamlit.markdown("#### Good openings?")
+streamlit.markdown("#### Good Openings?")
 streamlit.dataframe(slc_openings)
 
 #####
