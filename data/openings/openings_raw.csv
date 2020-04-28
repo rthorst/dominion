@@ -1,0 +1,2320 @@
+Level,Skill Range,Rank,Cards,Cost
+Level +8,8.393 ± 0.953,1,Mountebank / Chapel,5/2
+Level +8,8.151 ± 0.967,2,Tournament / Ambassador,4/3
+Level +8,8.039 ± 0.950,3,Governor / Chapel,5/2
+Level +7,7.688 ± 0.984,4,Mint / Fool's Gold,5/2
+Level +7,7.342 ± 0.943,5,Witch / Chapel,5/2
+Level +7,7.126 ± 0.952,6,Tournament / Chapel,4/2
+Level +6,6.620 ± 0.941,7,Caravan / Ambassador,4/3
+Level +6,6.456 ± 0.951,8,Upgrade / Chapel,5/2
+Level +6,6.353 ± 0.942,9,Mountebank / Hamlet,5/2
+Level +6,6.319 ± 0.943,10,Tournament / Masquerade,4/3
+Level +6,6.278 ± 0.942,11,Hunting Party / Chapel,5/2
+Level +6,6.182 ± 0.950,12,Vault / Chapel,5/2
+Level +6,6.149 ± 0.941,13,Trading Post / Haven,5/2
+Level +6,6.101 ± 0.955,14,Wharf / Fool's Gold,5/2
+Level +6,6.060 ± 0.951,15,Mountebank / Crossroads,5/2
+Level +6,6.010 ± 0.924,16,Minion / Chapel,5/2
+Level +6,6.091 ± 1.025,17,Sea Hag / Fool's Gold,4/2
+Level +6,5.953 ± 0.935,18,Mountebank / Native Village,5/2
+Level +5,5.915 ± 0.983,19,Witch / Fool's Gold,5/2
+Level +5,5.842 ± 0.942,20,Witch / Crossroads,5/2
+Level +5,5.865 ± 0.990,21,Mountebank / Fool's Gold,5/2
+Level +5,5.725 ± 0.917,22,Bazaar / Chapel,5/2
+Level +5,5.723 ± 0.925,23,Trading Post / Lighthouse,5/2
+Level +5,5.703 ± 0.916,24,Treasury / Chapel,5/2
+Level +5,5.683 ± 0.928,25,Trading Post,5/-
+Level +5,5.608 ± 0.929,26,Spice Merchant / Ambassador,4/3
+Level +5,5.589 ± 0.938,27,Mountebank / Haven,5/2
+Level +5,5.492 ± 0.932,28,Trading Post / Courtyard,5/2
+Level +5,5.482 ± 0.923,29,Caravan / Masquerade,4/3
+Level +5,5.492 ± 0.942,30,Ghost Ship / Chapel,5/2
+Level +5,5.466 ± 0.934,31,Mountebank / Pawn,5/2
+Level +5,5.430 ± 0.919,32,Laboratory / Chapel,5/2
+Level +5,5.440 ± 0.930,33,Trading Post / Pearl Diver,5/2
+Level +5,5.413 ± 0.929,34,Young Witch / Tunnel,4/3
+Level +5,5.403 ± 0.927,35,Mountebank / Lighthouse,5/2
+Level +5,5.372 ± 0.934,36,Mountebank / Pearl Diver,5/2
+Level +5,5.337 ± 0.930,37,Trading Post / Hamlet,5/2
+Level +5,5.225 ± 0.920,38,Young Witch / Chapel,4/2
+Level +5,5.195 ± 0.930,39,Witch / Hamlet,5/2
+Level +5,5.201 ± 0.942,40,Mountebank / Courtyard,5/2
+Level +5,5.142 ± 0.922,41,Market / Chapel,5/2
+Level +5,5.177 ± 0.975,42,Trading Post / Chapel,5/2
+Level +5,5.125 ± 0.924,43,Trading Post / Pawn,5/2
+Level +5,5.358 ± 1.163,44,Ambassador / Fool's Gold,3/2
+Level +5,5.103 ± 0.918,45,Highway / Chapel,5/2
+Level +5,5.110 ± 0.928,46,Mountebank / Cellar,5/2
+Level +5,5.099 ± 0.925,47,Tournament / Steward,4/3
+Level +5,5.081 ± 0.923,48,Potion / Ambassador,4/3
+Level +5,5.071 ± 0.918,49,Monument / Chapel,4/2
+Level +5,5.082 ± 0.936,50,Witch / Haven,5/2
+Level +5,5.063 ± 0.922,51,Witch / Lighthouse,5/2
+Level +5,5.058 ± 0.918,52,Ambassador / Ambassador,3/3
+Level +5,5.008 ± 0.925,53,Haggler / Chapel,5/2
+Level +5,5.008 ± 0.930,54,Mountebank / Embargo,5/2
+Level +5,5.000 ± 0.931,55,Witch / Native Village,5/2
+Level +5,4.996 ± 0.934,56,Fishing Village / Masquerade,3/3
+Level +5,4.985 ± 0.923,57,Torturer / Chapel,5/2
+Level +5,4.984 ± 0.924,58,Sea Hag / Lookout,4/3
+Level +5,4.984 ± 0.928,59,Witch / Moat,5/2
+Level +5,4.944 ± 0.920,60,Wharf / Chapel,5/2
+Level +5,4.977 ± 0.974,61,Stables / Chapel,5/2
+Level +4,4.902 ± 0.920,62,Jester / Chapel,5/2
+Level +4,4.922 ± 0.979,63,Venture / Chapel,5/2
+Level +4,4.860 ± 0.933,64,Witch / Embargo,5/2
+Level +4,4.845 ± 0.929,65,Quarry / Ambassador,4/3
+Level +4,5.120 ± 1.218,66,Mountebank / Duchess,5/2
+Level +4,4.791 ± 0.934,67,Witch / Pearl Diver,5/2
+Level +4,4.823 ± 0.970,68,Explorer / Chapel,5/2
+Level +4,4.767 ± 0.918,69,Sea Hag / Steward,4/3
+Level +4,4.765 ± 0.932,70,Upgrade / Courtyard,5/2
+Level +4,4.825 ± 1.023,71,Ambassador / Scheme,3/3
+Level +4,4.706 ± 0.930,72,Witch / Cellar,5/2
+Level +4,4.794 ± 1.053,73,Loan / Masquerade,3/3
+Level +4,4.656 ± 0.920,74,Spice Merchant / Masquerade,4/3
+Level +4,4.637 ± 0.924,75,Mountebank,5/-
+Level +4,4.604 ± 0.920,76,Young Witch / Lookout,4/3
+Level +4,4.597 ± 0.918,77,Militia / Chapel,4/2
+Level +4,4.566 ± 0.928,78,Witch / Pawn,5/2
+Level +4,4.544 ± 0.926,79,Worker's Village / Ambassador,4/3
+Level +4,4.543 ± 0.928,80,Ambassador / Fishing Village,3/3
+Level +4,4.524 ± 0.922,81,Jack of All Trades / Fishing Village,4/3
+Level +4,4.509 ± 0.922,82,Witch,5/-
+Level +4,4.530 ± 0.948,83,Torturer / Crossroads,5/2
+Level +4,4.511 ± 0.937,84,Witch / Courtyard,5/2
+Level +4,4.445 ± 0.915,85,Militia / Ambassador,4/3
+Level +4,4.435 ± 0.918,86,Jack of All Trades / Warehouse,4/3
+Level +4,4.432 ± 0.919,87,Masquerade / Silver,3/3
+Level +4,4.440 ± 0.929,88,Swindler / Chapel,3/2
+Level +4,4.417 ± 0.922,89,Sea Hag / Warehouse,4/3
+Level +4,4.369 ± 0.910,90,Jack of All Trades / Ambassador,4/3
+Level +4,4.333 ± 0.911,91,Jack of All Trades / Scheme,4/3
+Level +4,4.343 ± 0.923,92,Wharf / Crossroads,5/2
+Level +4,4.334 ± 0.921,93,Sea Hag / Fishing Village,4/3
+Level +4,4.343 ± 0.932,94,Trading Post / Moat,5/2
+Level +4,4.326 ± 0.928,95,Trading Post / Embargo,5/2
+Level +4,4.331 ± 0.948,96,Margrave / Fool's Gold,5/2
+Level +4,4.280 ± 0.912,97,Spice Merchant / Steward,4/3
+Level +4,4.261 ± 0.916,98,Bishop / Chapel,4/2
+Level +4,4.292 ± 0.950,99,Chapel / Fool's Gold,2/2
+Level +4,4.350 ± 1.011,100,Young Witch / Wishing Well,4/3
+Level +4,4.433 ± 1.130,101,Trading Post / Nomad Camp,5/4
+Level +4,4.365 ± 1.076,102,Steward / Fool's Gold,3/2
+Level +4,4.196 ± 0.920,103,Worker's Village / Masquerade,4/3
+Level +4,4.195 ± 0.923,104,Quarry / Chapel,4/2
+Level +4,4.185 ± 0.924,105,Sea Hag / Scheme,4/3
+Level +4,4.173 ± 0.920,106,Walled Village / Masquerade,4/3
+Level +4,4.181 ± 0.930,107,Upgrade / Haven,5/2
+Level +4,4.163 ± 0.914,108,Mine / Chapel,5/2
+Level +4,4.159 ± 0.914,109,Young Witch / Ambassador,4/3
+Level +4,4.308 ± 1.065,110,Ambassador / Loan,3/3
+Level +4,4.161 ± 0.923,111,Potion / Masquerade,4/3
+Level +4,4.344 ± 1.111,112,Mountebank / Nomad Camp,5/4
+Level +4,4.143 ± 0.915,113,Festival / Chapel,5/2
+Level +4,4.139 ± 0.921,114,Mining Village / Ambassador,4/3
+Level +4,4.313 ± 1.103,115,Ill-Gotten Gains / Courtyard,5/2
+Level +4,4.121 ± 0.913,116,Sea Hag / Chapel,4/2
+Level +4,4.122 ± 0.917,117,Farming Village / Ambassador,4/3
+Level +4,4.136 ± 0.936,118,Trading Post / Crossroads,5/2
+Level +4,4.108 ± 0.916,119,Sea Hag / Loan,4/3
+Level +4,4.101 ± 0.910,120,Jack of All Trades / Chapel,4/2
+Level +4,4.349 ± 1.173,121,Masquerade / Fool's Gold,3/2
+Level +4,4.094 ± 0.918,122,Upgrade / Lighthouse,5/2
+Level +4,4.093 ± 0.919,123,Mountebank / Moat,5/2
+Level +4,4.079 ± 0.916,124,Jack of All Trades / Lookout,4/3
+Level +4,4.110 ± 0.957,125,Ambassador / Lighthouse,3/2
+Level +4,4.293 ± 1.143,126,Ambassador / Village,3/3
+Level +4,4.039 ± 0.908,127,Jack of All Trades / Shanty Town,4/3
+Level +4,4.031 ± 0.913,128,Farming Village / Masquerade,4/3
+Level +4,4.044 ± 0.934,129,Remodel / Fool's Gold,4/2
+Level +4,4.132 ± 1.024,130,Masquerade / Shanty Town,3/3
+Level +4,4.009 ± 0.910,131,Monument / Masquerade,4/3
+Level +4,3.988 ± 0.915,132,Sea Hag / Ambassador,4/3
+Level +4,3.976 ± 0.914,133,Monument / Ambassador,4/3
+Level +4,4.160 ± 1.106,134,Witch / Nomad Camp,5/4
+Level +4,3.952 ± 0.914,135,Mining Village / Masquerade,4/3
+Level +4,3.944 ± 0.909,136,Trader / Swindler,4/3
+Level +4,4.140 ± 1.106,137,Masquerade / Village,3/3
+Level +4,3.944 ± 0.911,138,Moneylender / Ambassador,4/3
+Level +4,3.957 ± 0.939,139,Margrave / Chapel,5/2
+Level +4,3.996 ± 0.986,140,Trading Post / Fool's Gold,5/2
+Level +3,5.249 ± 2.253,141,Chapel / Hamlet,2/2
+Level +3,3.912 ± 0.918,142,Tournament / Swindler,4/3
+Level +3,3.883 ± 0.917,143,Sea Hag / Silver,4/3
+Level +3,3.887 ± 0.926,144,Walled Village / Ambassador,4/3
+Level +3,3.847 ± 0.907,145,Merchant Ship / Chapel,5/2
+Level +3,3.850 ± 0.910,146,Militia / Masquerade,4/3
+Level +3,3.847 ± 0.914,147,Tournament / Lookout,4/3
+Level +3,3.843 ± 0.916,148,Trading Post / Native Village,5/2
+Level +3,3.821 ± 0.912,149,Salvager / Ambassador,4/3
+Level +3,3.840 ± 0.933,150,Upgrade / Embargo,5/2
+Level +3,4.042 ± 1.137,151,Ambassador / Chapel,3/2
+Level +3,3.831 ± 0.937,152,Hunting Party / Lighthouse,5/2
+Level +3,3.815 ± 0.923,153,Torturer / Native Village,5/2
+Level +3,4.051 ± 1.160,154,Masquerade / Swindler,3/3
+Level +3,3.794 ± 0.915,155,Worker's Village / Chapel,4/2
+Level +3,3.780 ± 0.910,156,Trader / Ambassador,4/3
+Level +3,3.801 ± 0.935,157,Jack of All Trades / Lighthouse,4/2
+Level +3,3.779 ± 0.918,158,Young Witch / Loan,4/3
+Level +3,3.874 ± 1.019,159,Apprentice / Chapel,5/2
+Level +3,4.700 ± 1.853,160,Wishing Well / Chapel,3/2
+Level +3,3.759 ± 0.915,161,Salvager / Loan,4/3
+Level +3,3.750 ± 0.909,162,Jack of All Trades / Silver,4/3
+Level +3,3.744 ± 0.909,163,Caravan / Chapel,4/2
+Level +3,3.731 ± 0.913,164,Jack of All Trades / Oasis,4/3
+Level +3,3.731 ± 0.918,165,Fishing Village / Steward,3/3
+Level +3,3.726 ± 0.920,166,Young Witch / Fishing Village,4/3
+Level +3,3.761 ± 0.982,167,Council Room / Fool's Gold,5/2
+Level +3,3.753 ± 0.984,168,Young Witch / Fool's Gold,4/2
+Level +3,3.663 ± 0.912,169,Mining Village / Chapel,4/2
+Level +3,3.649 ± 0.917,170,Ambassador / Silver,3/3
+Level +3,9.308 ± 6.633,171,Mountebank / Silver,5/3
+Level +3,3.593 ± 0.919,172,Spice Merchant / Swindler,4/3
+Level +3,3.571 ± 0.913,173,Silver / Chapel,3/2
+Level +3,3.883 ± 1.228,174,Ambassador / Steward,3/3
+Level +3,3.620 ± 0.974,175,Mine / Fool's Gold,5/2
+Level +3,3.559 ± 0.914,176,Bridge / Chapel,4/2
+Level +3,3.681 ± 1.037,177,Ill-Gotten Gains / Lighthouse,5/2
+Level +3,3.567 ± 0.926,178,Salvager / Chapel,4/2
+Level +3,3.571 ± 0.931,179,Upgrade / Moat,5/2
+Level +3,3.550 ± 0.915,180,Caravan / Swindler,4/3
+Level +3,3.547 ± 0.913,181,Jack of All Trades / Masquerade,4/3
+Level +3,4.013 ± 1.393,182,Ambassador / Masquerade,3/3
+Level +3,3.614 ± 0.997,183,Sea Hag / Menagerie,4/3
+Level +3,3.547 ± 0.934,184,Spice Merchant / Chapel,4/2
+Level +3,3.492 ± 0.912,185,Jack of All Trades / Loan,4/3
+Level +3,3.481 ± 0.918,186,Trading Post / Cellar,5/2
+Level +3,3.519 ± 0.971,187,Jack of All Trades / Fool's Gold,4/2
+Level +3,3.468 ± 0.923,188,Upgrade / Pawn,5/2
+Level +3,3.455 ± 0.915,189,Young Witch / Masquerade,4/3
+Level +3,3.747 ± 1.208,190,Young Witch / Chancellor,4/3
+Level +3,3.450 ± 0.913,191,Minion / Lighthouse,5/2
+Level +3,3.477 ± 0.951,192,Jack of All Trades / Hamlet,4/2
+Level +3,3.461 ± 0.937,193,Sea Hag / Oasis,4/3
+Level +3,3.435 ± 0.912,194,Young Witch / Steward,4/3
+Level +3,3.433 ± 0.910,195,Caravan / Steward,4/3
+Level +3,3.432 ± 0.910,196,Sea Hag / Masquerade,4/3
+Level +3,3.679 ± 1.159,197,Ill-Gotten Gains / Moat,5/2
+Level +3,3.428 ± 0.909,198,Wharf / Lighthouse,5/2
+Level +3,3.854 ± 1.347,199,Ill-Gotten Gains / Nomad Camp,5/4
+Level +3,3.412 ± 0.914,200,Remake / Menagerie,4/3
+Level +3,3.427 ± 0.939,201,Spy / Ambassador,4/3
+Level +3,3.391 ± 0.911,202,Young Witch / Shanty Town,4/3
+Level +3,3.392 ± 0.913,203,Masquerade / Masquerade,3/3
+Level +3,3.486 ± 1.009,204,Ambassador / Warehouse,3/3
+Level +3,3.395 ± 0.919,205,Salvager / Fool's Gold,4/2
+Level +3,3.378 ± 0.915,206,Quarry / Masquerade,4/3
+Level +3,4.289 ± 1.826,207,Ambassador / Haven,3/2
+Level +3,3.370 ± 0.914,208,Nomad Camp / Fool's Gold / Fool's Gold,4/2/2002
+Level +3,3.360 ± 0.914,209,Jack of All Trades / Swindler,4/3
+Level +3,3.361 ± 0.918,210,Remake / Fool's Gold,4/2
+Level +3,3.343 ± 0.910,211,Sea Hag / Swindler,4/3
+Level +3,3.341 ± 0.915,212,Remake / Fishing Village,4/3
+Level +3,3.364 ± 0.940,213,Sea Hag / Develop,4/3
+Level +3,3.685 ± 1.266,214,Mountebank / Copper,5/0
+Level +3,3.343 ± 0.927,215,Royal Seal / Chapel,5/2
+Level +3,3.364 ± 0.948,216,Young Witch / Develop,4/3
+Level +3,3.390 ± 1.011,217,Young Witch / Crossroads,4/2
+Level +3,3.285 ± 0.908,218,Tactician / Chapel,5/2
+Level +3,3.299 ± 0.927,219,Cutpurse / Masquerade,4/3
+Level +3,3.466 ± 1.094,220,Ambassador / Swindler,3/3
+Level +3,3.463 ± 1.094,221,Upgrade / Nomad Camp,5/4
+Level +3,3.449 ± 1.124,222,Ambassador / Lookout,3/3
+Level +3,3.226 ± 0.912,223,Treasure Map / Chapel,4/2
+Level +3,3.234 ± 0.922,224,Torturer / Hamlet,5/2
+Level +3,3.273 ± 0.963,225,Jack of All Trades / Menagerie,4/3
+Level +3,3.435 ± 1.137,226,Hunting Party / Nomad Camp,5/4
+Level +3,3.262 ± 0.965,227,Hunting Party / Crossroads,5/2
+Level +3,3.264 ± 0.974,228,Young Witch / Fortune Teller,4/3
+Level +3,3.198 ± 0.910,229,Fishing Village / Chapel,3/2
+Level +3,3.445 ± 1.166,230,Masquerade / Scheme,3/3
+Level +3,3.380 ± 1.101,231,Embassy / Chapel,5/2
+Level +3,3.673 ± 1.396,232,Masquerade / Chapel,3/2
+Level +3,3.185 ± 0.911,233,Young Witch / Silver,4/3
+Level +3,3.181 ± 0.908,234,Moneylender / Masquerade,4/3
+Level +3,3.191 ± 0.918,235,Tunnel / Warehouse,3/3
+Level +3,3.215 ± 0.957,236,Vault / Crossroads,5/2
+Level +3,3.165 ± 0.909,237,Upgrade,5/-
+Level +3,3.326 ± 1.074,238,Embassy / Fool's Gold,5/2
+Level +3,3.160 ± 0.910,239,Young Witch / Swindler,4/3
+Level +3,3.153 ± 0.905,240,Monument / Steward,4/3
+Level +3,3.151 ± 0.915,241,Feast / Ambassador,4/3
+Level +3,3.145 ± 0.910,242,Bishop / Ambassador,4/3
+Level +3,3.154 ± 0.921,243,Sea Hag / Trade Route,4/3
+Level +3,3.137 ± 0.910,244,Spice Merchant / Develop,4/3
+Level +3,3.119 ± 0.910,245,Treasure Map / Ambassador,4/3
+Level +3,3.140 ± 0.936,246,Young Witch / Menagerie,4/3
+Level +3,3.138 ± 0.936,247,Mountebank / Secret Chamber,5/2
+Level +3,3.145 ± 0.947,248,Apprentice / Courtyard,5/2
+Level +3,3.101 ± 0.911,249,Cutpurse / Chapel,4/2
+Level +3,3.208 ± 1.018,250,Ambassador / Shanty Town,3/3
+Level +3,3.093 ± 0.904,251,Farming Village / Chapel,4/2
+Level +3,3.199 ± 1.011,252,Steward / Swindler,3/3
+Level +3,3.132 ± 0.945,253,Haggler / Haven,5/2
+Level +3,3.486 ± 1.304,254,Oasis / Chapel,3/2
+Level +3,3.173 ± 1.000,255,Lookout / Swindler,3/3
+Level +3,3.144 ± 0.971,256,Remake / Wishing Well,4/3
+Level +3,3.080 ± 0.909,257,Remake / Ambassador,4/3
+Level +3,3.088 ± 0.924,258,Vault / Lighthouse,5/2
+Level +3,3.066 ± 0.907,259,Island / Ambassador,4/3
+Level +3,3.304 ± 1.152,260,Trading Post / Duchess,5/2
+Level +3,3.262 ± 1.118,261,Witch / Copper,5/0
+Level +3,3.245 ± 1.108,262,Ill-Gotten Gains / Fool's Gold,5/2
+Level +3,3.041 ± 0.906,263,Remake / Loan,4/3
+Level +3,3.239 ± 1.108,264,Ill-Gotten Gains / Pawn,5/2
+Level +3,3.040 ± 0.911,265,Bishop / Loan,4/3
+Level +3,3.032 ± 0.908,266,Remake / Swindler,4/3
+Level +3,3.035 ± 0.912,267,Feast / Masquerade,4/3
+Level +3,3.642 ± 1.519,268,Ambassador / Hamlet,3/2
+Level +3,3.311 ± 1.221,269,Venture / Courtyard,5/2
+Level +3,3.377 ± 1.292,270,Masquerade / Lighthouse,3/2
+Level +3,2.991 ± 0.915,271,Governor / Lighthouse,5/2
+Level +3,4.603 ± 2.534,272,Masquerade / Wishing Well,3/3
+Level +3,2.997 ± 0.935,273,Jester / Crossroads,5/2
+Level +3,2.969 ± 0.915,274,Cutpurse / Ambassador,4/3
+Level +3,2.978 ± 0.925,275,Upgrade / Hamlet,5/2
+Level +3,4.796 ± 2.746,276,Nomad Camp / Chapel / Fool's Gold,4/2/2002
+Level +3,2.996 ± 0.947,277,Contraband / Chapel,5/2
+Level +3,2.986 ± 0.949,278,Spy / Masquerade,4/3
+Level +3,2.986 ± 0.950,279,Trading Post / Herbalist,5/2
+Level +3,2.927 ± 0.904,280,Island / Masquerade,4/3
+Level +3,3.318 ± 1.300,281,Ill-Gotten Gains / Duchess,5/2
+Level +3,3.208 ± 1.196,282,Young Witch / Oracle,4/3
+Level +3,2.943 ± 0.931,283,Upgrade / Pearl Diver,5/2
+Level +3,3.744 ± 1.732,284,Ambassador / Menagerie,3/3
+Level +3,2.926 ± 0.917,285,Young Witch / Lighthouse,4/2
+Level +3,2.936 ± 0.929,286,Jester / Haven,5/2
+Level +3,2.915 ± 0.910,287,Trader / Chapel,4/2
+Level +3,3.840 ± 1.836,288,Masquerade / Menagerie,3/3
+Level +2,2.929 ± 0.930,289,Fishing Village / Swindler,3/3
+Level +2,2.906 ± 0.912,290,Bishop / Fishing Village,4/3
+Level +2,2.919 ± 0.930,291,Rabble / Chapel,5/2
+Level +2,4.160 ± 2.176,292,Mandarin / Mountebank,5/5
+Level +2,2.886 ± 0.908,293,Monument / Loan,4/3
+Level +2,2.923 ± 0.946,294,Witch / Secret Chamber,5/2
+Level +2,3.498 ± 1.525,295,Oasis / Swindler,3/3
+Level +2,3.488 ± 1.528,296,Menagerie / Chapel,3/2
+Level +2,3.170 ± 1.212,297,Steward / Chapel,3/2
+Level +2,3.038 ± 1.082,298,Loan / Steward,3/3
+Level +2,2.873 ± 0.921,299,Haggler / Lighthouse,5/2
+Level +2,2.931 ± 0.982,300,Ghost Ship / Crossroads,5/2
+Level +2,3.088 ± 1.143,301,Young Witch / Moat,4/2
+Level +2,2.824 ± 0.913,302,Tournament / Loan,4/3
+Level +2,2.808 ± 0.909,303,Moneylender / Warehouse,4/3
+Level +2,2.914 ± 1.019,304,Torturer / Fool's Gold,5/2
+Level +2,2.826 ± 0.931,305,Envoy / Ambassador,4/3
+Level +2,2.824 ± 0.933,306,Throne Room / Masquerade,4/3
+Level +2,3.024 ± 1.143,307,Swindler / Warehouse,3/3
+Level +2,2.855 ± 0.983,308,Vault / Courtyard,5/2
+Level +2,2.825 ± 0.953,309,Governor / Courtyard,5/2
+Level +2,2.841 ± 0.976,310,Library / Chapel,5/2
+Level +2,2.771 ± 0.908,311,Sea Hag / Lighthouse,4/2
+Level +2,2.818 ± 0.957,312,Salvager / Menagerie,4/3
+Level +2,2.758 ± 0.909,313,Sea Hag / Shanty Town,4/3
+Level +2,2.794 ± 0.949,314,Conspirator / Ambassador,4/3
+Level +2,2.727 ± 0.907,315,Spice Merchant / Fool's Gold,4/2
+Level +2,2.797 ± 0.982,316,Bishop / Wishing Well,4/3
+Level +2,3.150 ± 1.336,317,Scheme / Chapel,3/2
+Level +2,2.850 ± 1.039,318,Cartographer / Chapel,5/2
+Level +2,2.748 ± 0.942,319,Envoy / Masquerade,4/3
+Level +2,2.714 ± 0.910,320,Treasure Map / Masquerade,4/3
+Level +2,3.031 ± 1.231,321,Witch / Duchess,5/2
+Level +2,2.699 ± 0.905,322,Salvager / Swindler,4/3
+Level +2,2.842 ± 1.049,323,Governor / Nomad Camp,5/4
+Level +2,2.716 ± 0.925,324,Apprentice / Lighthouse,5/2
+Level +2,2.748 ± 0.969,325,Mountebank / Herbalist,5/2
+Level +2,2.763 ± 0.985,326,Cache / Chapel,5/2
+Level +2,2.687 ± 0.910,327,Jester / Lighthouse,5/2
+Level +2,2.978 ± 1.201,328,Jack of All Trades / Haven,4/2
+Level +2,2.682 ± 0.910,329,Bishop / Menagerie,4/3
+Level +2,2.700 ± 0.934,330,Remake / Hamlet,4/2
+Level +2,2.796 ± 1.035,331,Sea Hag / Fortune Teller,4/3
+Level +2,3.045 ± 1.286,332,Chapel / Lighthouse,2/2
+Level +2,2.936 ± 1.178,333,Young Witch / Pawn,4/2
+Level +2,2.690 ± 0.936,334,Conspirator / Masquerade,4/3
+Level +2,2.862 ± 1.112,335,Ambassador / Watchtower,3/3
+Level +2,3.011 ± 1.261,336,Sea Hag / Haven,4/2
+Level +2,2.658 ± 0.910,337,Tournament / Shanty Town,4/3
+Level +2,3.070 ± 1.331,338,Jack of All Trades / Courtyard,4/2
+Level +2,2.641 ± 0.902,339,Treasury / Lighthouse,5/2
+Level +2,2.687 ± 0.948,340,Governor / Embargo,5/2
+Level +2,2.649 ± 0.911,341,Militia / Steward,4/3
+Level +2,2.664 ± 0.927,342,Mine / Crossroads,5/2
+Level +2,2.642 ± 0.906,343,Conspirator / Chapel,4/2
+Level +2,2.764 ± 1.034,344,Jack of All Trades / Native Village,4/2
+Level +2,2.659 ± 0.938,345,Throne Room / Ambassador,4/3
+Level +2,2.626 ± 0.906,346,Monument / Warehouse,4/3
+Level +2,2.629 ± 0.911,347,Jack of All Trades / Village,4/3
+Level +2,2.625 ± 0.916,348,Young Witch / Village,4/3
+Level +2,2.611 ± 0.909,349,Horse Traders / Chapel,4/2
+Level +2,2.602 ± 0.905,350,Moneylender / Chapel,4/2
+Level +2,2.603 ± 0.908,351,Remake / Village,4/3
+Level +2,2.613 ± 0.920,352,Tournament / Trade Route,4/3
+Level +2,12.063 ± 10.371,353,Tournament / Tournament,4/4
+Level +2,2.610 ± 0.922,354,Black Market / Chapel,3/2
+Level +2,2.591 ± 0.905,355,Salvager / Silver,4/3
+Level +2,2.619 ± 0.936,356,Governor / Haven,5/2
+Level +2,2.592 ± 0.912,357,Wharf / Hamlet,5/2
+Level +2,2.586 ± 0.907,358,Sea Hag / Watchtower,4/3
+Level +2,2.600 ± 0.921,359,Haggler / Hamlet,5/2
+Level +2,2.580 ± 0.910,360,Potion / Chapel,4/2
+Level +2,2.616 ± 0.947,361,Spy / Chapel,4/2
+Level +2,2.846 ± 1.178,362,Minion / Nomad Camp,5/4
+Level +2,2.972 ± 1.306,363,Masquerade / Warehouse,3/3
+Level +2,2.578 ± 0.914,364,Bazaar / Courtyard,5/2
+Level +2,2.846 ± 1.184,365,Young Witch / Haven,4/2
+Level +2,2.567 ± 0.906,366,Monument / Lookout,4/3
+Level +2,2.571 ± 0.911,367,Ironworks / Chapel,4/2
+Level +2,2.553 ± 0.906,368,Horse Traders / Ambassador,4/3
+Level +2,2.545 ± 0.906,369,Remake / Warehouse,4/3
+Level +2,2.546 ± 0.922,370,Young Witch / Watchtower,4/3
+Level +2,2.531 ± 0.908,371,Farming Village / Steward,4/3
+Level +2,2.580 ± 0.970,372,Witch / Herbalist,5/2
+Level +2,2.522 ± 0.915,373,Remake / Lighthouse,4/2
+Level +2,2.517 ± 0.911,374,Jester / Hamlet,5/2
+Level +2,2.953 ± 1.347,375,Lookout / Masquerade,3/3
+Level +2,2.525 ± 0.920,376,Mine / Haven,5/2
+Level +2,2.580 ± 0.975,377,Embassy / Crossroads,5/2
+Level +2,2.514 ± 0.913,378,Island / Chapel,4/2
+Level +2,2.509 ± 0.911,379,Feast / Chapel,4/2
+Level +2,3.205 ± 1.615,380,Masquerade / Oasis,3/3
+Level +2,2.497 ± 0.911,381,Worker's Village / Steward,4/3
+Level +2,3.112 ± 1.533,382,Masquerade / Hamlet,3/2
+Level +2,2.661 ± 1.083,383,Jack of All Trades / Fortune Teller,4/3
+Level +2,2.700 ± 1.124,384,Scheme / Steward,3/3
+Level +2,2.481 ± 0.906,385,Island / Swindler,4/3
+Level +2,3.011 ± 1.438,386,Masquerade / Steward,3/3
+Level +2,2.487 ± 0.914,387,Ironworks / Ambassador,4/3
+Level +2,2.522 ± 0.949,388,Jester / Courtyard,5/2
+Level +2,2.479 ± 0.907,389,Merchant Ship / Lighthouse,5/2
+Level +2,2.504 ± 0.937,390,Apprentice / Haven,5/2
+Level +2,2.485 ± 0.917,391,Young Witch / Warehouse,4/3
+Level +2,2.473 ± 0.910,392,Remake / Scheme,4/3
+Level +2,2.507 ± 0.948,393,Young Witch / Great Hall,4/3
+Level +2,2.986 ± 1.429,394,Salvager / Haven,4/2
+Level +2,2.567 ± 1.014,395,Explorer / Lighthouse,5/2
+Level +2,2.494 ± 0.942,396,Young Witch / Oasis,4/3
+Level +2,2.462 ± 0.911,397,Torturer / Lighthouse,5/2
+Level +2,2.453 ± 0.908,398,Salvager / Fishing Village,4/3
+Level +2,2.468 ± 0.929,399,Apprentice / Pawn,5/2
+Level +2,2.480 ± 0.945,400,Apprentice / Embargo,5/2
+Level +2,2.441 ± 0.906,401,Silver / Steward,3/3
+Level +2,2.537 ± 1.008,402,Royal Seal / Courtyard,5/2
+Level +2,2.689 ± 1.160,403,Remake / Courtyard,4/2
+Level +2,2.479 ± 0.956,404,Vault / Pearl Diver,5/2
+Level +2,2.453 ± 0.931,405,Mine / Courtyard,5/2
+Level +2,2.432 ± 0.910,406,Steward / Steward,3/3
+Level +2,2.431 ± 0.914,407,Remodel / Chapel,4/2
+Level +2,2.449 ± 0.932,408,Smithy / Ambassador,4/3
+Level +2,2.475 ± 0.960,409,Vault / Embargo,5/2
+Level +2,2.768 ± 1.260,410,Young Witch / Courtyard,4/2
+Level +2,2.452 ± 0.948,411,Trading Post / Secret Chamber,5/2
+Level +2,2.493 ± 0.990,412,Young Witch / Woodcutter,4/3
+Level +2,2.410 ± 0.909,413,Envoy / Fishing Village,4/3
+Level +2,2.435 ± 0.934,414,Haggler / Fool's Gold,5/2
+Level +2,3.511 ± 2.019,415,Ambassador / Courtyard,3/2
+Level +2,2.397 ± 0.907,416,Potion / Swindler,4/3
+Level +2,2.398 ± 0.909,417,Jack of All Trades / Steward,4/3
+Level +2,2.407 ± 0.919,418,Sea Hag / Village,4/3
+Level +2,2.407 ± 0.922,419,Treasury / Courtyard,5/2
+Level +2,2.381 ± 0.906,420,Salvager / Masquerade,4/3
+Level +2,2.940 ± 1.472,421,Fortune Teller / Chapel,3/2
+Level +2,2.370 ± 0.907,422,Island / Loan,4/3
+Level +2,2.407 ± 0.948,423,Upgrade / Crossroads,5/2
+Level +2,2.725 ± 1.269,424,Ill-Gotten Gains / Copper,5/0
+Level +2,2.365 ± 0.912,425,Militia / Lookout,4/3
+Level +2,2.387 ± 0.934,426,Jester / Pearl Diver,5/2
+Level +2,2.374 ± 0.925,427,Spice Merchant / Warehouse,4/3
+Level +2,2.854 ± 1.406,428,Vault / Nomad Camp,5/4
+Level +2,2.457 ± 1.017,429,Sea Hag / Tunnel,4/3
+Level +2,2.343 ± 0.906,430,Moneylender / Fishing Village,4/3
+Level +2,2.337 ± 0.909,431,Monument / Fishing Village,4/3
+Level +2,2.350 ± 0.926,432,Remake / Chapel,4/2
+Level +2,2.338 ± 0.916,433,Salvager / Scheme,4/3
+Level +2,2.526 ± 1.108,434,Steward / Warehouse,3/3
+Level +2,2.635 ± 1.233,435,Jack of All Trades / Embargo,4/2
+Level +2,2.456 ± 1.064,436,Stash / Chapel,5/2
+Level +2,2.334 ± 0.945,437,Trader / Menagerie,4/3
+Level +2,2.302 ± 0.915,438,Margrave / Crossroads,5/2
+Level +2,2.295 ± 0.908,439,Bishop / Fool's Gold,4/2
+Level +2,2.310 ± 0.928,440,Margrave / Lighthouse,5/2
+Level +2,2.413 ± 1.032,441,Sea Hag / Embargo,4/2
+Level +2,2.486 ± 1.108,442,Swindler / Lighthouse,3/2
+Level +2,2.284 ± 0.908,443,Talisman / Masquerade,4/3
+Level +2,2.281 ± 0.907,444,Wharf / Native Village,5/2
+Level +2,2.283 ± 0.911,445,Haggler / Crossroads,5/2
+Level +2,2.278 ± 0.908,446,Farming Village / Swindler,4/3
+Level +2,2.680 ± 1.312,447,Trader / Courtyard,4/2
+Level +2,2.300 ± 0.933,448,Torturer / Haven,5/2
+Level +2,2.365 ± 1.004,449,Ambassador,3/-
+Level +2,2.299 ± 0.942,450,Island / Fool's Gold,4/2
+Level +2,2.353 ± 1.000,451,Apprentice / Fool's Gold,5/2
+Level +2,2.724 ± 1.371,452,Harvest / Chapel,5/2
+Level +2,2.279 ± 0.928,453,Tournament / Develop,4/3
+Level +2,2.478 ± 1.128,454,Apprentice / Nomad Camp,5/4
+Level +2,2.249 ± 0.902,455,Moneylender / Steward,4/3
+Level +2,2.255 ± 0.908,456,Remake / Masquerade,4/3
+Level +2,2.525 ± 1.180,457,Remake / Haven,4/2
+Level +2,2.291 ± 0.948,458,Governor / Fool's Gold,5/2
+Level +2,2.236 ± 0.907,459,Treasure Map / Warehouse,4/3
+Level +2,2.233 ± 0.906,460,Quarry / Steward,4/3
+Level +2,2.232 ± 0.909,461,Smithy / Fishing Village,4/3
+Level +2,2.237 ± 0.922,462,Salvager / Lighthouse,4/2
+Level +2,2.540 ± 1.229,463,Sea Hag / Courtyard,4/2
+Level +2,2.231 ± 0.923,464,Torturer / Pawn,5/2
+Level +2,2.605 ± 1.299,465,Young Witch / Pearl Diver,4/2
+Level +2,2.203 ± 0.906,466,Horse Traders / Masquerade,4/3
+Level +2,2.406 ± 1.111,467,Upgrade / Duchess,5/2
+Level +2,2.272 ± 0.977,468,Upgrade / Fool's Gold,5/2
+Level +2,2.270 ± 0.976,469,Hunting Party / Embargo,5/2
+Level +2,2.193 ± 0.905,470,Remake / Silver,4/3
+Level +2,2.738 ± 1.454,471,Nomad Camp / Silver / Chapel,4/3/2002
+Level +2,2.204 ± 0.921,472,Tournament / Warehouse,4/3
+Level +2,2.208 ± 0.926,473,Tournament / Fortune Teller,4/3
+Level +2,2.197 ± 0.919,474,Walled Village / Chapel,4/2
+Level +2,2.216 ± 0.947,475,Smithy / Masquerade,4/3
+Level +2,2.275 ± 1.008,476,Shanty Town / Chapel,3/2
+Level +2,2.294 ± 1.031,477,Library / Lighthouse,5/2
+Level +2,2.236 ± 0.974,478,Hunting Party / Courtyard,5/2
+Level +2,2.221 ± 0.959,479,Royal Seal / Lighthouse,5/2
+Level +2,2.169 ± 0.910,480,Bridge / Masquerade,4/3
+Level +2,2.333 ± 1.075,481,Sea Hag / Hamlet,4/2
+Level +2,2.193 ± 0.940,482,Jack of All Trades,4/-
+Level +2,2.623 ± 1.373,483,Ambassador / Oasis,3/3
+Level +2,2.165 ± 0.923,484,Young Witch / Scheme,4/3
+Level +2,2.155 ± 0.914,485,Walled Village / Swindler,4/3
+Level +2,2.149 ± 0.908,486,Militia / Warehouse,4/3
+Level +2,2.146 ± 0.910,487,Remake / Oasis,4/3
+Level +2,2.405 ± 1.169,488,Steward / Lighthouse,3/2
+Level +2,2.206 ± 0.970,489,Hunting Party / Haven,5/2
+Level +2,2.161 ± 0.926,490,Jester / Native Village,5/2
+Level +2,2.179 ± 0.947,491,Apprentice / Pearl Diver,5/2
+Level +2,2.131 ± 0.907,492,Salvager / Lookout,4/3
+Level +2,2.330 ± 1.109,493,Young Witch / Embargo,4/2
+Level +2,2.123 ± 0.902,494,Island / Steward,4/3
+Level +2,2.124 ± 0.906,495,Wharf / Cellar,5/2
+Level +2,3.226 ± 2.012,496,Ambassador / Wishing Well,3/3
+Level +2,2.116 ± 0.908,497,Mine / Lighthouse,5/2
+Level +2,2.111 ± 0.908,498,Bishop / Lookout,4/3
+Level +2,2.132 ± 0.933,499,Young Witch / Trade Route,4/3
+Level +2,2.122 ± 0.928,500,Governor / Cellar,5/2
+Level +2,2.688 ± 1.494,501,Menagerie / Steward,3/3
+Level +2,2.096 ± 0.903,502,Trader / Scheme,4/3
+Level +2,2.116 ± 0.927,503,Treasury / Crossroads,5/2
+Level +2,2.097 ± 0.910,504,Militia / Loan,4/3
+Level +2,2.422 ± 1.235,505,Ill-Gotten Gains / Herbalist,5/2
+Level +2,2.115 ± 0.931,506,Minion / Embargo,5/2
+Level +2,2.080 ± 0.902,507,Bishop / Masquerade,4/3
+Level +2,2.077 ± 0.912,508,Monument / Lighthouse,4/2
+Level +2,2.068 ± 0.905,509,Jester,5/-
+Level +2,2.434 ± 1.274,510,Venture / Moat,5/2
+Level +2,2.072 ± 0.918,511,Laboratory / Crossroads,5/2
+Level +2,2.052 ± 0.906,512,Bishop / Lighthouse,4/2
+Level +2,2.049 ± 0.906,513,Mining Village / Steward,4/3
+Level +2,2.101 ± 0.961,514,Jack of All Trades / Great Hall,4/3
+Level +2,2.062 ± 0.929,515,Apprentice / Hamlet,5/2
+Level +2,2.042 ± 0.912,516,Treasury / Haven,5/2
+Level +2,2.044 ± 0.919,517,Governor / Crossroads,5/2
+Level +2,2.025 ± 0.909,518,Monument / Oasis,4/3
+Level +2,2.031 ± 0.916,519,Trader / Masquerade,4/3
+Level +2,2.269 ± 1.156,520,Navigator / Ambassador,4/3
+Level +2,2.019 ± 0.907,521,Navigator / Tunnel,4/3
+Level +2,2.085 ± 0.977,522,Jack of All Trades / Watchtower,4/3
+Level +2,2.042 ± 0.935,523,Torturer / Embargo,5/2
+Level +2,2.018 ± 0.912,524,Militia / Silver,4/3
+Level +2,2.013 ± 0.907,525,Silver / Swindler,3/3
+Level +2,2.024 ± 0.925,526,Jester / Pawn,5/2
+Level +2,2.010 ± 0.913,527,City / Chapel,5/2
+Level +2,2.076 ± 0.981,528,Nomad Camp / Ambassador,4/3
+Level +2,2.000 ± 0.905,529,Salvager / Village,4/3
+Level +2,2.001 ± 0.908,530,Monument / Swindler,4/3
+Level +2,2.496 ± 1.410,531,Tunnel / Chapel,3/2
+Level +2,2.142 ± 1.060,532,Navigator / Chapel,4/2
+Level +2,1.985 ± 0.903,533,Laboratory / Lighthouse,5/2
+Level +2,2.036 ± 0.958,534,Tribute / Chapel,5/2
+Level +2,2.017 ± 0.940,535,Jester / Embargo,5/2
+Level +2,1.985 ± 0.909,536,Smithy / Loan,4/3
+Level +2,2.179 ± 1.105,537,Village / Chapel,3/2
+Level +2,1.981 ± 0.908,538,Torturer,5/-
+Level +2,1.977 ± 0.909,539,Bridge / Ambassador,4/3
+Level +2,2.180 ± 1.117,540,Treasury / Nomad Camp,5/4
+Level +2,1.986 ± 0.925,541,Governor / Pawn,5/2
+Level +2,1.990 ± 0.941,542,Vault / Haven,5/2
+Level +2,1.954 ± 0.909,543,Bishop / Scheme,4/3
+Level +2,2.452 ± 1.407,544,Remake / Pearl Diver,4/2
+Level +2,1.952 ± 0.909,545,Walled Village / Steward,4/3
+Level +2,1.956 ± 0.914,546,Minion / Pawn,5/2
+Level +2,2.000 ± 0.958,547,Sea Hag / Moat,4/2
+Level +2,1.947 ± 0.911,548,Remake / Lookout,4/3
+Level +2,1.939 ± 0.912,549,Remodel / Ambassador,4/3
+Level +2,2.057 ± 1.038,550,Salvager / Wishing Well,4/3
+Level +2,1.930 ± 0.911,551,Treasury / Pawn,5/2
+Level +2,1.955 ± 0.940,552,Nomad Camp / Chapel,4/2
+Level +2,2.104 ± 1.093,553,Vault / Fool's Gold,5/2
+Level +2,1.940 ± 0.931,554,Tactician / Crossroads,5/2
+Level +2,1.909 ± 0.903,555,Trader / Silver,4/3
+Level +2,2.097 ± 1.091,556,Jack of All Trades / Wishing Well,4/3
+Level +2,1.926 ± 0.923,557,Island / Lighthouse,4/2
+Level +2,1.903 ± 0.901,558,Monument / Silver,4/3
+Level +1,1.955 ± 0.959,559,Tactician / Fool's Gold,5/2
+Level +1,2.056 ± 1.061,560,Sea Hag / Crossroads,4/2
+Level +1,1.893 ± 0.907,561,Militia / Swindler,4/3
+Level +1,1.920 ± 0.941,562,Ghost Ship / Haven,5/2
+Level +1,1.883 ± 0.906,563,Apprentice,5/-
+Level +1,1.883 ± 0.906,564,Caravan / Develop,4/3
+Level +1,1.917 ± 0.941,565,Margrave / Native Village,5/2
+Level +1,1.881 ± 0.912,566,Remake / Watchtower,4/3
+Level +1,1.874 ± 0.907,567,Bishop / Silver,4/3
+Level +1,2.788 ± 1.824,568,Mandarin / Trading Post,5/5
+Level +1,1.886 ± 0.924,569,Envoy / Chapel,4/2
+Level +1,1.866 ± 0.906,570,Cutpurse / Lookout,4/3
+Level +1,2.256 ± 1.296,571,Lookout / Steward,3/3
+Level +1,2.320 ± 1.361,572,Masquerade,3/-
+Level +1,1.868 ± 0.911,573,Young Witch / Smugglers,4/3
+Level +1,2.818 ± 1.862,574,Loan / Chapel,3/2
+Level +1,2.029 ± 1.075,575,Embassy / Lighthouse,5/2
+Level +1,1.869 ± 0.918,576,Treasure Map / Swindler,4/3
+Level +1,1.904 ± 0.958,577,Haggler / Pearl Diver,5/2
+Level +1,1.863 ± 0.918,578,Governor / Hamlet,5/2
+Level +1,2.056 ± 1.115,579,Jack of All Trades / Oracle,4/3
+Level +1,2.018 ± 1.079,580,Hunting Party / Fool's Gold,5/2
+Level +1,4.232 ± 3.295,581,Nomad Camp / Chapel / Haven,4/2/2002
+Level +1,1.923 ± 0.987,582,Steward / Village,3/3
+Level +1,1.845 ± 0.909,583,Ironworks / Masquerade,4/3
+Level +1,1.933 ± 0.997,584,Ambassador / Black Market,3/3
+Level +1,2.265 ± 1.331,585,Oasis / Steward,3/3
+Level +1,1.825 ± 0.905,586,Swindler / Swindler,3/3
+Level +1,2.085 ± 1.166,587,Noble Brigand / Chapel,4/2
+Level +1,3.035 ± 2.117,588,Inn / Ambassador,5/3
+Level +1,1.828 ± 0.917,589,Caravan / Fortune Teller,4/3
+Level +1,1.902 ± 0.995,590,Jester / Fool's Gold,5/2
+Level +1,1.825 ± 0.918,591,Treasury / Embargo,5/2
+Level +1,1.933 ± 1.028,592,Trader / Fortune Teller,4/3
+Level +1,1.823 ± 0.922,593,Throne Room / Swindler,4/3
+Level +1,1.969 ± 1.069,594,Sea Hag / Wishing Well,4/3
+Level +1,1.820 ± 0.921,595,Upgrade / Native Village,5/2
+Level +1,1.885 ± 0.990,596,Library / Hamlet,5/2
+Level +1,1.803 ± 0.908,597,Ill-Gotten Gains,5/-
+Level +1,1.888 ± 0.994,598,Loan / Swindler,3/3
+Level +1,1.877 ± 0.984,599,Nomad Camp / Masquerade,4/3
+Level +1,1.798 ± 0.908,600,Moneylender / Oasis,4/3
+Level +1,1.795 ± 0.906,601,Smithy / Chapel,4/2
+Level +1,1.784 ± 0.904,602,Smithy / Silver,4/3
+Level +1,1.783 ± 0.905,603,Remodel / Loan,4/3
+Level +1,1.781 ± 0.905,604,Baron / Chapel,4/2
+Level +1,2.144 ± 1.269,605,Sea Hag / Pawn,4/2
+Level +1,1.872 ± 0.999,606,Vault / Moat,5/2
+Level +1,1.775 ± 0.905,607,Potion / Steward,4/3
+Level +1,2.703 ± 1.845,608,Ambassador / Moat,3/2
+Level +1,1.768 ± 0.911,609,Mining Village / Swindler,4/3
+Level +1,1.771 ± 0.917,610,Envoy / Loan,4/3
+Level +1,1.755 ± 0.901,611,Remake / Shanty Town,4/3
+Level +1,1.757 ± 0.905,612,Island / Silver,4/3
+Level +1,1.818 ± 0.969,613,Haggler / Courtyard,5/2
+Level +1,1.981 ± 1.131,614,Warehouse / Chapel,3/2
+Level +1,1.750 ± 0.901,615,Remake / Steward,4/3
+Level +1,1.753 ± 0.917,616,Moneylender / Crossroads,4/2
+Level +1,1.764 ± 0.928,617,Monument / Menagerie,4/3
+Level +1,1.739 ± 0.906,618,Bishop / Swindler,4/3
+Level +1,1.747 ± 0.916,619,Mine / Hamlet,5/2
+Level +1,1.770 ± 0.942,620,Ghost Ship / Hamlet,5/2
+Level +1,2.068 ± 1.251,621,Inn / Tunnel,5/3
+Level +1,1.865 ± 1.048,622,Black Market / Masquerade,3/3
+Level +1,1.722 ± 0.907,623,Bishop / Steward,4/3
+Level +1,1.744 ± 0.934,624,Market / Fool's Gold,5/2
+Level +1,1.879 ± 1.074,625,Ill-Gotten Gains / Embargo,5/2
+Level +1,1.743 ± 0.940,626,Apprentice / Moat,5/2
+Level +1,1.828 ± 1.026,627,Royal Seal / Moat,5/2
+Level +1,1.713 ± 0.912,628,Talisman / Ambassador,4/3
+Level +1,1.707 ± 0.912,629,Laboratory / Courtyard,5/2
+Level +1,1.715 ± 0.921,630,Jester / Cellar,5/2
+Level +1,1.727 ± 0.936,631,Cutpurse / Warehouse,4/3
+Level +1,3.303 ± 2.521,632,Chapel / Pawn,2/2
+Level +1,1.691 ± 0.909,633,Cutpurse / Steward,4/3
+Level +1,1.688 ± 0.908,634,Conspirator / Steward,4/3
+Level +1,1.836 ± 1.056,635,Ill-Gotten Gains / Chapel,5/2
+Level +1,1.680 ± 0.903,636,Salvager / Warehouse,4/3
+Level +1,1.904 ± 1.136,637,Remake / Pawn,4/2
+Level +1,1.683 ± 0.916,638,Ghost Ship / Lighthouse,5/2
+Level +1,2.806 ± 2.045,639,Young Witch / Duchess,4/2
+Level +1,1.692 ± 0.930,640,Young Witch / Workshop,4/3
+Level +1,1.774 ± 1.015,641,Envoy / Crossroads,4/2
+Level +1,1.691 ± 0.934,642,Margrave / Hamlet,5/2
+Level +1,1.676 ± 0.923,643,Horse Traders / Fool's Gold,4/2
+Level +1,1.651 ± 0.903,644,Baron / Masquerade,4/3
+Level +1,1.697 ± 0.950,645,Torturer / Courtyard,5/2
+Level +1,1.648 ± 0.904,646,Tactician / Lighthouse,5/2
+Level +1,1.653 ± 0.909,647,Mine / Cellar,5/2
+Level +1,1.900 ± 1.157,648,Young Witch / Cellar,4/2
+Level +1,1.782 ± 1.042,649,Laboratory / Nomad Camp,5/4
+Level +1,1.657 ± 0.919,650,Caravan / Warehouse,4/3
+Level +1,1.819 ± 1.082,651,Baron / Haven,4/2
+Level +1,1.636 ± 0.900,652,Salvager / Steward,4/3
+Level +1,1.654 ± 0.918,653,Salvager / Oasis,4/3
+Level +1,1.910 ± 1.182,654,Jack of All Trades / Cellar,4/2
+Level +1,1.762 ± 1.036,655,Sea Hag / Woodcutter,4/3
+Level +1,1.807 ± 1.086,656,Envoy / Fool's Gold,4/2
+Level +1,1.664 ± 0.943,657,Governor / Pearl Diver,5/2
+Level +1,2.200 ± 1.480,658,Fishing Village / Oracle,3/3
+Level +1,1.627 ± 0.908,659,Moneylender / Swindler,4/3
+Level +1,1.654 ± 0.935,660,Haggler / Pawn,5/2
+Level +1,1.624 ± 0.908,661,Tournament / Silver,4/3
+Level +1,1.626 ± 0.915,662,Silver / Courtyard,3/2
+Level +1,1.614 ± 0.905,663,Smithy / Steward,4/3
+Level +1,1.613 ± 0.904,664,Salvager / Shanty Town,4/3
+Level +1,1.609 ± 0.902,665,Vault,5/-
+Level +1,1.614 ± 0.908,666,Quarry / Swindler,4/3
+Level +1,1.645 ± 0.940,667,Torturer / Pearl Diver,5/2
+Level +1,1.613 ± 0.908,668,Cutpurse / Loan,4/3
+Level +1,1.649 ± 0.944,669,Governor / Moat,5/2
+Level +1,1.610 ± 0.907,670,Baron / Swindler,4/3
+Level +1,2.069 ± 1.367,671,Sea Hag / Chancellor,4/3
+Level +1,1.780 ± 1.079,672,Envoy / Hamlet,4/2
+Level +1,1.661 ± 0.973,673,Haggler / Embargo,5/2
+Level +1,1.589 ± 0.908,674,Wharf / Haven,5/2
+Level +1,1.836 ± 1.155,675,Treasury / Duchess,5/2
+Level +1,1.980 ± 1.303,676,Torturer / Nomad Camp,5/4
+Level +1,1.603 ± 0.926,677,Vault / Hamlet,5/2
+Level +1,1.940 ± 1.266,678,Venture / Embargo,5/2
+Level +1,1.623 ± 0.951,679,Ghost Ship / Embargo,5/2
+Level +1,1.792 ± 1.120,680,Develop / Fishing Village,3/3
+Level +1,1.627 ± 0.963,681,Trader / Lighthouse,4/2
+Level +1,1.577 ± 0.918,682,Conspirator / Loan,4/3
+Level +1,1.565 ± 0.906,683,Monument / Scheme,4/3
+Level +1,1.894 ± 1.241,684,Navigator / Masquerade,4/3
+Level +1,1.557 ± 0.907,685,Remodel / Swindler,4/3
+Level +1,1.872 ± 1.224,686,Inn / Chapel,5/2
+Level +1,1.560 ± 0.913,687,Remodel / Masquerade,4/3
+Level +1,1.552 ± 0.907,688,Cutpurse / Fishing Village,4/3
+Level +1,1.788 ± 1.143,689,Apprentice / Duchess,5/2
+Level +1,1.572 ± 0.930,690,Ghost Ship / Native Village,5/2
+Level +1,1.542 ± 0.905,691,Island / Fishing Village,4/3
+Level +1,1.568 ± 0.933,692,Merchant Ship / Crossroads,5/2
+Level +1,1.552 ± 0.919,693,Mine / Pearl Diver,5/2
+Level +1,1.534 ± 0.901,694,Moneylender / Silver,4/3
+Level +1,1.531 ± 0.902,695,Treasure Map / Steward,4/3
+Level +1,1.543 ± 0.916,696,Upgrade / Cellar,5/2
+Level +1,1.979 ± 1.353,697,Library / Fool's Gold,5/2
+Level +1,2.648 ± 2.023,698,Masquerade / Native Village,3/2
+Level +1,2.418 ± 1.794,699,Ambassador / Trade Route,3/3
+Level +1,1.548 ± 0.924,700,Torturer / Cellar,5/2
+Level +1,1.582 ± 0.958,701,Shanty Town / Steward,3/3
+Level +1,1.524 ± 0.902,702,Moneylender / Lighthouse,4/2
+Level +1,1.536 ± 0.917,703,Sea Hag / Black Market,4/3
+Level +1,1.530 ± 0.912,704,Militia / Fishing Village,4/3
+Level +1,1.532 ± 0.915,705,Sea Hag / Smugglers,4/3
+Level +1,1.518 ± 0.906,706,Bishop / Village,4/3
+Level +1,1.526 ± 0.920,707,Bridge / Native Village,4/2
+Level +1,1.562 ± 0.958,708,Spice Merchant / Fortune Teller,4/3
+Level +1,1.699 ± 1.099,709,Ghost Ship / Fool's Gold,5/2
+Level +1,1.754 ± 1.159,710,Woodcutter / Chapel,3/2
+Level +1,1.500 ± 0.906,711,Ironworks / Swindler,4/3
+Level +1,1.495 ± 0.905,712,Embassy,5/-
+Level +1,1.491 ± 0.902,713,Bishop / Shanty Town,4/3
+Level +1,1.563 ± 0.977,714,Treasure Map / Courtyard,4/2
+Level +1,1.513 ± 0.930,715,Haggler / Native Village,5/2
+Level +1,1.483 ± 0.901,716,Spice Merchant / Silver,4/3
+Level +1,1.490 ± 0.913,717,Militia / Scheme,4/3
+Level +1,1.643 ± 1.068,718,Explorer / Haven,5/2
+Level +1,1.541 ± 0.967,719,Smugglers / Chapel,3/2
+Level +1,1.641 ± 1.069,720,Embassy / Native Village,5/2
+Level +1,1.719 ± 1.148,721,Ill-Gotten Gains / Pearl Diver,5/2
+Level +1,1.530 ± 0.960,722,Ghost Ship / Pearl Diver,5/2
+Level +1,1.521 ± 0.950,723,Trader / Great Hall,4/3
+Level +1,1.517 ± 0.948,724,Stables / Lighthouse,5/2
+Level +1,1.702 ± 1.134,725,Wharf / Nomad Camp,5/4
+Level +1,1.640 ± 1.077,726,Woodcutter / Fool's Gold,3/2
+Level +1,1.618 ± 1.061,727,Shanty Town / Swindler,3/3
+Level +1,2.340 ± 1.783,728,Ambassador / Great Hall,3/3
+Level +1,1.568 ± 1.013,729,Saboteur / Chapel,5/2
+Level +1,1.483 ± 0.930,730,Minion / Courtyard,5/2
+Level +1,1.650 ± 1.100,731,Salvager / Hamlet,4/2
+Level +1,1.476 ± 0.927,732,Stables / Crossroads,5/2
+Level +1,1.490 ± 0.943,733,Vault / Cellar,5/2
+Level +1,1.456 ± 0.912,734,Bridge / Fool's Gold,4/2
+Level +1,1.452 ± 0.913,735,Mine / Pawn,5/2
+Level +1,1.448 ± 0.909,736,Monument / Village,4/3
+Level +1,1.464 ± 0.928,737,Militia / Oasis,4/3
+Level +1,1.618 ± 1.082,738,Ill-Gotten Gains / Hamlet,5/2
+Level +1,1.439 ± 0.903,739,Horse Traders / Steward,4/3
+Level +1,1.643 ± 1.108,740,Tournament / Chancellor,4/3
+Level +1,1.439 ± 0.907,741,Bazaar / Lighthouse,5/2
+Level +1,1.439 ± 0.908,742,Trader / Warehouse,4/3
+Level +1,2.743 ± 2.214,743,Lookout / Chapel,3/2
+Level +1,1.551 ± 1.023,744,Ill-Gotten Gains / Crossroads,5/2
+Level +1,1.431 ± 0.906,745,Quarry / Loan,4/3
+Level +1,1.429 ± 0.907,746,Tournament / Fishing Village,4/3
+Level +1,1.474 ± 0.952,747,Monument / Fool's Gold,4/2
+Level +1,1.428 ± 0.905,748,Envoy / Silver,4/3
+Level +1,1.611 ± 1.093,749,Trade Route / Fool's Gold,3/2
+Level +1,1.598 ± 1.082,750,Young Witch / Native Village,4/2
+Level +1,1.427 ± 0.911,751,Treasury / Pearl Diver,5/2
+Level +1,1.445 ± 0.933,752,Jester / Moat,5/2
+Level +1,1.418 ± 0.908,753,Quarry / Trade Route,4/3
+Level +1,1.409 ± 0.902,754,Cutpurse / Silver,4/3
+Level +1,1.476 ± 0.971,755,Coppersmith / Masquerade,4/3
+Level +1,1.407 ± 0.903,756,Governor,5/-
+Level +1,1.405 ± 0.903,757,Horse Traders / Fishing Village,4/3
+Level +1,1.408 ± 0.907,758,Market / Lighthouse,5/2
+Level +1,1.698 ± 1.198,759,Swindler / Watchtower,3/3
+Level +1,1.410 ± 0.910,760,Feast / Swindler,4/3
+Level +1,1.911 ± 1.413,761,Sea Hag / Pearl Diver,4/2
+Level +1,1.423 ± 0.932,762,Monument / Crossroads,4/2
+Level +1,1.446 ± 0.958,763,Bureaucrat / Masquerade,4/3
+Level +1,1.772 ± 1.295,764,Embassy / Courtyard,5/2
+Level +1,1.379 ± 0.903,765,Smithy / Silver,4/3
+Level +1,1.412 ± 0.937,766,Vault / Native Village,5/2
+Level +1,1.388 ± 0.913,767,Moneylender / Menagerie,4/3
+Level +1,1.381 ± 0.910,768,Moneylender / Fool's Gold,4/2
+Level +1,2.238 ± 1.775,769,Nomad Camp / Sea Hag,4/4
+Level +1,1.364 ± 0.902,770,Mine,5/-
+Level +1,1.366 ± 0.908,771,Oasis / Tunnel,3/3
+Level +1,1.908 ± 1.454,772,Harvest / Crossroads,5/2
+Level +1,1.358 ± 0.906,773,Caravan / Trade Route,4/3
+Level +1,1.402 ± 0.952,774,Hunting Party / Pawn,5/2
+Level +1,1.361 ± 0.916,775,Merchant Ship / Hamlet,5/2
+Level +1,1.364 ± 0.927,776,Nomad Camp / Fool's Gold,4/2
+Level +1,2.248 ± 1.812,777,Fortune Teller / Lookout,3/3
+Level +1,1.592 ± 1.158,778,Bishop / Courtyard,4/2
+Level +1,1.339 ± 0.905,779,Feast / Steward,4/3
+Level +1,1.474 ± 1.042,780,Nomad Camp / Lighthouse / Lighthouse,4/2/2002
+Level +1,1.340 ± 0.908,781,Talisman / Chapel,4/2
+Level +1,2.533 ± 2.102,782,Inn / Masquerade,5/3
+Level +1,1.338 ± 0.907,783,Ironworks / Steward,4/3
+Level +1,1.592 ± 1.163,784,Scheme / Swindler,3/3
+Level +1,1.405 ± 0.978,785,Highway / Nomad Camp,5/4
+Level +1,3.469 ± 3.042,786,Masquerade / Courtyard,3/2
+Level +1,1.329 ± 0.904,787,Moneylender / Lookout,4/3
+Level +1,1.333 ± 0.909,788,Wharf / Pearl Diver,5/2
+Level +1,3.313 ± 2.891,789,Masquerade / Cellar,3/2
+Level +1,2.129 ± 1.717,790,Masquerade / Crossroads,3/2
+Level +1,1.475 ± 1.065,791,Rabble / Fool's Gold,5/2
+Level +1,1.338 ± 0.928,792,Sea Hag / Workshop,4/3
+Level +1,1.412 ± 1.004,793,Ghost Ship / Courtyard,5/2
+Level +1,1.806 ± 1.399,794,Vault / Duchess,5/2
+Level +1,1.334 ± 0.927,795,Tournament / Oasis,4/3
+Level +1,1.304 ± 0.910,796,Wharf / Embargo,5/2
+Level +1,1.314 ± 0.925,797,Cutpurse / Swindler,4/3
+Level +1,1.296 ± 0.907,798,Trader / Oasis,4/3
+Level +1,1.405 ± 1.017,799,Navigator / Lookout,4/3
+Level +1,1.291 ± 0.905,800,Spice Merchant / Fishing Village,4/3
+Level +1,1.516 ± 1.130,801,Venture / Lighthouse,5/2
+Level +1,1.344 ± 0.958,802,Remodel / Lighthouse,4/2
+Level +1,1.432 ± 1.049,803,Trader / Wishing Well,4/3
+Level +1,1.304 ± 0.923,804,Torturer / Moat,5/2
+Level +1,1.311 ± 0.933,805,Tactician / Secret Chamber,5/2
+Level +1,1.818 ± 1.441,806,Sea Hag / Oracle,4/3
+Level +1,1.279 ± 0.910,807,Spice Merchant / Black Market,4/3
+Level +1,1.279 ± 0.910,808,Treasury / Native Village,5/2
+Level +1,1.277 ± 0.912,809,Merchant Ship / Haven,5/2
+Level +1,1.279 ± 0.916,810,Trader / Lookout,4/3
+Level +1,1.280 ± 0.920,811,Spy / Swindler,4/3
+Level +1,2.722 ± 2.362,812,Masquerade / Pawn,3/2
+Level +1,1.721 ± 1.364,813,Cache / Courtyard,5/2
+Level +1,1.314 ± 0.961,814,Ghost Ship / Pawn,5/2
+Level +1,1.275 ± 0.923,815,Minion / Haven,5/2
+Level +1,1.282 ± 0.933,816,Remake / Great Hall,4/3
+Level +1,1.755 ± 1.410,817,Swindler / Trade Route,3/3
+Level +1,1.257 ± 0.916,818,Treasury / Hamlet,5/2
+Level +1,1.237 ± 0.900,819,Caravan / Lookout,4/3
+Level +1,1.240 ± 0.907,820,Potion / Warehouse,4/3
+Level +1,1.236 ± 0.904,821,Baron / Warehouse,4/3
+Level +1,1.233 ± 0.904,822,Horse Traders / Swindler,4/3
+Level +1,2.174 ± 1.845,823,Masquerade / Watchtower,3/3
+Level +1,1.325 ± 1.001,824,Treasury / Fool's Gold,5/2
+Level +1,1.231 ± 0.910,825,Baron / Fool's Gold,4/2
+Level +1,1.226 ± 0.907,826,Festival / Courtyard,5/2
+Level +1,1.227 ± 0.908,827,Young Witch / Black Market,4/3
+Level +1,1.223 ± 0.908,828,Baron / Ambassador,4/3
+Level +1,1.594 ± 1.278,829,Navigator / Swindler,4/3
+Level +1,1.343 ± 1.029,830,Smithy / Fool's Gold,4/2
+Level +1,1.242 ± 0.928,831,Conspirator / Scheme,4/3
+Level +1,1.376 ± 1.063,832,Merchant Ship / Fool's Gold,5/2
+Level +1,1.351 ± 1.038,833,Remake / Native Village,4/2
+Level +1,1.257 ± 0.944,834,Rabble / Crossroads,5/2
+Level +1,1.218 ± 0.906,835,Quarry / Lookout,4/3
+Level +1,1.217 ± 0.908,836,Envoy / Steward,4/3
+Level +1,1.951 ± 1.642,837,Jack of All Trades / Pearl Diver,4/2
+Level +1,1.312 ± 1.005,838,Sea Hag / Great Hall,4/3
+Level +1,1.689 ± 1.383,839,Fishing Village / Fortune Teller,3/3
+Level +1,1.243 ± 0.940,840,Vault / Pawn,5/2
+Level +1,1.217 ± 0.916,841,Ironworks / Fool's Gold,4/2
+Level +1,1.201 ± 0.904,842,Envoy / Shanty Town,4/3
+Level +1,1.310 ± 1.019,843,Embassy / Hamlet,5/2
+Level +1,1.191 ± 0.905,844,Trader / Loan,4/3
+Level +1,1.185 ± 0.900,845,Trader / Shanty Town,4/3
+Level +1,1.182 ± 0.903,846,Envoy / Village,4/3
+Level +1,1.190 ± 0.915,847,Spice Merchant / Lookout,4/3
+Level +1,1.369 ± 1.097,848,Mountebank / Estate,5/2
+Level +1,1.179 ± 0.907,849,Bridge / Fishing Village,4/3
+Level +1,1.177 ± 0.906,850,Militia / Shanty Town,4/3
+Level +1,1.714 ± 1.443,851,Steward / Hamlet,3/2
+Level +1,1.195 ± 0.927,852,Spice Merchant / Trade Route,4/3
+Level +1,1.196 ± 0.929,853,Bureaucrat / Ambassador,4/3
+Level +1,1.460 ± 1.194,854,Embassy / Embargo,5/2
+Level +1,1.166 ± 0.903,855,Moneylender / Scheme,4/3
+Level +1,1.178 ± 0.921,856,Remake / Fortune Teller,4/3
+Level +1,1.642 ± 1.386,857,Harvest / Lighthouse,5/2
+Level +1,1.160 ± 0.906,858,Bishop / Oasis,4/3
+Level +1,1.186 ± 0.936,859,Tournament / Scheme,4/3
+Level +1,1.189 ± 0.939,860,Mine / Embargo,5/2
+Level +1,1.155 ± 0.906,861,Baron / Fishing Village,4/3
+Level +1,1.179 ± 0.935,862,Remake / Woodcutter,4/3
+Level +1,1.150 ± 0.909,863,Worker's Village / Swindler,4/3
+Level +1,1.162 ± 0.923,864,Island / Oasis,4/3
+Level +1,1.638 ± 1.399,865,Island / Courtyard,4/2
+Level +1,1.156 ± 0.917,866,Rabble / Lighthouse,5/2
+Level +1,1.146 ± 0.908,867,Trader / Steward,4/3
+Level +1,1.361 ± 1.124,868,Tactician / Nomad Camp,5/4
+Level +1,1.154 ± 0.917,869,Remake,4/-
+Level +1,1.148 ± 0.912,870,Bazaar / Moat,5/2
+Level +1,1.150 ± 0.916,871,Treasure Map / Haven,4/2
+Level +1,2.409 ± 2.176,872,Masquerade / Embargo,3/2
+Level +1,1.818 ± 1.588,873,Lookout / Lighthouse,3/2
+Level +1,1.132 ± 0.902,874,Bishop / Warehouse,4/3
+Level +1,1.403 ± 1.173,875,Jack of All Trades / Pawn,4/2
+Level +1,1.411 ± 1.185,876,Trading Post / Copper,5/0
+Level +1,1.136 ± 0.911,877,Laboratory / Pawn,5/2
+Level +1,1.127 ± 0.902,878,Monument / Shanty Town,4/3
+Level +1,1.132 ± 0.908,879,Trader / Village,4/3
+Level +1,1.206 ± 0.985,880,Apprentice / Crossroads,5/2
+Level +1,1.148 ± 0.930,881,Sea Hag,4/-
+Level +1,1.118 ± 0.902,882,Margrave,5/-
+Level +1,1.119 ± 0.903,883,Remodel / Steward,4/3
+Level +1,1.208 ± 0.992,884,Stables / Courtyard,5/2
+Level +1,1.204 ± 0.990,885,Young Witch / Hamlet,4/2
+Level +1,1.552 ± 1.338,886,Trader / Embargo,4/2
+Level +1,1.143 ± 0.933,887,Militia / Menagerie,4/3
+Level +1,1.587 ± 1.378,888,Stash / Courtyard,5/2
+Level +1,1.244 ± 1.038,889,Hunting Party / Secret Chamber,5/2
+Level +1,1.184 ± 0.984,890,Cutpurse / Scheme,4/3
+Level +1,1.781 ± 1.583,891,Remodel / Haven,4/2
+Level +1,1.168 ± 0.974,892,Militia / Fool's Gold,4/2
+Level +1,1.557 ± 1.368,893,Fishing Village / Lighthouse,3/2
+Level +1,1.189 ± 1.001,894,Stables / Haven,5/2
+Level +1,1.095 ± 0.910,895,Silver / Warehouse,3/3
+Level +1,1.724 ± 1.540,896,Fortune Teller / Loan,3/3
+Level +1,1.169 ± 0.986,897,Hunting Party / Moat,5/2
+Level +1,1.194 ± 1.018,898,Monument / Wishing Well,4/3
+Level +1,1.111 ± 0.936,899,Tournament / Menagerie,4/3
+Level +1,1.091 ± 0.918,900,Spy / Steward,4/3
+Level +1,1.086 ± 0.914,901,Monument / Develop,4/3
+Level +1,1.406 ± 1.234,902,Minion / Duchess,5/2
+Level +1,1.059 ± 0.903,903,Hunting Party,5/-
+Level +1,1.070 ± 0.915,904,Conspirator / Warehouse,4/3
+Level +1,1.415 ± 1.260,905,Hunting Party / Duchess,5/2
+Level +1,1.113 ± 0.975,906,Jack of All Trades / Crossroads,4/2
+Level +1,1.210 ± 1.072,907,Sea Hag / Cellar,4/2
+Level +1,1.082 ± 0.945,908,Spice Merchant / Crossroads,4/2
+Level +1,1.042 ± 0.905,909,Navigator / Silver,4/3
+Level +1,1.043 ± 0.907,910,Ghost Ship,5/-
+Level +1,1.065 ± 0.930,911,Tournament / Woodcutter,4/3
+Level +1,1.101 ± 0.968,912,Margrave / Haven,5/2
+Level +1,1.039 ± 0.908,913,Remodel / Lookout,4/3
+Level +1,1.046 ± 0.916,914,Merchant Ship / Cellar,5/2
+Level +1,1.070 ± 0.943,915,Bureaucrat / Swindler,4/3
+Level +1,1.064 ± 0.945,916,Tournament / Lighthouse,4/2
+Level +1,1.292 ± 1.172,917,Embassy / Pearl Diver,5/2
+Level +1,1.019 ± 0.907,918,Moneylender / Village,4/3
+Level +1,1.333 ± 1.221,919,Jester / Nomad Camp,5/4
+Level +1,1.016 ± 0.906,920,Fool's Gold / Fool's Gold,2/2
+Level +1,1.047 ± 0.938,921,Festival / Fool's Gold,5/2
+Level +1,1.159 ± 1.051,922,Trader / Oracle,4/3
+Level +1,1.029 ± 0.923,923,Laboratory / Embargo,5/2
+Level +1,1.041 ± 0.937,924,Salvager / Watchtower,4/3
+Level +1,1.184 ± 1.086,925,Sea Hag / Native Village,4/2
+Level +1,1.005 ± 0.908,926,Moneylender / Develop,4/3
+Level +1,1.074 ± 0.981,927,Spice Merchant / Menagerie,4/3
+Level +1,0.996 ± 0.906,928,Potion / Shanty Town,4/3
+Level +1,1.112 ± 1.024,929,Stables / Embargo,5/2
+Level +1,1.083 ± 0.994,930,Monument / Native Village,4/2
+Level +1,0.990 ± 0.905,931,Minion,5/-
+Level +1,1.073 ± 0.988,932,Hunting Party / Pearl Diver,5/2
+Level +1,0.988 ± 0.905,933,Spice Merchant / Oasis,4/3
+Level +1,1.021 ± 0.940,934,Council Room / Crossroads,5/2
+Level +1,0.986 ± 0.906,935,Feast / Fishing Village,4/3
+Level +1,1.164 ± 1.086,936,Outpost / Chapel,5/2
+Level +1,1.010 ± 0.934,937,Haggler / Cellar,5/2
+Level +1,1.141 ± 1.069,938,Island / Wishing Well,4/3
+Level +1,0.970 ± 0.901,939,Island / Lookout,4/3
+Level +1,0.965 ± 0.904,940,Feast / Lookout,4/3
+Level +1,1.824 ± 1.763,941,Apprentice / Mandarin,5/5
+Level +1,0.975 ± 0.915,942,Militia / Village,4/3
+Level +1,0.960 ± 0.901,943,Treasury,5/-
+Level +1,1.159 ± 1.099,944,Stables / Nomad Camp,5/4
+Level +1,0.961 ± 0.905,945,Caravan / Silver,4/3
+Level +1,1.724 ± 1.668,946,Develop / Shanty Town,3/3
+Level +1,1.201 ± 1.146,947,Ill-Gotten Gains / Native Village,5/2
+Level +1,0.952 ± 0.903,948,Haggler,5/-
+Level +1,0.957 ± 0.908,949,Wharf / Pawn,5/2
+Level +1,0.951 ± 0.907,950,Remodel / Fishing Village,4/3
+Level +1,1.255 ± 1.213,951,Loan / Shanty Town,3/3
+Level +1,0.939 ± 0.901,952,Trader / Fishing Village,4/3
+Level +1,0.957 ± 0.919,953,Merchant Ship / Pawn,5/2
+Level +1,0.965 ± 0.929,954,Minion / Pearl Diver,5/2
+Level +1,0.953 ± 0.924,955,Tactician / Courtyard,5/2
+Level +1,0.995 ± 0.967,956,Jack of All Trades / Trade Route,4/3
+Level +1,1.021 ± 0.998,957,Fishing Village / Loan,3/3
+Level +1,0.925 ± 0.903,958,Horse Traders / Loan,4/3
+Level +1,0.943 ± 0.923,959,Rabble / Native Village,5/2
+Level +1,1.097 ± 1.081,960,Workshop / Chapel,3/2
+Level +1,0.949 ± 0.934,961,Smithy / Swindler,4/3
+Level +1,0.917 ± 0.905,962,Caravan / Workshop,4/3
+Level +1,0.916 ± 0.904,963,Silver / Silver,3/3
+Level +1,0.918 ± 0.906,964,Militia / Lighthouse,4/2
+Level +1,0.918 ± 0.906,965,Remake / Black Market,4/3
+Level +1,0.950 ± 0.938,966,Apprentice / Native Village,5/2
+Level +1,0.919 ± 0.908,967,Lookout / Lookout,3/3
+Level +1,1.152 ± 1.142,968,Embassy / Pawn,5/2
+Level +1,0.943 ± 0.939,969,Bishop / Hamlet,4/2
+Level +1,7.728 ± 7.726,970,Nomad Camp / Fishing Village / Cellar,4/3/2002
+Level +1,0.905 ± 0.904,971,Caravan / Loan,4/3
+Level +1,1.619 ± 1.618,972,Ambassador / Native Village,3/2
+Level -1,-1.277 ± 1.275,,Cache / Hamlet,5/2
+Level -1,-2.911 ± 2.907,,Smugglers / Cellar,3/2
+Level -1,-1.360 ± 1.355,,Smithy / Wishing Well,4/3
+Level -1,-1.010 ± 1.004,,Spy / Lookout,4/3
+Level -1,-1.138 ± 1.127,,Vault / Estate,5/2
+Level -1,-1.962 ± 1.950,,Cutpurse / Cellar,4/2
+Level -1,-1.134 ± 1.121,,Coppersmith / Menagerie,4/3
+Level -1,-1.407 ± 1.392,,Stash / Hamlet,5/2
+Level -1,-2.165 ± 2.147,,Spice Merchant / Herbalist,4/2
+Level -1,-1.596 ± 1.573,,Conspirator / Pearl Diver,4/2
+Level -1,-1.164 ± 1.139,,Envoy / Tunnel,4/3
+Level -1,-1.101 ± 1.075,,Envoy / Great Hall,4/3
+Level -1,-1.664 ± 1.638,,Nomad Camp / Oracle,4/3
+Level -1,-1.218 ± 1.191,,Potion / Duchess,4/2
+Level -1,-1.035 ± 1.007,,Quarry / Wishing Well,4/3
+Level -1,-0.948 ± 0.916,,Worker's Village / Black Market,4/3
+Level -1,-0.947 ± 0.911,,Farming Village / Fishing Village,4/3
+Level -1,-1.632 ± 1.594,,Highway / Mandarin,5/5
+Level -1,-0.945 ± 0.907,,Farming Village / Smugglers,4/3
+Level -1,-1.094 ± 1.052,,Bureaucrat / Develop,4/3
+Level -1,-3.349 ± 3.306,,Fishing Village / Pearl Diver,3/2
+Level -1,-0.951 ± 0.906,,Potion / Smugglers,4/3
+Level -1,-2.645 ± 2.600,,Harvest / Duchess,5/2
+Level -1,-0.960 ± 0.913,,Mining Village / Black Market,4/3
+Level -1,-2.490 ± 2.441,,Militia / Copper,4/0
+Level -1,-2.376 ± 2.326,,Spice Merchant / Secret Chamber,4/2
+Level -1,-1.643 ± 1.591,,Island / Pearl Diver,4/2
+Level -1,-0.963 ± 0.910,,Talisman / Warehouse,4/3
+Level -1,-0.981 ± 0.927,,Bridge / Develop,4/3
+Level -1,-1.030 ± 0.975,,Island / Crossroads,4/2
+Level -1,-1.157 ± 1.102,,Coppersmith / Lighthouse,4/2
+Level -1,-1.093 ± 1.038,,Contraband / Native Village,5/2
+Level -1,-1.425 ± 1.369,,Horn of Plenty / Haven,5/2
+Level -1,-0.975 ± 0.919,,Moneylender,4/-
+Level -1,-1.155 ± 1.096,,Caravan / Pawn,4/2
+Level -1,-1.844 ± 1.782,,Envoy / Chancellor,4/3
+Level -1,-0.976 ± 0.912,,Ironworks / Workshop,4/3
+Level -1,-1.630 ± 1.565,,Trade Route / Village,3/3
+Level -1,-1.004 ± 0.938,,Treasure Map / Watchtower,4/3
+Level -1,-3.166 ± 3.098,,Black Market / Fortune Teller,3/3
+Level -1,-1.546 ± 1.478,,Bureaucrat / Native Village,4/2
+Level -1,-0.983 ± 0.915,,Market / Cellar,5/2
+Level -1,-1.015 ± 0.946,,Militia / Woodcutter,4/3
+Level -1,-2.083 ± 2.014,,Mandarin / Mine,5/5
+Level -1,-6.930 ± 6.860,,Scheme / Haven,3/2
+Level -1,-1.091 ± 1.020,,Horse Traders / Fortune Teller,4/3
+Level -1,-1.044 ± 0.974,,Rabble / Pearl Diver,5/2
+Level -1,-2.742 ± 2.669,,Navigator / Chancellor,4/3
+Level -1,-4.084 ± 4.010,,Workshop / Copper,3/0
+Level -1,-0.988 ± 0.914,,Mining Village / Fishing Village,4/3
+Level -1,-2.821 ± 2.746,,Smugglers / Wishing Well,3/3
+Level -1,-1.301 ± 1.227,,Conspirator / Watchtower,4/3
+Level -1,-1.726 ± 1.649,,Cutpurse / Embargo,4/2
+Level -1,-4.125 ± 4.046,,Cutpurse / Copper,4/0
+Level -1,-1.059 ± 0.976,,Quarry / Fool's Gold,4/2
+Level -1,-1.109 ± 1.025,,Cartographer / Crossroads,5/2
+Level -1,-1.382 ± 1.298,,Noble Brigand / Loan,4/3
+Level -1,-4.409 ± 4.323,,Menagerie / Crossroads,3/2
+Level -1,-1.610 ± 1.524,,Fishing Village / Tunnel,3/3
+Level -1,-0.994 ± 0.907,,Highway,5/-
+Level -1,-0.997 ± 0.907,,Horse Traders / Smugglers,4/3
+Level -1,-1.048 ± 0.957,,Walled Village / Loan,4/3
+Level -1,-1.686 ± 1.595,,Smithy / Pawn,4/2
+Level -1,-1.003 ± 0.910,,Loan / Loan,3/3
+Level -1,-2.219 ± 2.127,,Fishing Village / Hamlet,3/2
+Level -1,-1.603 ± 1.511,,Feast / Embargo,4/2
+Level -1,-1.012 ± 0.918,,Walled Village / Silver,4/3
+Level -1,-2.876 ± 2.781,,Mandarin / Moneylender,5/4
+Level -1,-2.081 ± 1.984,,Noble Brigand / Fortune Teller,4/3
+Level -1,-1.367 ± 1.269,,Black Market / Lighthouse,3/2
+Level -1,-1.006 ± 0.908,,Silver / Crossroads,3/2
+Level -1,-1.184 ± 1.085,,Smithy / Native Village,4/2
+Level -1,-1.384 ± 1.283,,Noble Brigand / Scheme,4/3
+Level -1,-1.597 ± 1.494,,Horse Traders / Oracle,4/3
+Level -1,-1.183 ± 1.079,,Outpost / Lighthouse,5/2
+Level -1,-5.789 ± 5.684,,Gardens / Loan,4/3
+Level -1,-4.851 ± 4.744,,Workshop / Haven,3/2
+Level -1,-4.010 ± 3.903,,Scout / Scheme,4/3
+Level -1,-1.407 ± 1.297,,Bridge / Courtyard,4/2
+Level -1,-1.109 ± 0.998,,Militia,4/-
+Level -1,-1.919 ± 1.804,,Noble Brigand / Watchtower,4/3
+Level -1,-5.763 ± 5.647,,Loan / Haven,3/2
+Level -1,-1.698 ± 1.581,,Rabble / Duchess,5/2
+Level -1,-1.464 ± 1.346,,Mandarin / Courtyard,5/2
+Level -1,-1.276 ± 1.156,,Ghost Ship / Herbalist,5/2
+Level -1,-1.487 ± 1.366,,Monument / Moat,4/2
+Level -1,-1.050 ± 0.929,,Spy / Fishing Village,4/3
+Level -1,-1.225 ± 1.104,,Black Market / Village,3/3
+Level -1,-1.035 ± 0.909,,Festival,5/-
+Level -1,-1.119 ± 0.992,,Quarry / Pawn,4/2
+Level -1,-1.799 ± 1.671,,Baron / Nomad Camp,4/4
+Level -1,-2.264 ± 2.136,,Smithy / Pearl Diver,4/2
+Level -1,-1.328 ± 1.197,,Navigator / Village,4/3
+Level -1,-1.092 ± 0.959,,Treasure Map / Woodcutter,4/3
+Level -1,-15.304 ± 15.169,,Secret Chamber / Copper,2/0
+Level -1,-2.327 ± 2.189,,Chancellor / Loan,3/3
+Level -1,-1.064 ± 0.923,,Salvager / Workshop,4/3
+Level -1,-1.115 ± 0.974,,Mining Village / Oasis,4/3
+Level -1,-1.072 ± 0.930,,Cutpurse / Black Market,4/3
+Level -1,-1.067 ± 0.925,,Smithy / Smugglers,4/3
+Level -1,-1.257 ± 1.114,,Mining Village / Chancellor,4/3
+Level -1,-1.318 ± 1.173,,Horse Traders / Wishing Well,4/3
+Level -1,-6.581 ± 6.435,,Scheme,3/-
+Level -1,-1.826 ± 1.679,,Noble Brigand / Trade Route,4/3
+Level -1,-2.228 ± 2.081,,Oracle / Oracle,3/3
+Level -1,-1.080 ± 0.930,,Market / Pearl Diver,5/2
+Level -1,-1.289 ± 1.136,,Cartographer / Cellar,5/2
+Level -1,-1.590 ± 1.436,,Nomad Camp / Pawn / Pawn,4/2/2002
+Level -1,-1.937 ± 1.781,,Envoy / Cellar,4/2
+Level -1,-9.745 ± 9.589,,Mandarin / Conspirator,5/4
+Level -1,-3.083 ± 2.926,,Inn / Oasis,5/3
+Level -1,-3.801 ± 3.644,,Scout / Courtyard,4/2
+Level -1,-1.203 ± 1.043,,Spy / Loan,4/3
+Level -1,-1.103 ± 0.943,,Worker's Village / Oasis,4/3
+Level -1,-2.595 ± 2.434,,Conspirator / Moat,4/2
+Level -1,-1.429 ± 1.268,,Horn of Plenty / Lighthouse,5/2
+Level -1,-2.051 ± 1.890,,Warehouse / Workshop,3/3
+Level -1,-1.561 ± 1.399,,Stash / Pearl Diver,5/2
+Level -1,-1.622 ± 1.457,,Stash / Native Village,5/2
+Level -1,-3.592 ± 3.426,,Black Market / Pearl Diver,3/2
+Level -1,-1.108 ± 0.940,,City / Pawn,5/2
+Level -1,-1.495 ± 1.327,,Inn / Moat,5/2
+Level -1,-1.219 ± 1.047,,Envoy / Workshop,4/3
+Level -1,-3.797 ± 3.623,,Farming Village / Duchess,4/2
+Level -1,-1.084 ± 0.907,,Cache,5/-
+Level -1,-1.091 ± 0.911,,Conspirator / Village,4/3
+Level -1,-7.448 ± 7.266,,Woodcutter / Estate,3/2
+Level -1,-1.338 ± 1.153,,Conspirator / Woodcutter,4/3
+Level -1,-2.968 ± 2.783,,Trader / Estate,4/2
+Level -1,-1.251 ± 1.063,,Tribute / Native Village,5/2
+Level -1,-1.133 ± 0.945,,Highway / Native Village,5/2
+Level -1,-1.099 ± 0.911,,Treasure Map / Cellar,4/2
+Level -1,-4.697 ± 4.503,,Silk Road / Shanty Town,4/3
+Level -1,-1.232 ± 1.038,,Coppersmith / Oasis,4/3
+Level -1,-1.408 ± 1.212,,Smithy / Tunnel,4/3
+Level -1,-2.872 ± 2.676,,Great Hall / Loan,3/3
+Level -1,-2.978 ± 2.782,,Scheme / Village,3/3
+Level -1,-1.854 ± 1.656,,Coppersmith / Haven,4/2
+Level -1,-1.104 ± 0.906,,Ironworks / Trade Route,4/3
+Level -1,-4.388 ± 4.187,,Tunnel / Duchess,3/2
+Level -1,-1.153 ± 0.951,,Mining Village / Warehouse,4/3
+Level -1,-2.679 ± 2.476,,Spy / Courtyard,4/2
+Level -1,-1.199 ± 0.994,,Horse Traders / Watchtower,4/3
+Level -1,-1.178 ± 0.971,,Council Room / Pearl Diver,5/2
+Level -1,-3.499 ± 3.290,,Noble Brigand / Moat,4/2
+Level -1,-3.426 ± 3.214,,Inn / Village,5/3
+Level -1,-1.505 ± 1.291,,Explorer / Secret Chamber,5/2
+Level -1,-1.129 ± 0.913,,Ironworks / Woodcutter,4/3
+Level -1,-1.559 ± 1.343,,Walled Village / Chancellor,4/3
+Level -1,-1.143 ± 0.925,,Caravan / Scheme,4/3
+Level -1,-3.175 ± 2.954,,Noble Brigand / Native Village,4/2
+Level -1,-1.472 ± 1.251,,Black Market / Trade Route,3/3
+Level -1,-1.131 ± 0.908,,Talisman / Lookout,4/3
+Level -1,-1.384 ± 1.161,,Library / Moat,5/2
+Level -1,-2.997 ± 2.773,,Trade Route / Woodcutter,3/3
+Level -1,-1.403 ± 1.179,,Worker's Village / Moat,4/2
+Level -1,-1.193 ± 0.967,,Tactician / Herbalist,5/2
+Level -1,-1.139 ± 0.912,,Market,5/-
+Level -1,-1.352 ± 1.122,,Quarry / Cellar,4/2
+Level -1,-2.624 ± 2.394,,Great Hall / Lighthouse,3/2
+Level -1,-5.803 ± 5.572,,Smugglers / Copper,3/0
+Level -1,-2.259 ± 2.026,,Militia / Herbalist,4/2
+Level -1,-2.229 ± 1.995,,Saboteur / Nomad Camp,5/4
+Level -1,-1.441 ± 1.207,,Throne Room / Fortune Teller,4/3
+Level -1,-3.855 ± 3.614,,Talisman / Duchess,4/2
+Level -1,-1.169 ± 0.927,,City / Lighthouse,5/2
+Level -1,-2.121 ± 1.876,,Trader / Herbalist,4/2
+Level -1,-5.484 ± 5.238,,Workshop / Secret Chamber,3/2
+Level -1,-1.154 ± 0.908,,Feast / Smugglers,4/3
+Level -1,-6.550 ± 6.303,,Wishing Well,3/-
+Level -1,-2.044 ± 1.796,,Smithy / Embargo,4/2
+Level -1,-1.220 ± 0.971,,Trader / Tunnel,4/3
+Level -1,-1.153 ± 0.903,,Baron / Smugglers,4/3
+Level -1,-1.174 ± 0.921,,Spice Merchant / Workshop,4/3
+Level -1,-1.499 ± 1.245,,Remodel / Native Village,4/2
+Level -1,-2.201 ± 1.947,,Spy / Hamlet,4/2
+Level -1,-1.286 ± 1.032,,Farming Village / Fool's Gold,4/2
+Level -1,-1.351 ± 1.095,,Nomad Camp / Walled Village,4/4
+Level -1,-1.165 ± 0.908,,Treasure Map / Workshop,4/3
+Level -1,-1.410 ± 1.152,,Navigator / Smugglers,4/3
+Level -1,-3.306 ± 3.047,,Black Market / Moat,3/2
+Level -1,-1.966 ± 1.707,,Feast / Pawn,4/2
+Level -1,-1.977 ± 1.711,,Nomad Camp / Hamlet,4/2
+Level -1,-1.188 ± 0.915,,Remake / Workshop,4/3
+Level -1,-1.253 ± 0.978,,Smithy / Woodcutter,4/3
+Level -1,-1.731 ± 1.456,,Cache / Estate,5/2
+Level -1,-2.072 ± 1.796,,Horse Traders / Moat,4/2
+Level -1,-1.194 ± 0.919,,Treasure Map / Fishing Village,4/3
+Level -1,-1.770 ± 1.494,,Remodel / Moat,4/2
+Level -1,-1.188 ± 0.908,,Remodel / Black Market,4/3
+Level -1,-1.381 ± 1.101,,Wharf / Copper,5/0
+Level -1,-1.349 ± 1.069,,Horse Traders / Woodcutter,4/3
+Level -1,-1.303 ± 1.019,,Quarry / Chancellor,4/3
+Level -1,-1.635 ± 1.351,,Stash / Cellar,5/2
+Level -1,-1.213 ± 0.928,,Bazaar / Native Village,5/2
+Level -1,-1.208 ± 0.922,,Worker's Village / Fishing Village,4/3
+Level -1,-2.769 ± 2.478,,Horse Traders / Herbalist,4/2
+Level -1,-1.481 ± 1.187,,Bridge / Pawn,4/2
+Level -1,-1.267 ± 0.969,,Treasure Map / Develop,4/3
+Level -1,-1.273 ± 0.973,,Island / Tunnel,4/3
+Level -1,-1.467 ± 1.166,,Saboteur / Courtyard,5/2
+Level -1,-1.739 ± 1.437,,Quarry / Pearl Diver,4/2
+Level -1,-1.819 ± 1.516,,Horse Traders / Chancellor,4/3
+Level -1,-1.236 ± 0.925,,Island / Great Hall,4/3
+Level -1,-8.867 ± 8.556,,Gardens / Wishing Well,4/3
+Level -1,-1.274 ± 0.960,,Remodel / Great Hall,4/3
+Level -1,-1.250 ± 0.932,,Potion / Pearl Diver,4/2
+Level -1,-1.886 ± 1.567,,Festival / Mandarin,5/5
+Level -1,-1.234 ± 0.914,,Monument / Workshop,4/3
+Level -1,-1.584 ± 1.263,,Farming Village / Wishing Well,4/3
+Level -1,-1.227 ± 0.906,,Ironworks / Smugglers,4/3
+Level -1,-10.007 ± 9.686,,Tunnel / Estate,3/2
+Level -1,-3.815 ± 3.493,,Gardens / Develop,4/3
+Level -1,-2.919 ± 2.596,,Horn of Plenty / Nomad Camp,5/4
+Level -1,-2.767 ± 2.443,,Black Market / Wishing Well,3/3
+Level -1,-1.743 ± 1.418,,Mandarin / Embargo,5/2
+Level -1,-1.868 ± 1.543,,Council Room / Duchess,5/2
+Level -1,-1.623 ± 1.296,,Navigator / Black Market,4/3
+Level -1,-2.700 ± 2.373,,Spy / Embargo,4/2
+Level -1,-1.239 ± 0.912,,Walled Village / Smugglers,4/3
+Level -1,-1.263 ± 0.934,,Farming Village / Watchtower,4/3
+Level -1,-3.065 ± 2.735,,Black Market / Pawn,3/2
+Level -1,-1.368 ± 1.035,,Bridge / Fortune Teller,4/3
+Level -1,-1.624 ± 1.288,,Counting House / Lighthouse,5/2
+Level -1,-3.514 ± 3.176,,Silk Road / Develop,4/3
+Level -1,-1.444 ± 1.105,,Contraband / Herbalist,5/2
+Level -1,-2.451 ± 2.111,,Ironworks / Copper,4/0
+Level -1,-1.351 ± 1.011,,Caravan / Hamlet,4/2
+Level -1,-1.252 ± 0.911,,Contraband,5/-
+Level -1,-1.438 ± 1.096,,Spice Merchant,4/-
+Level -1,-1.446 ± 1.104,,Ironworks / Embargo,4/2
+Level -1,-9.281 ± 8.935,,Oracle / Cellar,3/2
+Level -1,-3.076 ± 2.730,,Nomad Camp / Moat / Moat,4/2/2002
+Level -1,-2.724 ± 2.376,,Venture / Copper,5/0
+Level -1,-2.299 ± 1.947,,Oasis / Watchtower,3/3
+Level -1,-1.504 ± 1.153,,Remodel,4/-
+Level -1,-1.813 ± 1.461,,Royal Seal / Copper,5/0
+Level -1,-1.290 ± 0.938,,Walled Village / Trade Route,4/3
+Level -1,-1.360 ± 1.006,,Contraband / Cellar,5/2
+Level -1,-1.292 ± 0.937,,Spice Merchant / Tunnel,4/3
+Level -1,-1.265 ± 0.910,,Bishop / Workshop,4/3
+Level -1,-4.723 ± 4.367,,Village / Native Village,3/2
+Level -1,-1.476 ± 1.119,,Coppersmith / Develop,4/3
+Level -1,-1.404 ± 1.046,,Nomad Camp / Worker's Village,4/4
+Level -1,-2.366 ± 2.009,,Conspirator / Chancellor,4/3
+Level -1,-1.996 ± 1.639,,Counting House / Embargo,5/2
+Level -1,-1.295 ± 0.936,,Silver / Pawn,3/2
+Level -1,-2.218 ± 1.857,,Cutpurse / Chancellor,4/3
+Level -1,-1.485 ± 1.124,,Quarry / Embargo,4/2
+Level -1,-1.268 ± 0.905,,Potion / Workshop,4/3
+Level -1,-1.287 ± 0.924,,Bureaucrat / Village,4/3
+Level -1,-1.370 ± 1.001,,Pirate Ship / Wishing Well,4/3
+Level -1,-1.684 ± 1.314,,Mandarin / Pearl Diver,5/2
+Level -1,-1.412 ± 1.042,,Coppersmith / Lookout,4/3
+Level -1,-2.394 ± 2.023,,Bureaucrat / Pearl Diver,4/2
+Level -1,-2.438 ± 2.067,,Remake / Estate,4/2
+Level -1,-1.457 ± 1.085,,Margrave / Secret Chamber,5/2
+Level -1,-2.212 ± 1.839,,Noble Brigand / Woodcutter,4/3
+Level -1,-1.288 ± 0.912,,Potion / Village,4/3
+Level -1,-1.484 ± 1.107,,Caravan / Embargo,4/2
+Level -1,-3.851 ± 3.474,,Envoy / Copper,4/0
+Level -1,-11.401 ± 11.024,,Fortune Teller / Estate,3/2
+Level -1,-1.620 ± 1.242,,Thief / Swindler,4/3
+Level -1,-1.333 ± 0.954,,Quarry / Tunnel,4/3
+Level -1,-1.882 ± 1.499,,Smugglers / Trade Route,3/3
+Level -1,-1.294 ± 0.909,,Tribute,5/-
+Level -1,-3.239 ± 2.852,,Ironworks / Duchess,4/2
+Level -1,-1.542 ± 1.154,,Loan / Smugglers,3/3
+Level -1,-5.181 ± 4.790,,Watchtower / Haven,3/2
+Level -1,-1.782 ± 1.389,,Fishing Village / Village,3/3
+Level -1,-1.337 ± 0.941,,Spy / Black Market,4/3
+Level -1,-5.914 ± 5.517,,Woodcutter / Copper,3/0
+Level -1,-1.585 ± 1.188,,Baron / Chancellor,4/3
+Level -1,-1.310 ± 0.913,,Ironworks / Village,4/3
+Level -1,-1.318 ± 0.920,,Mining Village / Woodcutter,4/3
+Level -1,-2.030 ± 1.632,,Cartographer / Mandarin,5/5
+Level -1,-1.346 ± 0.947,,Worker's Village / Lighthouse,4/2
+Level -1,-1.363 ± 0.962,,Remodel / Trade Route,4/3
+Level -1,-6.287 ± 5.885,,Duchy / Mandarin,5/5
+Level -1,-1.709 ± 1.306,,Outpost / Courtyard,5/2
+Level -1,-1.940 ± 1.537,,Inn / Embargo,5/2
+Level -1,-1.388 ± 0.982,,Farming Village / Warehouse,4/3
+Level -1,-1.340 ± 0.932,,Highway / Cellar,5/2
+Level -1,-2.460 ± 2.052,,Workshop / Lighthouse,3/2
+Level -1,-2.577 ± 2.169,,Scheme / Workshop,3/3
+Level -1,-1.639 ± 1.230,,Conspirator / Pawn,4/2
+Level -1,-1.395 ± 0.984,,Ironworks / Wishing Well,4/3
+Level -1,-2.108 ± 1.695,,Envoy / Pawn,4/2
+Level -1,-2.127 ± 1.711,,Great Hall / Shanty Town,3/3
+Level -1,-2.295 ± 1.877,,Coppersmith / Pearl Diver,4/2
+Level -1,-1.451 ± 1.033,,Coppersmith / Scheme,4/3
+Level -1,-1.929 ± 1.510,,Farming Village / Embargo,4/2
+Level -1,-1.983 ± 1.562,,Black Market / Develop,3/3
+Level -1,-1.540 ± 1.118,,Talisman / Chancellor,4/3
+Level -1,-1.919 ± 1.496,,Bureaucrat,4/-
+Level -1,-1.989 ± 1.563,,Library / Copper,5/0
+Level -1,-1.379 ± 0.952,,Bazaar / Secret Chamber,5/2
+Level -1,-2.472 ± 2.044,,Shanty Town / Tunnel,3/3
+Level -1,-1.344 ± 0.916,,Potion / Great Hall,4/3
+Level -1,-1.812 ± 1.381,,Inn / Pawn,5/2
+Level -1,-5.802 ± 5.370,,Envoy / Estate,4/2
+Level -1,-2.868 ± 2.433,,Bishop / Copper,4/0
+Level -1,-1.352 ± 0.914,,Stash,5/-
+Level -1,-1.552 ± 1.114,,Throne Room / Lookout,4/3
+Level -1,-1.497 ± 1.057,,Haggler / Secret Chamber,5/2
+Level -1,-1.351 ± 0.907,,Council Room,5/-
+Level -1,-1.373 ± 0.928,,Remodel / Woodcutter,4/3
+Level -1,-1.358 ± 0.912,,Feast / Black Market,4/3
+Level -1,-3.635 ± 3.188,,Spice Merchant / Copper,4/0
+Level -1,-1.635 ± 1.184,,Nomad Camp / Crossroads,4/2
+Level -1,-1.394 ± 0.936,,Baron / Develop,4/3
+Level -1,-1.486 ± 1.027,,Tournament,4/-
+Level -1,-2.032 ± 1.571,,Inn / Pearl Diver,5/2
+Level -1,-1.384 ± 0.921,,Worker's Village / Silver,4/3
+Level -1,-1.922 ± 1.458,,Caravan / Secret Chamber,4/2
+Level -1,-2.217 ± 1.753,,Noble Brigand / Fool's Gold,4/2
+Level -1,-2.828 ± 2.363,,Council Room / Mandarin,5/5
+Level -1,-1.496 ± 1.029,,Militia / Moat,4/2
+Level -1,-2.530 ± 2.063,,Nomad Camp / Pirate Ship,4/4
+Level -1,-1.958 ± 1.491,,Scheme / Smugglers,3/3
+Level -1,-1.379 ± 0.909,,Talisman / Shanty Town,4/3
+Level -1,-1.401 ± 0.928,,Bishop / Trade Route,4/3
+Level -1,-1.558 ± 1.080,,Bureaucrat / Watchtower,4/3
+Level -1,-2.941 ± 2.462,,Nomad Camp / Cellar,4/2
+Level -1,-1.394 ± 0.914,,Potion / Fool's Gold,4/2
+Level -1,-3.080 ± 2.599,,Bureaucrat / Herbalist,4/2
+Level -1,-1.966 ± 1.481,,Black Market / Fool's Gold,3/2
+Level -1,-2.551 ± 2.066,,Smugglers / Crossroads,3/2
+Level -1,-1.739 ± 1.253,,Quarry / Haven,4/2
+Level -1,-2.816 ± 2.328,,Oasis / Village,3/3
+Level -1,-1.413 ± 0.921,,Militia / Workshop,4/3
+Level -1,-1.733 ± 1.238,,Mandarin / Native Village,5/2
+Level -1,-1.441 ± 0.944,,Baron,4/-
+Level -1,-1.584 ± 1.087,,Nomad Camp / Hamlet / Hamlet,4/2/2002
+Level -1,-1.407 ± 0.909,,Coppersmith / Silver,4/3
+Level -1,-1.529 ± 1.029,,Warehouse / Warehouse,3/3
+Level -1,-1.454 ± 0.952,,Bazaar / Herbalist,5/2
+Level -1,-1.481 ± 0.979,,Silver / Haven,3/2
+Level -1,-1.634 ± 1.130,,Walled Village / Fool's Gold,4/2
+Level -1,-2.032 ± 1.525,,Navigator / Trade Route,4/3
+Level -1,-1.901 ± 1.394,,Mandarin / Moat,5/2
+Level -1,-1.508 ± 1.001,,Tribute / Pawn,5/2
+Level -1,-1.609 ± 1.096,,Walled Village / Lighthouse,4/2
+Level -1,-1.425 ± 0.910,,Ironworks / Black Market,4/3
+Level -1,-6.578 ± 6.060,,Cutpurse / Estate,4/2
+Level -1,-1.635 ± 1.113,,Ironworks / Cellar,4/2
+Level -1,-1.431 ± 0.908,,Bridge / Shanty Town,4/3
+Level -1,-2.560 ± 2.037,,Village / Lighthouse,3/2
+Level -1,-12.446 ± 11.924,,Chancellor / Herbalist,3/2
+Level -1,-3.636 ± 3.113,,Conspirator / Herbalist,4/2
+Level -1,-1.437 ± 0.914,,Festival / Cellar,5/2
+Level -1,-3.109 ± 2.583,,Mandarin / Torturer,5/5
+Level -1,-1.470 ± 0.941,,Conspirator / Smugglers,4/3
+Level -1,-1.444 ± 0.912,,Cartographer,5/-
+Level -1,-1.459 ± 0.926,,Silver / Village,3/3
+Level -1,-1.613 ± 1.080,,Worker's Village / Chancellor,4/3
+Level -1,-7.227 ± 6.687,,Duke / Native Village,5/2
+Level -1,-1.557 ± 1.015,,Council Room / Embargo,5/2
+Level -1,-1.522 ± 0.980,,Bureaucrat / Woodcutter,4/3
+Level -1,-1.570 ± 1.026,,Tribute / Cellar,5/2
+Level -1,-3.331 ± 2.786,,Great Hall / Warehouse,3/3
+Level -1,-1.475 ± 0.927,,Bridge / Great Hall,4/3
+Level -1,-1.769 ± 1.219,,Smithy,4/-
+Level -1,-1.536 ± 0.982,,Rabble / Moat,5/2
+Level -1,-1.483 ± 0.928,,Quarry / Great Hall,4/3
+Level -1,-1.880 ± 1.323,,Rabble / Copper,5/0
+Level -1,-5.238 ± 4.682,,Watchtower / Wishing Well,3/3
+Level -1,-2.203 ± 1.646,,Nomad Camp / Wishing Well,4/3
+Level -1,-1.464 ± 0.907,,Talisman / Fishing Village,4/3
+Level -1,-1.985 ± 1.426,,Bureaucrat / Hamlet,4/2
+Level -1,-1.484 ± 0.925,,Treasure Map / Black Market,4/3
+Level -1,-1.723 ± 1.162,,Saboteur / Pearl Diver,5/2
+Level -1,-2.158 ± 1.594,,Mandarin / Secret Chamber,5/2
+Level -1,-1.523 ± 0.958,,Council Room / Pawn,5/2
+Level -1,-4.567 ± 4.000,,Workshop / Moat,3/2
+Level -1,-1.500 ± 0.932,,Envoy / Black Market,4/3
+Level -1,-2.508 ± 1.939,,Thief / Develop,4/3
+Level -1,-1.493 ± 0.923,,Throne Room / Fishing Village,4/3
+Level -1,-1.493 ± 0.922,,Ironworks / Great Hall,4/3
+Level -1,-1.536 ± 0.965,,Farming Village / Menagerie,4/3
+Level -1,-1.550 ± 0.975,,Tournament / Great Hall,4/3
+Level -1,-4.439 ± 3.863,,Bureaucrat / Estate,4/2
+Level -1,-6.300 ± 5.723,,Oasis / Cellar,3/2
+Level -1,-4.996 ± 4.418,,Black Market / Chancellor,3/3
+Level -1,-7.012 ± 6.433,,Silk Road / Loan,4/3
+Level -1,-1.821 ± 1.240,,Spy / Menagerie,4/3
+Level -1,-1.530 ± 0.947,,Mint / Pawn,5/2
+Level -1,-7.424 ± 6.839,,Duke / Lighthouse,5/2
+Level -1,-1.722 ± 1.135,,Nomad Camp / Trade Route,4/3
+Level -1,-1.578 ± 0.987,,Trader / Crossroads,4/2
+Level -1,-1.682 ± 1.090,,Saboteur / Embargo,5/2
+Level -1,-2.086 ± 1.493,,Inn / Haven,5/2
+Level -1,-1.537 ± 0.944,,Baron / Tunnel,4/3
+Level -1,-5.537 ± 4.942,,Silk Road / Village,4/3
+Level -1,-2.135 ± 1.540,,Shanty Town / Village,3/3
+Level -1,-6.222 ± 5.625,,Silk Road / Estate,4/2
+Level -1,-3.136 ± 2.538,,Pirate Ship / Duchess,4/2
+Level -1,-1.509 ± 0.908,,Remodel / Smugglers,4/3
+Level -1,-2.007 ± 1.405,,Mining Village / Embargo,4/2
+Level -1,-1.884 ± 1.280,,Horse Traders / Native Village,4/2
+Level -1,-1.916 ± 1.305,,Inn / Crossroads,5/2
+Level -1,-2.398 ± 1.786,,Monument / Secret Chamber,4/2
+Level -1,-4.388 ± 3.774,,Lookout / Crossroads,3/2
+Level -1,-1.736 ± 1.119,,Ironworks / Chancellor,4/3
+Level -1,-1.591 ± 0.972,,Walled Village / Watchtower,4/3
+Level -1,-2.168 ± 1.548,,Noble Brigand / Warehouse,4/3
+Level -1,-2.521 ± 1.898,,Tournament / Secret Chamber,4/2
+Level -1,-1.964 ± 1.338,,Conspirator / Tunnel,4/3
+Level -1,-1.556 ± 0.921,,Treasure Map / Trade Route,4/3
+Level -1,-3.088 ± 2.448,,Tunnel / Village,3/3
+Level -1,-1.989 ± 1.347,,Throne Room / Chancellor,4/3
+Level -1,-1.555 ± 0.912,,Baron / Workshop,4/3
+Level -1,-2.140 ± 1.497,,Moneylender / Secret Chamber,4/2
+Level -1,-1.718 ± 1.071,,Island,4/-
+Level -1,-1.769 ± 1.122,,Horse Traders / Hamlet,4/2
+Level -1,-2.330 ± 1.682,,Horse Traders / Haven,4/2
+Level -1,-2.311 ± 1.662,,Stash / Secret Chamber,5/2
+Level -1,-2.237 ± 1.587,,Fishing Village / Fool's Gold,3/2
+Level -1,-1.766 ± 1.116,,Rabble / Herbalist,5/2
+Level -1,-2.789 ± 2.137,,Horse Traders / Secret Chamber,4/2
+Level -1,-9.203 ± 8.551,,Fortune Teller / Secret Chamber,3/2
+Level -1,-1.842 ± 1.184,,Margrave / Herbalist,5/2
+Level -1,-5.073 ± 4.414,,Remodel / Duchess,4/2
+Level -1,-1.762 ± 1.103,,Watchtower / Watchtower,3/3
+Level -1,-1.691 ± 1.030,,Tribute / Hamlet,5/2
+Level -1,-7.926 ± 7.263,,Tunnel / Pearl Diver,3/2
+Level -1,-3.175 ± 2.506,,Nomad Camp / Embargo,4/2
+Level -1,-2.123 ± 1.453,,Smithy / Chancellor,4/3
+Level -1,-1.584 ± 0.914,,Baron / Trade Route,4/3
+Level -1,-1.595 ± 0.924,,Festival / Native Village,5/2
+Level -1,-2.029 ± 1.356,,Trader / Cellar,4/2
+Level -1,-1.591 ± 0.916,,Mining Village / Shanty Town,4/3
+Level -1,-1.607 ± 0.921,,Conspirator / Great Hall,4/3
+Level -1,-3.170 ± 2.484,,Black Market / Cellar,3/2
+Level -1,-2.278 ± 1.591,,Black Market / Great Hall,3/3
+Level -1,-2.295 ± 1.607,,Throne Room / Loan,4/3
+Level -1,-1.608 ± 0.919,,Bridge / Trade Route,4/3
+Level -1,-8.630 ± 7.940,,Warehouse / Estate,3/2
+Level -1,-2.609 ± 1.918,,Island / Herbalist,4/2
+Level -1,-1.833 ± 1.140,,Saboteur / Haven,5/2
+Level -1,-1.668 ± 0.968,,Highway / Herbalist,5/2
+Level -1,-1.615 ± 0.913,,Talisman / Woodcutter,4/3
+Level -1,-1.706 ± 1.001,,Farming Village / Scheme,4/3
+Level -1,-1.621 ± 0.912,,Worker's Village / Watchtower,4/3
+Level -1,-2.661 ± 1.949,,Village / Warehouse,3/3
+Level -1,-1.658 ± 0.944,,Walled Village / Shanty Town,4/3
+Level -1,-2.656 ± 1.939,,Cutpurse / Moat,4/2
+Level -1,-2.852 ± 2.135,,Walled Village / Haven,4/2
+Level -1,-1.668 ± 0.949,,Bridge / Watchtower,4/3
+Level -1,-2.539 ± 1.820,,Smugglers / Tunnel,3/3
+Level -1,-1.715 ± 0.996,,Horse Traders / Great Hall,4/3
+Level -1,-1.824 ± 1.105,,Shanty Town / Smugglers,3/3
+Level -1,-1.854 ± 1.135,,Smithy / Watchtower,4/3
+Level -1,-1.728 ± 1.007,,Walled Village / Oasis,4/3
+Level -1,-1.894 ± 1.173,,Throne Room / Develop,4/3
+Level -1,-2.122 ± 1.399,,Talisman / Moat,4/2
+Level -1,-1.876 ± 1.144,,Cartographer / Pearl Diver,5/2
+Level -1,-1.683 ± 0.950,,Upgrade / Estate,5/2
+Level -1,-2.226 ± 1.491,,Thief / Masquerade,4/3
+Level -1,-1.644 ± 0.907,,Potion,4/-
+Level -1,-2.172 ± 1.433,,Tribute / Copper,5/0
+Level -1,-5.768 ± 5.029,,Mandarin / Pirate Ship,5/4
+Level -1,-6.736 ± 5.995,,Oasis / Haven,3/2
+Level -1,-4.467 ± 3.725,,Village / Embargo,3/2
+Level -1,-1.705 ± 0.957,,Conspirator / Black Market,4/3
+Level -1,-5.799 ± 5.050,,Black Market / Herbalist,3/2
+Level -1,-2.015 ± 1.266,,Nomad Camp / Throne Room,4/4
+Level -1,-2.847 ± 2.098,,Black Market / Embargo,3/2
+Level -1,-4.711 ± 3.958,,Fortune Teller / Workshop,3/3
+Level -1,-3.803 ± 3.049,,Harvest / Copper,5/0
+Level -1,-1.982 ± 1.227,,Throne Room / Lighthouse,4/2
+Level -1,-2.215 ± 1.459,,Conspirator / Haven,4/2
+Level -1,-1.691 ± 0.935,,Council Room / Cellar,5/2
+Level -1,-3.188 ± 2.432,,Noble Brigand / Wishing Well,4/3
+Level -1,-1.747 ± 0.990,,Nomad Camp / Village,4/3
+Level -1,-1.682 ± 0.922,,Feast / Village,4/3
+Level -1,-1.838 ± 1.078,,Quarry / Herbalist,4/2
+Level -1,-3.153 ± 2.392,,Monument / Copper,4/0
+Level -1,-2.214 ± 1.451,,Feast / Cellar,4/2
+Level -1,-1.675 ± 0.910,,Talisman / Trade Route,4/3
+Level -1,-2.795 ± 2.029,,Scout / Fool's Gold,4/2
+Level -1,-1.677 ± 0.910,,Island / Workshop,4/3
+Level -1,-1.677 ± 0.908,,Bridge / Smugglers,4/3
+Level -1,-1.688 ± 0.919,,Silver / Hamlet,3/2
+Level -1,-2.139 ± 1.370,,Spice Merchant / Native Village,4/2
+Level -1,-1.694 ± 0.923,,Worker's Village / Woodcutter,4/3
+Level -1,-2.337 ± 1.564,,Horse Traders / Cellar,4/2
+Level -1,-3.596 ± 2.823,,Develop / Workshop,3/3
+Level -1,-2.041 ± 1.266,,Bridge / Embargo,4/2
+Level -1,-1.697 ± 0.921,,Caravan / Village,4/3
+Level -1,-1.917 ± 1.137,,Moneylender / Moat,4/2
+Level -1,-1.767 ± 0.983,,City / Embargo,5/2
+Level -1,-1.917 ± 1.133,,Royal Seal / Secret Chamber,5/2
+Level -1,-2.022 ± 1.234,,Noble Brigand / Shanty Town,4/3
+Level -1,-1.716 ± 0.926,,Market / Native Village,5/2
+Level -1,-2.001 ± 1.211,,Bridge / Cellar,4/2
+Level -1,-1.978 ± 1.186,,Tribute / Herbalist,5/2
+Level -1,-5.035 ± 4.243,,Great Hall / Pearl Diver,3/2
+Level -1,-1.798 ± 1.006,,Highway / Secret Chamber,5/2
+Level -1,-1.786 ± 0.993,,Pirate Ship / Hamlet,4/2
+Level -1,-1.975 ± 1.179,,Caravan / Moat,4/2
+Level -1,-3.200 ± 2.402,,Nomad Camp / Chancellor,4/3
+Level -1,-5.076 ± 4.278,,Great Hall / Wishing Well,3/3
+Level -1,-3.885 ± 3.082,,Chancellor / Shanty Town,3/3
+Level -1,-1.729 ± 0.926,,Great Hall / Silver,3/3
+Level -1,-2.359 ± 1.551,,Thief / Ambassador,4/3
+Level -1,-2.044 ± 1.234,,Jester / Estate,5/2
+Level -1,-1.732 ± 0.920,,Treasure Map / Great Hall,4/3
+Level -1,-2.171 ± 1.356,,Cartographer / Secret Chamber,5/2
+Level -1,-2.260 ± 1.443,,Contraband / Copper,5/0
+Level -1,-1.847 ± 1.029,,Mining Village / Scheme,4/3
+Level -1,-1.977 ± 1.157,,Cartographer / Native Village,5/2
+Level -1,-1.866 ± 1.044,,Saboteur / Lighthouse,5/2
+Level -1,-1.905 ± 1.083,,Walled Village / Warehouse,4/3
+Level -1,-2.048 ± 1.226,,Cache / Crossroads,5/2
+Level -1,-1.737 ± 0.913,,Potion / Native Village,4/2
+Level -1,-2.969 ± 2.145,,Ironworks / Estate,4/2
+Level -1,-1.891 ± 1.065,,Ironworks / Native Village,4/2
+Level -1,-1.892 ± 1.060,,Baron / Cellar,4/2
+Level -1,-1.939 ± 1.105,,Treasure Map / Pearl Diver,4/2
+Level -1,-3.176 ± 2.342,,Trade Route / Workshop,3/3
+Level -1,-8.467 ± 7.629,,Oasis / Copper,3/0
+Level -1,-2.612 ± 1.775,,Nomad Camp / Pearl Diver / Pearl Diver,4/2/2002
+Level -1,-2.332 ± 1.494,,Horse Traders / Pawn,4/2
+Level -1,-3.350 ± 2.511,,Feast / Pearl Diver,4/2
+Level -1,-1.984 ± 1.142,,Caravan / Cellar,4/2
+Level -1,-1.832 ± 0.988,,City / Crossroads,5/2
+Level -1,-2.362 ± 1.518,,Walled Village / Moat,4/2
+Level -1,-1.824 ± 0.977,,Apprentice / Estate,5/2
+Level -1,-1.758 ± 0.908,,Worker's Village / Smugglers,4/3
+Level -1,-2.206 ± 1.355,,Counting House / Hamlet,5/2
+Level -1,-4.868 ± 4.016,,Great Hall / Hamlet,3/2
+Level -1,-2.137 ± 1.284,,Coppersmith / Fortune Teller,4/3
+Level -1,-2.500 ± 1.645,,Black Market / Watchtower,3/3
+Level -1,-7.830 ± 6.972,,Silk Road / Watchtower,4/3
+Level -1,-1.765 ± 0.907,,Talisman / Loan,4/3
+Level -1,-1.788 ± 0.929,,Walled Village / Fishing Village,4/3
+Level -1,-9.733 ± 8.869,,Gardens / Pearl Diver,4/2
+Level -1,-2.937 ± 2.069,,Island / Secret Chamber,4/2
+Level -1,-2.956 ± 2.087,,Oasis / Workshop,3/3
+Level -1,-2.140 ± 1.271,,Caravan / Pearl Diver,4/2
+Level -1,-2.324 ± 1.453,,Fishing Village / Great Hall,3/3
+Level -1,-2.701 ± 1.828,,Coppersmith / Embargo,4/2
+Level -1,-5.934 ± 5.053,,Warehouse / Haven,3/2
+Level -1,-3.032 ± 2.151,,Great Hall / Workshop,3/3
+Level -1,-4.009 ± 3.127,,Spy / Herbalist,4/2
+Level -1,-2.547 ± 1.664,,Saboteur / Copper,5/0
+Level -1,-5.551 ± 4.662,,Village / Herbalist,3/2
+Level -1,-2.071 ± 1.177,,Island / Native Village,4/2
+Level -1,-2.344 ± 1.449,,Horn of Plenty / Crossroads,5/2
+Level -1,-1.827 ± 0.931,,Worker's Village / Warehouse,4/3
+Level -1,-2.252 ± 1.354,,Bureaucrat / Chancellor,4/3
+Level -1,-2.349 ± 1.451,,Library / Herbalist,5/2
+Level -1,-1.805 ± 0.906,,Potion / Embargo,4/2
+Level -1,-4.342 ± 3.442,,Shanty Town,3/-
+Level -1,-9.648 ± 8.746,,Nomad Camp / Silver / Estate,4/3/2002
+Level -1,-2.314 ± 1.409,,Minion / Copper,5/0
+Level -1,-2.276 ± 1.370,,Ironworks / Pearl Diver,4/2
+Level -1,-5.320 ± 4.413,,Shanty Town / Native Village,3/2
+Level -1,-2.870 ± 1.962,,Horse Traders / Pearl Diver,4/2
+Level -1,-2.330 ± 1.419,,Feast / Native Village,4/2
+Level -1,-2.041 ± 1.128,,Remodel / Crossroads,4/2
+Level -1,-1.824 ± 0.909,,Talisman / Silver,4/3
+Level -1,-2.436 ± 1.521,,Conspirator / Fool's Gold,4/2
+Level -1,-2.449 ± 1.529,,Nomad Camp / Spy,4/4
+Level -1,-2.626 ± 1.705,,City / Mandarin,5/5
+Level -1,-1.840 ± 0.915,,Silver / Tunnel,3/3
+Level -1,-1.879 ± 0.954,,Caravan / Tunnel,4/3
+Level -1,-2.272 ± 1.341,,Bridge / Oracle,4/3
+Level -1,-2.482 ± 1.550,,Mandarin / Nomad Camp,5/4
+Level -1,-1.845 ± 0.911,,Talisman / Black Market,4/3
+Level -1,-4.453 ± 3.520,,Gardens / Oasis,4/3
+Level -1,-1.871 ± 0.934,,Bureaucrat / Smugglers,4/3
+Level -1,-2.620 ± 1.682,,Counting House / Crossroads,5/2
+Level -1,-2.777 ± 1.836,,Inn / Duchess,5/2
+Level -1,-5.440 ± 4.499,,Watchtower / Embargo,3/2
+Level -1,-2.714 ± 1.773,,Navigator / Woodcutter,4/3
+Level -1,-1.853 ± 0.910,,Pirate Ship / Lookout,4/3
+Level -1,-1.904 ± 0.959,,Militia / Tunnel,4/3
+Level -1,-2.345 ± 1.399,,Spy / Wishing Well,4/3
+Level -1,-1.903 ± 0.956,,Nomad Camp / Shanty Town,4/3
+Level -1,-2.696 ± 1.749,,Tunnel / Crossroads,3/2
+Level -1,-1.949 ± 1.001,,Mining Village / Lighthouse,4/2
+Level -1,-1.866 ± 0.916,,Bridge / Black Market,4/3
+Level -1,-2.088 ± 1.135,,Tribute / Secret Chamber,5/2
+Level -1,-1.893 ± 0.938,,Talisman / Lighthouse,4/2
+Level -1,-3.821 ± 2.866,,Monument / Estate,4/2
+Level -1,-2.301 ± 1.345,,Mining Village / Moat,4/2
+Level -1,-1.907 ± 0.948,,Laboratory / Herbalist,5/2
+Level -1,-2.304 ± 1.343,,Remodel / Cellar,4/2
+Level -1,-1.920 ± 0.958,,Talisman / Scheme,4/3
+Level -1,-2.326 ± 1.362,,Scout / Develop,4/3
+Level -1,-1.979 ± 1.015,,Treasure Map / Crossroads,4/2
+Level -1,-2.731 ± 1.766,,Noble Brigand / Crossroads,4/2
+Level -1,-2.172 ± 1.204,,Conspirator / Native Village,4/2
+Level -1,-2.107 ± 1.139,,Pirate Ship / Haven,4/2
+Level -1,-10.694 ± 9.724,,Haven / Copper,2/0
+Level -1,-1.902 ± 0.931,,Feast / Woodcutter,4/3
+Level -1,-1.885 ± 0.913,,Pirate Ship / Shanty Town,4/3
+Level -1,-6.348 ± 5.374,,Steward / Copper,3/0
+Level -1,-4.434 ± 3.459,,Silk Road / Fishing Village,4/3
+Level -1,-4.973 ± 3.997,,Scout / Embargo,4/2
+Level -1,-1.900 ± 0.922,,Pirate Ship / Scheme,4/3
+Level -1,-2.531 ± 1.553,,Quarry / Secret Chamber,4/2
+Level -1,-1.929 ± 0.939,,Mining Village / Watchtower,4/3
+Level -1,-1.942 ± 0.949,,Ironworks,4/-
+Level -1,-2.437 ± 1.441,,Horn of Plenty / Pawn,5/2
+Level -1,-5.566 ± 4.569,,Gardens / Hamlet,4/2
+Level -1,-10.791 ± 9.794,,Cellar / Herbalist,2/2
+Level -2,-3.359 ± 2.355,,Salvager / Secret Chamber,4/2
+Level -2,-2.461 ± 1.447,,Bureaucrat / Moat,4/2
+Level -2,-1.949 ± 0.935,,Pirate Ship / Oasis,4/3
+Level -2,-3.567 ± 2.552,,Noble Brigand / Hamlet,4/2
+Level -2,-2.312 ± 1.297,,Coppersmith / Hamlet,4/2
+Level -2,-4.555 ± 3.540,,Quarry / Duchess,4/2
+Level -2,-2.279 ± 1.263,,Coppersmith / Loan,4/3
+Level -2,-2.722 ± 1.704,,Black Market / Tunnel,3/3
+Level -2,-14.220 ± 13.202,,Lookout / Duchess,3/2
+Level -2,-1.951 ± 0.928,,Talisman / Oasis,4/3
+Level -2,-4.896 ± 3.873,,Scout / Haven,4/2
+Level -2,-2.353 ± 1.326,,Bureaucrat / Crossroads,4/2
+Level -2,-2.704 ± 1.674,,Spy / Oracle,4/3
+Level -2,-2.879 ± 1.848,,Throne Room / Moat,4/2
+Level -2,-1.973 ± 0.942,,Smithy / Black Market,4/3
+Level -2,-2.461 ± 1.428,,Inn / Hamlet,5/2
+Level -2,-2.081 ± 1.044,,Black Market / Shanty Town,3/3
+Level -2,-2.075 ± 1.036,,Cutpurse / Workshop,4/3
+Level -2,-3.151 ± 2.112,,Throne Room / Embargo,4/2
+Level -2,-1.987 ± 0.947,,Bureaucrat / Loan,4/3
+Level -2,-2.004 ± 0.963,,Worker's Village / Menagerie,4/3
+Level -2,-1.974 ± 0.932,,Caravan / Great Hall,4/3
+Level -2,-1.979 ± 0.934,,Walled Village / Woodcutter,4/3
+Level -2,-1.950 ± 0.903,,Mandarin,5/-
+Level -2,-2.043 ± 0.994,,Spy / Woodcutter,4/3
+Level -2,-2.036 ± 0.986,,Bridge / Tunnel,4/3
+Level -2,-2.937 ± 1.885,,Spy / Crossroads,4/2
+Level -2,-1.975 ± 0.923,,Pirate Ship / Swindler,4/3
+Level -2,-3.856 ± 2.800,,Bureaucrat / Copper,4/0
+Level -2,-1.993 ± 0.935,,Treasure Map,4/-
+Level -2,-2.043 ± 0.985,,Nomad Camp / Smugglers,4/3
+Level -2,-5.980 ± 4.921,,Gardens / Lighthouse,4/2
+Level -2,-2.007 ± 0.947,,Trader / Workshop,4/3
+Level -2,-12.315 ± 11.255,,Cellar / Crossroads,2/2
+Level -2,-3.509 ± 2.447,,Watchtower / Crossroads,3/2
+Level -2,-5.919 ± 4.857,,Great Hall / Haven,3/2
+Level -2,-6.934 ± 5.868,,Duke / Pawn,5/2
+Level -2,-2.432 ± 1.362,,Hamlet / Hamlet,2/2
+Level -2,-2.242 ± 1.164,,Spy / Warehouse,4/3
+Level -2,-2.221 ± 1.142,,Saboteur / Hamlet,5/2
+Level -2,-4.400 ± 3.318,,Duchy / Embargo,5/2
+Level -2,-3.423 ± 2.339,,Trade Route / Crossroads,3/2
+Level -2,-2.048 ± 0.962,,Talisman / Menagerie,4/3
+Level -2,-5.500 ± 4.413,,Nomad Camp / Copper,4/0
+Level -2,-2.358 ± 1.271,,Noble Brigand / Smugglers,4/3
+Level -2,-1.999 ± 0.912,,Pirate Ship / Warehouse,4/3
+Level -2,-2.613 ± 1.521,,Great Hall / Smugglers,3/3
+Level -2,-2.061 ± 0.968,,City / Haven,5/2
+Level -2,-2.455 ± 1.356,,Counting House / Pawn,5/2
+Level -2,-2.152 ± 1.050,,Treasury / Estate,5/2
+Level -2,-2.076 ± 0.975,,Quarry,4/-
+Level -2,-4.403 ± 3.299,,Great Hall / Scheme,3/3
+Level -2,-2.016 ± 0.912,,Pirate Ship / Loan,4/3
+Level -2,-2.725 ± 1.620,,Throne Room / Oracle,4/3
+Level -2,-2.439 ± 1.332,,Ironworks / Moat,4/2
+Level -2,-2.277 ± 1.168,,Outpost / Haven,5/2
+Level -2,-2.879 ± 1.770,,Smugglers / Workshop,3/3
+Level -2,-2.108 ± 0.998,,Bridge,4/-
+Level -2,-2.064 ± 0.953,,Potion / Secret Chamber,4/2
+Level -2,-2.032 ± 0.917,,Silver / Workshop,3/3
+Level -2,-2.393 ± 1.276,,Noble Brigand / Village,4/3
+Level -2,-4.352 ± 3.234,,Noble Brigand / Cellar,4/2
+Level -2,-2.109 ± 0.988,,Woodcutter / Woodcutter,3/3
+Level -2,-2.522 ± 1.398,,Smithy / Cellar,4/2
+Level -2,-2.871 ± 1.744,,Coppersmith / Oracle,4/3
+Level -2,-2.070 ± 0.941,,Silver / Cellar,3/2
+Level -2,-2.858 ± 1.724,,Baron / Herbalist,4/2
+Level -2,-3.251 ± 2.116,,Great Hall / Woodcutter,3/3
+Level -2,-10.393 ± 9.258,,Trade Route / Copper,3/0
+Level -2,-2.050 ± 0.915,,Black Market / Black Market,3/3
+Level -2,-2.698 ± 1.561,,Bridge / Nomad Camp,4/4
+Level -2,-2.205 ± 1.064,,Walled Village / Menagerie,4/3
+Level -2,-10.709 ± 9.567,,Silk Road / Chancellor,4/3
+Level -2,-4.265 ± 3.122,,Horn of Plenty / Mandarin,5/5
+Level -2,-3.009 ± 1.865,,Throne Room / Courtyard,4/2
+Level -2,-2.051 ± 0.907,,Talisman / Smugglers,4/3
+Level -2,-2.149 ± 1.002,,Conspirator / Workshop,4/3
+Level -2,-2.066 ± 0.917,,Mining Village / Workshop,4/3
+Level -2,-2.580 ± 1.427,,Caravan / Herbalist,4/2
+Level -2,-2.137 ± 0.981,,Loan / Tunnel,3/3
+Level -2,-2.467 ± 1.309,,Library / Secret Chamber,5/2
+Level -2,-2.602 ± 1.443,,Stables / Copper,5/0
+Level -2,-3.728 ± 2.568,,Smithy / Herbalist,4/2
+Level -2,-2.193 ± 1.029,,Scheme / Scheme,3/3
+Level -2,-2.129 ± 0.959,,Horse Traders / Workshop,4/3
+Level -2,-2.161 ± 0.989,,Nomad Camp / Black Market,4/3
+Level -2,-2.355 ± 1.175,,Contraband / Secret Chamber,5/2
+Level -2,-2.592 ± 1.411,,Bridge / Moat,4/2
+Level -2,-3.708 ± 2.524,,Outpost / Nomad Camp,5/4
+Level -2,-2.097 ± 0.914,,Moneylender / Workshop,4/3
+Level -2,-2.120 ± 0.934,,Throne Room / Black Market,4/3
+Level -2,-5.680 ± 4.492,,Shanty Town / Secret Chamber,3/2
+Level -2,-3.066 ± 1.871,,Moneylender / Copper,4/0
+Level -2,-2.114 ± 0.914,,Treasure Map / Smugglers,4/3
+Level -2,-2.268 ± 1.063,,Rabble / Secret Chamber,5/2
+Level -2,-2.119 ± 0.910,,Horse Traders / Black Market,4/3
+Level -2,-2.399 ± 1.188,,Menagerie / Menagerie,3/3
+Level -2,-2.634 ± 1.421,,Talisman / Herbalist,4/2
+Level -2,-3.444 ± 2.232,,Nomad Camp / Scout,4/4
+Level -2,-2.184 ± 0.970,,Treasure Map / Native Village,4/2
+Level -2,-2.175 ± 0.959,,Trade Route / Trade Route,3/3
+Level -2,-2.341 ± 1.123,,Coppersmith / Watchtower,4/3
+Level -2,-5.640 ± 4.419,,Horse Traders / Duchess,4/2
+Level -2,-2.227 ± 1.007,,Smithy / Great Hall,4/3
+Level -2,-2.338 ± 1.114,,Saboteur / Cellar,5/2
+Level -2,-4.336 ± 3.111,,Great Hall / Menagerie,3/3
+Level -2,-2.850 ± 1.625,,Coppersmith / Courtyard,4/2
+Level -2,-2.248 ± 1.021,,Silver / Herbalist,3/2
+Level -2,-4.605 ± 3.375,,Duchy / Chapel,5/2
+Level -2,-2.262 ± 1.031,,Bureaucrat / Trade Route,4/3
+Level -2,-2.151 ± 0.918,,Treasure Map / Shanty Town,4/3
+Level -2,-2.662 ± 1.427,,Counting House / Haven,5/2
+Level -2,-5.844 ± 4.604,,Fishing Village / Estate,3/2
+Level -2,-3.810 ± 2.569,,Thief / Oracle,4/3
+Level -2,-2.585 ± 1.343,,Bureaucrat / Tunnel,4/3
+Level -2,-3.311 ± 2.068,,Woodcutter / Workshop,3/3
+Level -2,-2.158 ± 0.913,,Farming Village / Workshop,4/3
+Level -2,-3.070 ± 1.820,,Farming Village / Herbalist,4/2
+Level -2,-2.244 ± 0.978,,Market / Herbalist,5/2
+Level -2,-5.171 ± 3.904,,Nomad Camp / Thief,4/4
+Level -2,-2.547 ± 1.275,,Spy / Scheme,4/3
+Level -2,-2.218 ± 0.943,,Festival / Secret Chamber,5/2
+Level -2,-5.834 ± 4.553,,Scout / Herbalist,4/2
+Level -2,-2.408 ± 1.123,,Throne Room / Scheme,4/3
+Level -2,-5.231 ± 3.945,,Gardens / Tunnel,4/3
+Level -2,-2.530 ± 1.245,,Worker's Village / Pawn,4/2
+Level -2,-3.797 ± 2.507,,Smithy / Copper,4/0
+Level -2,-2.213 ± 0.916,,Nomad Camp / Nomad Camp,4/4
+Level -2,-3.713 ± 2.414,,Outpost / Duchess,5/2
+Level -2,-3.243 ± 1.944,,Spy / Moat,4/2
+Level -2,-2.581 ± 1.281,,Talisman / Embargo,4/2
+Level -2,-2.226 ± 0.916,,Talisman / Watchtower,4/3
+Level -2,-2.406 ± 1.092,,Nomad Camp / Tunnel,4/3
+Level -2,-3.060 ± 1.739,,Venture / Estate,5/2
+Level -2,-2.518 ± 1.196,,Horn of Plenty / Hamlet,5/2
+Level -2,-2.545 ± 1.217,,Outpost / Hamlet,5/2
+Level -2,-5.386 ± 4.055,,Great Hall / Cellar,3/2
+Level -2,-2.436 ± 1.102,,Saboteur / Pawn,5/2
+Level -2,-2.791 ± 1.457,,Moneylender / Herbalist,4/2
+Level -2,-2.943 ± 1.607,,Militia / Secret Chamber,4/2
+Level -2,-2.486 ± 1.142,,Saboteur / Native Village,5/2
+Level -2,-2.450 ± 1.105,,Throne Room / Trade Route,4/3
+Level -2,-4.650 ± 3.299,,Warehouse,3/-
+Level -2,-2.429 ± 1.076,,Treasure Map / Hamlet,4/2
+Level -2,-2.427 ± 1.071,,Silk Road / Silver,4/3
+Level -2,-2.406 ± 1.049,,Silver / Pearl Diver,3/2
+Level -2,-8.786 ± 7.420,,Scout / Estate,4/2
+Level -2,-7.948 ± 6.582,,Silk Road / Oracle,4/3
+Level -2,-2.669 ± 1.299,,Counting House / Cellar,5/2
+Level -2,-3.059 ± 1.687,,Conspirator,4/-
+Level -2,-2.742 ± 1.369,,Tournament / Cellar,4/2
+Level -2,-3.270 ± 1.894,,Nomad Camp / Native Village,4/2
+Level -2,-3.621 ± 2.244,,Village / Fool's Gold,3/2
+Level -2,-2.413 ± 1.033,,Oracle / Tunnel,3/3
+Level -2,-2.994 ± 1.613,,Noble Brigand / Great Hall,4/3
+Level -2,-2.613 ± 1.232,,Saboteur / Crossroads,5/2
+Level -2,-2.309 ± 0.925,,Pirate Ship / Fishing Village,4/3
+Level -2,-4.339 ± 2.955,,Feast,4/-
+Level -2,-3.649 ± 2.264,,Inn / Copper,5/0
+Level -2,-2.650 ± 1.262,,City / Duchess,5/2
+Level -2,-2.358 ± 0.965,,Ironworks / Tunnel,4/3
+Level -2,-2.783 ± 1.388,,Noble Brigand / Black Market,4/3
+Level -2,-3.552 ± 2.156,,Haven / Haven,2/2
+Level -2,-2.662 ± 1.264,,Nomad Camp / Watchtower,4/3
+Level -2,-4.454 ± 3.056,,Gardens / Black Market,4/3
+Level -2,-2.845 ± 1.442,,Scout / Oasis,4/3
+Level -2,-4.873 ± 3.463,,Menagerie / Tunnel,3/3
+Level -2,-2.548 ± 1.130,,Tactician / Copper,5/0
+Level -2,-4.277 ± 2.858,,Scheme / Tunnel,3/3
+Level -2,-2.480 ± 1.058,,Mine / Estate,5/2
+Level -2,-2.790 ± 1.364,,Outpost / Moat,5/2
+Level -2,-3.044 ± 1.617,,Inn / Native Village,5/2
+Level -2,-2.856 ± 1.420,,Mandarin / Potion,5/4
+Level -2,-2.454 ± 1.017,,Develop / Develop,3/3
+Level -2,-2.399 ± 0.962,,Festival / Herbalist,5/2
+Level -2,-2.665 ± 1.223,,Highway / Copper,5/0
+Level -2,-3.516 ± 2.073,,Spy / Pawn,4/2
+Level -2,-2.613 ± 1.170,,Talisman / Pawn,4/2
+Level -2,-3.927 ± 2.482,,Smugglers / Native Village,3/2
+Level -2,-2.597 ± 1.151,,Smugglers / Village,3/3
+Level -2,-2.388 ± 0.942,,Throne Room / Smugglers,4/3
+Level -2,-2.555 ± 1.105,,Worker's Village / Wishing Well,4/3
+Level -2,-2.862 ± 1.406,,Conspirator / Cellar,4/2
+Level -2,-3.200 ± 1.741,,Mining Village / Haven,4/2
+Level -2,-2.669 ± 1.206,,Haggler / Estate,5/2
+Level -2,-3.934 ± 2.471,,Bridge / Copper,4/0
+Level -2,-10.442 ± 8.973,,Gardens / Embargo,4/2
+Level -2,-3.161 ± 1.691,,Gardens / Woodcutter,4/3
+Level -2,-5.773 ± 4.302,,Smugglers / Secret Chamber,3/2
+Level -2,-2.581 ± 1.106,,Council Room / Copper,5/0
+Level -2,-2.416 ± 0.937,,Silver / Native Village,3/2
+Level -2,-2.842 ± 1.364,,Mint / Nomad Camp,5/4
+Level -2,-2.450 ± 0.971,,Pirate Ship / Crossroads,4/2
+Level -2,-3.085 ± 1.601,,Feast / Moat,4/2
+Level -2,-2.851 ± 1.363,,Horn of Plenty / Native Village,5/2
+Level -2,-4.196 ± 2.696,,Workshop,3/-
+Level -2,-5.870 ± 4.358,,Smithy / Estate,4/2
+Level -2,-3.281 ± 1.765,,Village / Watchtower,3/3
+Level -2,-4.761 ± 3.243,,Herbalist / Herbalist,2/2
+Level -2,-2.443 ± 0.923,,Pirate Ship / Steward,4/3
+Level -2,-3.238 ± 1.716,,Black Market / Workshop,3/3
+Level -2,-2.583 ± 1.060,,Mining Village / Tunnel,4/3
+Level -2,-2.439 ± 0.915,,Quarry / Workshop,4/3
+Level -2,-3.628 ± 2.103,,Mandarin / Copper,5/0
+Level -2,-2.965 ± 1.440,,Island / Cellar,4/2
+Level -2,-2.486 ± 0.960,,Market / Secret Chamber,5/2
+Level -2,-2.768 ± 1.240,,Torturer / Estate,5/2
+Level -2,-2.448 ± 0.920,,Pirate Ship / Silver,4/3
+Level -2,-2.503 ± 0.969,,Bridge / Woodcutter,4/3
+Level -2,-3.175 ± 1.641,,Lookout / Workshop,3/3
+Level -2,-3.953 ± 2.413,,Spy / Haven,4/2
+Level -2,-3.400 ± 1.855,,Scout / Menagerie,4/3
+Level -2,-3.020 ± 1.474,,Nomad Camp / Woodcutter,4/3
+Level -2,-2.498 ± 0.950,,Treasure Map / Scheme,4/3
+Level -2,-3.090 ± 1.535,,Ironworks / Herbalist,4/2
+Level -2,-3.047 ± 1.492,,Great Hall / Crossroads,3/2
+Level -2,-2.478 ± 0.918,,Bridge / Workshop,4/3
+Level -2,-3.101 ± 1.533,,Counting House / Moat,5/2
+Level -2,-2.506 ± 0.936,,Throne Room / Silver,4/3
+Level -2,-2.500 ± 0.924,,Inn,5/-
+Level -2,-4.608 ± 3.028,,Fishing Village / Secret Chamber,3/2
+Level -2,-2.724 ± 1.143,,Black Market / Smugglers,3/3
+Level -2,-2.495 ± 0.911,,Farming Village / Tunnel,4/3
+Level -2,-4.923 ± 3.339,,Salvager / Estate,4/2
+Level -2,-5.162 ± 3.564,,Bridge / Estate,4/2
+Level -2,-5.334 ± 3.732,,Scout,4/-
+Level -2,-3.199 ± 1.592,,Nomad Camp / Nomad Camp / Copper,4/4/2000
+Level -2,-2.830 ± 1.221,,Nomad Camp / Great Hall,4/3
+Level -2,-2.926 ± 1.317,,Talisman / Haven,4/2
+Level -2,-2.902 ± 1.282,,Hunting Party / Estate,5/2
+Level -2,-15.031 ± 13.407,,Bazaar / Curse,5/0
+Level -2,-2.607 ± 0.980,,Council Room / Moat,5/2
+Level -2,-6.688 ± 5.059,,Shanty Town / Pearl Diver,3/2
+Level -2,-2.578 ± 0.948,,Coppersmith / Smugglers,4/3
+Level -2,-2.720 ± 1.085,,Council Room / Secret Chamber,5/2
+Level -2,-2.743 ± 1.105,,Coppersmith / Trade Route,4/3
+Level -2,-2.684 ± 1.044,,Talisman / Hamlet,4/2
+Level -2,-2.585 ± 0.937,,Coppersmith / Village,4/3
+Level -2,-2.602 ± 0.953,,Smithy / Workshop,4/3
+Level -2,-3.261 ± 1.610,,Navigator / Workshop,4/3
+Level -2,-3.530 ± 1.880,,Cartographer / Copper,5/0
+Level -2,-3.468 ± 1.817,,Farming Village / Haven,4/2
+Level -2,-3.111 ± 1.458,,Talisman / Pearl Diver,4/2
+Level -2,-2.689 ± 1.032,,Pirate Ship / Fortune Teller,4/3
+Level -2,-2.855 ± 1.196,,Mining Village / Wishing Well,4/3
+Level -2,-2.642 ± 0.981,,Feast / Great Hall,4/3
+Level -2,-2.594 ± 0.931,,Treasure Map / Village,4/3
+Level -2,-2.802 ± 1.136,,Council Room / Herbalist,5/2
+Level -2,-11.569 ± 9.902,,Pawn / Secret Chamber,2/2
+Level -2,-3.099 ± 1.429,,Mint / Crossroads,5/2
+Level -2,-2.616 ± 0.945,,Spy / Smugglers,4/3
+Level -2,-4.563 ± 2.889,,Scout / Cellar,4/2
+Level -2,-3.053 ± 1.375,,Explorer / Estate,5/2
+Level -2,-5.292 ± 3.612,,Village / Crossroads,3/2
+Level -2,-5.039 ± 3.356,,Tournament / Copper,4/0
+Level -2,-5.350 ± 3.663,,Gold / Silver,6/3
+Level -2,-4.640 ± 2.951,,Duchy / Hamlet,5/2
+Level -2,-7.385 ± 5.693,,Menagerie,3/-
+Level -2,-4.893 ± 3.200,,Workshop / Native Village,3/2
+Level -2,-2.652 ± 0.955,,Throne Room / Woodcutter,4/3
+Level -2,-2.727 ± 1.030,,Coppersmith / Woodcutter,4/3
+Level -2,-3.214 ± 1.515,,Baron / Secret Chamber,4/2
+Level -2,-3.243 ± 1.544,,Throne Room / Watchtower,4/3
+Level -2,-3.988 ± 2.289,,Bureaucrat / Secret Chamber,4/2
+Level -2,-2.783 ± 1.082,,Laboratory / Copper,5/0
+Level -2,-3.040 ± 1.336,,Outpost / Embargo,5/2
+Level -2,-2.742 ± 1.038,,Mining Village / Menagerie,4/3
+Level -2,-3.890 ± 2.172,,Remodel / Secret Chamber,4/2
+Level -2,-2.925 ± 1.208,,Thief / Steward,4/3
+Level -2,-3.338 ± 1.620,,Duchy / Crossroads,5/2
+Level -2,-2.641 ± 0.916,,Pirate Ship / Village,4/3
+Level -2,-3.400 ± 1.675,,Horn of Plenty / Embargo,5/2
+Level -2,-2.653 ± 0.922,,Pirate Ship / Lighthouse,4/2
+Level -2,-3.108 ± 1.371,,Worker's Village / Embargo,4/2
+Level -2,-6.313 ± 4.575,,Black Market / Secret Chamber,3/2
+Level -2,-10.817 ± 9.072,,Nomad Camp / Black Market / Copper,4/3/2000
+Level -2,-4.364 ± 2.616,,Gardens / Fishing Village,4/3
+Level -2,-2.720 ± 0.971,,Caravan,4/-
+Level -2,-2.770 ± 1.019,,Tournament / Tunnel,4/3
+Level -2,-2.668 ± 0.915,,Remodel / Workshop,4/3
+Level -2,-2.736 ± 0.976,,City / Pearl Diver,5/2
+Level -2,-3.330 ± 1.571,,Ghost Ship / Estate,5/2
+Level -2,-6.339 ± 4.575,,Gardens / Pawn,4/2
+Level -2,-3.136 ± 1.369,,Walled Village / Crossroads,4/2
+Level -2,-2.734 ± 0.957,,City / Hamlet,5/2
+Level -2,-3.498 ± 1.720,,Smithy / Moat,4/2
+Level -2,-3.060 ± 1.278,,Mining Village / Crossroads,4/2
+Level -2,-2.705 ± 0.919,,Feast / Workshop,4/3
+Level -2,-2.753 ± 0.962,,Pirate Ship / Menagerie,4/3
+Level -2,-3.281 ± 1.487,,Worker's Village / Haven,4/2
+Level -2,-5.727 ± 3.931,,Nomad Camp / Secret Chamber / Secret Chamber,4/2/2002
+Level -2,-8.791 ± 6.992,,Chancellor / Trade Route,3/3
+Level -2,-2.921 ± 1.117,,Throne Room / Oasis,4/3
+Level -2,-3.104 ± 1.300,,Outpost / Crossroads,5/2
+Level -2,-4.610 ± 2.800,,Thief / Pawn,4/2
+Level -2,-3.401 ± 1.590,,Scout / Fortune Teller,4/3
+Level -2,-5.390 ± 3.575,,Wishing Well / Workshop,3/3
+Level -2,-2.920 ± 1.105,,Nomad Camp / Native Village / Native Village,4/2/2002
+Level -2,-2.930 ± 1.112,,Coppersmith / Wishing Well,4/3
+Level -2,-3.505 ± 1.687,,Navigator / Great Hall,4/3
+Level -2,-6.327 ± 4.506,,Militia / Estate,4/2
+Level -2,-3.035 ± 1.210,,Pirate Ship / Pearl Diver,4/2
+Level -2,-5.573 ± 3.738,,Shanty Town / Cellar,3/2
+Level -2,-7.583 ± 5.747,,Crossroads / Estate,2/2
+Level -2,-5.986 ± 4.149,,Tunnel,3/-
+Level -2,-15.961 ± 14.123,,Pearl Diver / Copper,2/0
+Level -2,-4.038 ± 2.195,,Baron / Copper,4/0
+Level -2,-4.497 ± 2.654,,Envoy / Secret Chamber,4/2
+Level -2,-3.203 ± 1.353,,Mining Village / Pawn,4/2
+Level -2,-8.074 ± 6.220,,Workshop / Herbalist,3/2
+Level -2,-2.780 ± 0.925,,Scout / Silver,4/3
+Level -2,-3.042 ± 1.187,,Outpost / Native Village,5/2
+Level -2,-2.954 ± 1.095,,Bazaar / Copper,5/0
+Level -2,-2.905 ± 1.037,,Talisman / Wishing Well,4/3
+Level -2,-3.179 ± 1.306,,Bishop / Estate,4/2
+Level -2,-5.144 ± 3.270,,Mandarin / Worker's Village,5/4
+Level -2,-4.301 ± 2.424,,Village / Moat,3/2
+Level -2,-10.438 ± 8.553,,Nomad Camp / Trade Route / Estate,4/3/2002
+Level -2,-3.497 ± 1.601,,Noble Brigand / Tunnel,4/3
+Level -2,-3.164 ± 1.268,,Outpost / Pearl Diver,5/2
+Level -2,-2.867 ± 0.966,,Bureaucrat / Black Market,4/3
+Level -2,-4.022 ± 2.117,,Conspirator / Embargo,4/2
+Level -2,-2.829 ± 0.919,,City,5/-
+Level -2,-2.881 ± 0.959,,City / Cellar,5/2
+Level -2,-3.655 ± 1.732,,Throne Room / Pawn,4/2
+Level -2,-3.927 ± 2.002,,Moat / Moat,2/2
+Level -2,-2.855 ± 0.924,,Smugglers / Smugglers,3/3
+Level -2,-3.044 ± 1.112,,Worker's Village / Crossroads,4/2
+Level -2,-3.271 ± 1.338,,Bridge / Chancellor,4/3
+Level -2,-13.657 ± 11.721,,Herbalist,2/-
+Level -2,-2.908 ± 0.970,,Coppersmith / Great Hall,4/3
+Level -2,-2.900 ± 0.951,,Throne Room / Shanty Town,4/3
+Level -2,-3.491 ± 1.538,,Mandarin / Herbalist,5/2
+Level -2,-3.014 ± 1.060,,Wishing Well / Wishing Well,3/3
+Level -2,-3.202 ± 1.240,,Spy / Watchtower,4/3
+Level -2,-2.938 ± 0.975,,Worker's Village / Scheme,4/3
+Level -2,-13.024 ± 11.058,,Pawn,2/-
+Level -2,-3.162 ± 1.196,,Village / Woodcutter,3/3
+Level -2,-5.426 ± 3.458,,Throne Room / Secret Chamber,4/2
+Level -2,-6.345 ± 4.371,,Woodcutter / Moat,3/2
+Level -2,-3.585 ± 1.611,,Farming Village / Cellar,4/2
+Level -2,-3.748 ± 1.769,,Bridge / Secret Chamber,4/2
+Level -2,-4.867 ± 2.887,,Treasure Map / Estate,4/2
+Level -2,-3.069 ± 1.086,,Pirate Ship / Pawn,4/2
+Level -2,-3.847 ± 1.859,,Mining Village / Pearl Diver,4/2
+Level -2,-3.749 ± 1.751,,Inn / Herbalist,5/2
+Level -2,-3.386 ± 1.388,,Coppersmith / Native Village,4/2
+Level -3,-3.339 ± 1.336,,Scout / Woodcutter,4/3
+Level -3,-3.176 ± 1.171,,Embargo / Embargo,2/2
+Level -3,-2.924 ± 0.916,,Tunnel / Tunnel,3/3
+Level -3,-3.427 ± 1.418,,Walled Village / Wishing Well,4/3
+Level -3,-4.247 ± 2.224,,Silk Road / Great Hall,4/3
+Level -3,-2.961 ± 0.926,,Coppersmith / Shanty Town,4/3
+Level -3,-5.535 ± 3.498,,Feast / Copper,4/0
+Level -3,-2.963 ± 0.922,,Saboteur,5/-
+Level -3,-3.361 ± 1.319,,Coppersmith / Tunnel,4/3
+Level -3,-3.007 ± 0.960,,Pirate Ship / Native Village,4/2
+Level -3,-3.555 ± 1.504,,Inn / Cellar,5/2
+Level -3,-3.881 ± 1.827,,Stash / Estate,5/2
+Level -3,-2.971 ± 0.917,,Worker's Village / Workshop,4/3
+Level -3,-4.464 ± 2.410,,Noble Brigand,4/-
+Level -3,-3.958 ± 1.901,,Black Market,3/-
+Level -3,-4.480 ± 2.420,,Spy / Pearl Diver,4/2
+Level -3,-3.475 ± 1.415,,Pawn / Pawn,2/2
+Level -3,-5.010 ± 2.949,,Thief / Courtyard,4/2
+Level -3,-3.592 ± 1.522,,Counting House / Native Village,5/2
+Level -3,-3.872 ± 1.795,,Nomad Camp,4/-
+Level -3,-6.161 ± 4.083,,Secret Chamber / Secret Chamber,2/2
+Level -3,-3.000 ± 0.920,,Talisman / Village,4/3
+Level -3,-3.144 ± 1.057,,Scout / Fishing Village,4/3
+Level -3,-3.468 ± 1.373,,Royal Seal / Estate,5/2
+Level -3,-7.059 ± 4.957,,Village / Haven,3/2
+Level -3,-4.036 ± 1.930,,Fishing Village,3/-
+Level -3,-3.422 ± 1.314,,Scout / Loan,4/3
+Level -3,-3.806 ± 1.695,,Counting House / Herbalist,5/2
+Level -3,-4.289 ± 2.175,,Farming Village / Secret Chamber,4/2
+Level -3,-14.699 ± 12.577,,Estate / Curse,2/0
+Level -3,-3.363 ± 1.228,,Outpost / Pawn,5/2
+Level -3,-4.545 ± 2.410,,Smithy / Secret Chamber,4/2
+Level -3,-3.683 ± 1.530,,Worker's Village / Pearl Diver,4/2
+Level -3,-4.405 ± 2.246,,Harvest / Estate,5/2
+Level -3,-6.426 ± 4.262,,Great Hall / Courtyard,3/2
+Level -3,-3.127 ± 0.962,,Mining Village / Village,4/3
+Level -3,-3.591 ± 1.422,,Coppersmith / Pawn,4/2
+Level -3,-4.106 ± 1.931,,Scout / Lighthouse,4/2
+Level -3,-3.688 ± 1.510,,Horn of Plenty / Pearl Diver,5/2
+Level -3,-3.193 ± 1.013,,Potion / Copper,4/0
+Level -3,-4.040 ± 1.860,,Walled Village / Embargo,4/2
+Level -3,-3.468 ± 1.276,,Farming Village / Hamlet,4/2
+Level -3,-3.226 ± 1.034,,Silver / Secret Chamber,3/2
+Level -3,-9.216 ± 7.023,,Feast / Estate,4/2
+Level -3,-4.063 ± 1.870,,Inn / Secret Chamber,5/2
+Level -3,-3.658 ± 1.454,,Horn of Plenty / Cellar,5/2
+Level -3,-3.182 ± 0.974,,Farming Village / Village,4/3
+Level -3,-6.539 ± 4.330,,Shanty Town / Herbalist,3/2
+Level -3,-5.513 ± 3.302,,Cutpurse / Herbalist,4/2
+Level -3,-3.145 ± 0.933,,Walled Village / Workshop,4/3
+Level -3,-3.413 ± 1.198,,Throne Room / Warehouse,4/3
+Level -3,-5.301 ± 3.085,,Duchy / Pawn,5/2
+Level -3,-3.249 ± 1.032,,Talisman,4/-
+Level -3,-3.139 ± 0.921,,Potion / Tunnel,4/3
+Level -3,-7.093 ± 4.874,,Gardens / Watchtower,4/3
+Level -3,-3.350 ± 1.130,,Saboteur / Moat,5/2
+Level -3,-3.718 ± 1.489,,Saboteur / Herbalist,5/2
+Level -3,-7.903 ± 5.669,,Gardens / Cellar,4/2
+Level -3,-5.318 ± 3.080,,Mandarin / Outpost,5/5
+Level -3,-4.449 ± 2.207,,Spy / Native Village,4/2
+Level -3,-3.260 ± 1.011,,City / Herbalist,5/2
+Level -3,-3.578 ± 1.325,,Worker's Village / Cellar,4/2
+Level -3,-3.801 ± 1.545,,Coppersmith / Chancellor,4/3
+Level -3,-3.176 ± 0.918,,Talisman / Workshop,4/3
+Level -3,-3.992 ± 1.733,,Throne Room / Crossroads,4/2
+Level -3,-3.321 ± 1.059,,Governor / Estate,5/2
+Level -3,-4.206 ± 1.941,,Horn of Plenty / Secret Chamber,5/2
+Level -3,-5.310 ± 3.043,,Smugglers / Embargo,3/2
+Level -3,-3.309 ± 1.041,,Pirate Ship / Moat,4/2
+Level -3,-3.572 ± 1.304,,Farming Village,4/-
+Level -3,-3.517 ± 1.235,,Farming Village / Crossroads,4/2
+Level -3,-3.882 ± 1.595,,Ironworks / Secret Chamber,4/2
+Level -3,-5.874 ± 3.583,,Tunnel / Courtyard,3/2
+Level -3,-3.310 ± 1.011,,Talisman / Tunnel,4/3
+Level -3,-5.815 ± 3.513,,Remake / Copper,4/0
+Level -3,-8.300 ± 5.998,,Tunnel / Native Village,3/2
+Level -3,-3.388 ± 1.079,,Trade Route / Estate,3/2
+Level -3,-5.396 ± 3.074,,Cellar / Cellar,2/2
+Level -3,-3.732 ± 1.404,,Scout / Warehouse,4/3
+Level -3,-3.300 ± 0.969,,Bureaucrat / Workshop,4/3
+Level -3,-6.084 ± 3.750,,Mandarin / Mining Village,5/4
+Level -3,-3.472 ± 1.133,,Merchant Ship / Estate,5/2
+Level -3,-5.946 ± 3.607,,Great Hall / Pawn,3/2
+Level -3,-3.400 ± 1.058,,Pirate Ship / Cellar,4/2
+Level -3,-3.303 ± 0.960,,Pirate Ship / Woodcutter,4/3
+Level -3,-3.367 ± 1.022,,Festival / Copper,5/0
+Level -3,-12.642 ± 10.287,,Lighthouse / Copper,2/0
+Level -3,-4.755 ± 2.400,,Scout / Oracle,4/3
+Level -3,-5.972 ± 3.616,,Gardens / Steward,4/3
+Level -3,-3.715 ± 1.351,,Coppersmith,4/-
+Level -3,-5.920 ± 3.555,,Duchy / Duchess,5/2
+Level -3,-3.637 ± 1.267,,Worker's Village / Hamlet,4/2
+Level -3,-4.144 ± 1.771,,Noble Brigand / Workshop,4/3
+Level -3,-3.312 ± 0.936,,Caravan / Watchtower,4/3
+Level -3,-5.637 ± 3.260,,Fishing Village / Native Village,3/2
+Level -3,-4.390 ± 2.008,,Stash / Copper,5/0
+Level -3,-4.570 ± 2.187,,Pirate Ship / Copper,4/0
+Level -3,-3.668 ± 1.278,,Scout / Trade Route,4/3
+Level -3,-14.777 ± 12.382,,Native Village,2/-
+Level -3,-4.482 ± 2.086,,Bridge / Herbalist,4/2
+Level -3,-6.334 ± 3.937,,Duchy / Herbalist,5/2
+Level -3,-4.180 ± 1.767,,Pirate Ship / Herbalist,4/2
+Level -3,-5.580 ± 3.165,,Duchy / Haven,5/2
+Level -3,-7.689 ± 5.265,,Great Hall / Secret Chamber,3/2
+Level -3,-5.824 ± 3.393,,Silk Road / Oasis,4/3
+Level -3,-5.785 ± 3.346,,Conspirator / Secret Chamber,4/2
+Level -3,-5.732 ± 3.293,,Scout / Native Village,4/2
+Level -3,-3.615 ± 1.165,,Horse Traders,4/-
+Level -3,-3.637 ± 1.184,,Pirate Ship / Chancellor,4/3
+Level -3,-3.448 ± 0.993,,City / Native Village,5/2
+Level -3,-3.505 ± 1.046,,Pirate Ship / Embargo,4/2
+Level -3,-5.660 ± 3.198,,Throne Room / Herbalist,4/2
+Level -3,-4.284 ± 1.820,,Coppersmith / Moat,4/2
+Level -3,-3.445 ± 0.979,,Coppersmith / Black Market,4/3
+Level -3,-6.462 ± 3.987,,Tournament / Estate,4/2
+Level -3,-5.898 ± 3.420,,Duchy / Secret Chamber,5/2
+Level -3,-3.464 ± 0.984,,Pirate Ship / Develop,4/3
+Level -3,-4.397 ± 1.915,,Scout / Scheme,4/3
+Level -3,-4.036 ± 1.549,,Walled Village / Hamlet,4/2
+Level -3,-5.923 ± 3.432,,Duchy / Pearl Diver,5/2
+Level -3,-4.426 ± 1.933,,Throne Room / Tunnel,4/3
+Level -3,-6.814 ± 4.315,,Scout / Pearl Diver,4/2
+Level -3,-4.336 ± 1.824,,Talisman / Secret Chamber,4/2
+Level -3,-8.645 ± 6.130,,Throne Room / Estate,4/2
+Level -3,-3.756 ± 1.240,,Treasure Map / Tunnel,4/3
+Level -3,-4.768 ± 2.242,,Walled Village / Secret Chamber,4/2
+Level -3,-14.739 ± 12.213,,Chancellor / Copper,3/0
+Level -3,-4.440 ± 1.905,,Island / Estate,4/2
+Level -3,-4.497 ± 1.961,,Mandarin / Estate,5/2
+Level -3,-5.975 ± 3.434,,Village / Pawn,3/2
+Level -3,-3.716 ± 1.156,,Nomad Camp / Workshop,4/3
+Level -3,-4.070 ± 1.496,,Coppersmith / Cellar,4/2
+Level -3,-4.240 ± 1.662,,Mining Village / Native Village,4/2
+Level -3,-4.577 ± 1.993,,Great Hall / Village,3/3
+Level -3,-3.534 ± 0.945,,Talisman / Great Hall,4/3
+Level -3,-5.474 ± 2.885,,Island / Copper,4/0
+Level -3,-3.517 ± 0.926,,Pirate Ship / Workshop,4/3
+Level -3,-4.342 ± 1.747,,Farming Village / Native Village,4/2
+Level -3,-3.591 ± 0.994,,Silver,3/-
+Level -3,-7.184 ± 4.575,,Woodcutter,3/-
+Level -3,-4.112 ± 1.499,,Counting House / Pearl Diver,5/2
+Level -3,-3.718 ± 1.099,,Caravan / Native Village,4/2
+Level -3,-3.912 ± 1.292,,Village / Workshop,3/3
+Level -3,-4.590 ± 1.968,,Mining Village / Secret Chamber,4/2
+Level -3,-3.734 ± 1.108,,Walled Village / Tunnel,4/3
+Level -3,-4.536 ± 1.908,,Thief / Trade Route,4/3
+Level -3,-3.725 ± 1.096,,Walled Village / Scheme,4/3
+Level -3,-3.961 ± 1.326,,Pirate Ship / Courtyard,4/2
+Level -3,-3.601 ± 0.966,,Spy / Village,4/3
+Level -3,-4.175 ± 1.528,,Mining Village / Cellar,4/2
+Level -3,-10.608 ± 7.955,,Embargo / Native Village,2/2
+Level -3,-9.851 ± 7.193,,Moat,2/-
+Level -3,-4.035 ± 1.371,,Tribute / Estate,5/2
+Level -3,-3.916 ± 1.249,,Saboteur / Secret Chamber,5/2
+Level -3,-3.917 ± 1.249,,Pirate Ship / Secret Chamber,4/2
+Level -3,-4.265 ± 1.590,,Shanty Town / Workshop,3/3
+Level -3,-3.681 ± 0.997,,Counting House / Copper,5/0
+Level -3,-10.822 ± 8.138,,Gardens / Native Village,4/2
+Level -3,-14.010 ± 11.319,,Estate / Haven,2/2
+Level -3,-3.642 ± 0.936,,Pirate Ship / Great Hall,4/3
+Level -3,-6.068 ± 3.359,,Great Hall / Watchtower,3/3
+Level -3,-4.952 ± 2.241,,Spy,4/-
+Level -3,-4.859 ± 2.146,,Walled Village / Pearl Diver,4/2
+Level -3,-9.713 ± 6.994,,Scout / Copper,4/0
+Level -3,-3.747 ± 1.020,,City / Secret Chamber,5/2
+Level -3,-4.626 ± 1.899,,Silk Road / Crossroads,4/2
+Level -3,-3.731 ± 0.987,,Pirate Ship / Watchtower,4/3
+Level -3,-5.353 ± 2.597,,Quarry / Copper,4/0
+Level -3,-3.722 ± 0.962,,Spy / Tunnel,4/3
+Level -3,-3.874 ± 1.098,,Scout / Shanty Town,4/3
+Level -3,-5.515 ± 2.735,,Scout / Hamlet,4/2
+Level -3,-3.892 ± 1.110,,Scout / Black Market,4/3
+Level -3,-3.741 ± 0.952,,Counting House,5/-
+Level -3,-4.764 ± 1.975,,Mining Village / Herbalist,4/2
+Level -3,-4.600 ± 1.804,,Worker's Village / Herbalist,4/2
+Level -3,-3.937 ± 1.125,,Scout / Smugglers,4/3
+Level -3,-5.327 ± 2.514,,Throne Room / Pearl Diver,4/2
+Level -3,-3.763 ± 0.940,,Pirate Ship / Trade Route,4/3
+Level -3,-4.877 ± 2.048,,Walled Village / Native Village,4/2
+Level -3,-4.201 ± 1.366,,Pirate Ship / Oracle,4/3
+Level -3,-7.273 ± 4.433,,Duke / Estate,5/2
+Level -3,-4.265 ± 1.419,,Throne Room / Wishing Well,4/3
+Level -3,-4.969 ± 2.121,,Gardens / Crossroads,4/2
+Level -3,-4.489 ± 1.641,,Thief / Lookout,4/3
+Level -3,-6.388 ± 3.535,,Thief / Haven,4/2
+Level -3,-3.902 ± 1.033,,Market / Copper,5/0
+Level -3,-4.873 ± 2.002,,Spy / Cellar,4/2
+Level -3,-4.121 ± 1.238,,Throne Room / Menagerie,4/3
+Level -3,-5.998 ± 3.110,,Nomad Camp / Moat,4/2
+Level -3,-4.279 ± 1.380,,Mining Village / Hamlet,4/2
+Level -3,-3.857 ± 0.951,,Thief / Silver,4/3
+Level -3,-3.850 ± 0.943,,Pirate Ship,4/-
+Level -3,-4.050 ± 1.136,,Talisman / Native Village,4/2
+Level -3,-5.216 ± 2.302,,Talisman / Copper,4/0
+Level -3,-6.079 ± 3.159,,Moneylender / Estate,4/2
+Level -3,-4.596 ± 1.677,,Horn of Plenty / Herbalist,5/2
+Level -3,-6.033 ± 3.085,,Remodel / Estate,4/2
+Level -3,-4.846 ± 1.894,,Walled Village / Cellar,4/2
+Level -3,-4.391 ± 1.434,,Margrave / Estate,5/2
+Level -3,-4.581 ± 1.617,,Scout / Watchtower,4/3
+Level -3,-4.348 ± 1.381,,Mining Village,4/-
+Level -3,-4.029 ± 1.044,,Talisman / Crossroads,4/2
+Level -3,-4.323 ± 1.331,,Scout / Lookout,4/3
+Level -3,-5.151 ± 2.153,,Coppersmith / Herbalist,4/2
+Level -3,-4.138 ± 1.138,,Tactician / Estate,5/2
+Level -3,-5.701 ± 2.701,,Feast / Secret Chamber,4/2
+Level -4,-4.005 ± 1.000,,Spy / Workshop,4/3
+Level -4,-5.102 ± 2.093,,Throne Room / Native Village,4/2
+Level -4,-6.789 ± 3.762,,Gardens / Warehouse,4/3
+Level -4,-3.993 ± 0.960,,Worker's Village / Great Hall,4/3
+Level -4,-6.451 ± 3.418,,Duchy / Courtyard,5/2
+Level -4,-4.871 ± 1.837,,Thief / Loan,4/3
+Level -4,-6.199 ± 3.158,,Farming Village / Copper,4/0
+Level -4,-4.747 ± 1.699,,Crossroads / Crossroads,2/2
+Level -4,-12.361 ± 9.312,,Haven,2/-
+Level -4,-4.160 ± 1.109,,Gardens / Trade Route,4/3
+Level -4,-4.052 ± 0.999,,Farming Village / Great Hall,4/3
+Level -4,-3.992 ± 0.936,,Outpost,5/-
+Level -4,-4.779 ± 1.703,,Thief / Watchtower,4/3
+Level -4,-5.270 ± 2.182,,Coppersmith / Secret Chamber,4/2
+Level -4,-4.367 ± 1.273,,Talisman / Cellar,4/2
+Level -4,-4.017 ± 0.923,,Pirate Ship / Smugglers,4/3
+Level -4,-5.304 ± 2.210,,Scout / Chancellor,4/3
+Level -4,-6.660 ± 3.565,,Thief / Secret Chamber,4/2
+Level -4,-5.000 ± 1.882,,Thief / Fortune Teller,4/3
+Level -4,-4.152 ± 1.032,,Walled Village / Village,4/3
+Level -4,-4.636 ± 1.514,,Thief / Warehouse,4/3
+Level -4,-4.239 ± 1.116,,Wharf / Estate,5/2
+Level -4,-5.601 ± 2.472,,Pearl Diver / Pearl Diver,2/2
+Level -4,-4.344 ± 1.212,,Silk Road / Trade Route,4/3
+Level -4,-4.338 ± 1.202,,Minion / Estate,5/2
+Level -4,-5.799 ± 2.660,,Horn of Plenty / Duchess,5/2
+Level -4,-8.088 ± 4.940,,Great Hall / Copper,3/0
+Level -4,-4.396 ± 1.219,,City / Copper,5/0
+Level -4,-6.561 ± 3.361,,Throne Room,4/-
+Level -4,-4.902 ± 1.680,,Walled Village,4/-
+Level -4,-4.215 ± 0.985,,Gardens / Silver,4/3
+Level -4,-5.303 ± 2.071,,Farming Village / Pearl Diver,4/2
+Level -4,-4.294 ± 1.057,,Pirate Ship / Tunnel,4/3
+Level -4,-4.213 ± 0.975,,Mining Village / Great Hall,4/3
+Level -4,-4.169 ± 0.926,,Mandarin / Mandarin,5/5
+Level -4,-4.676 ± 1.431,,Stables / Estate,5/2
+Level -4,-5.374 ± 2.126,,Thief / Chancellor,4/3
+Level -4,-4.493 ± 1.191,,Baron / Estate,4/2
+Level -4,-4.406 ± 1.092,,Spy / Great Hall,4/3
+Level -4,-4.523 ± 1.208,,Thief / Smugglers,4/3
+Level -4,-4.292 ± 0.972,,Throne Room / Workshop,4/3
+Level -4,-4.257 ± 0.936,,Pirate Ship / Black Market,4/3
+Level -4,-4.343 ± 1.015,,Worker's Village / Tunnel,4/3
+Level -4,-4.379 ± 1.045,,Bazaar / Estate,5/2
+Level -4,-4.298 ± 0.960,,Worker's Village / Village,4/3
+Level -4,-4.929 ± 1.569,,Mint / Courtyard,5/2
+Level -4,-5.767 ± 2.402,,Throne Room / Haven,4/2
+Level -4,-7.286 ± 3.915,,Spy / Copper,4/0
+Level -4,-4.664 ± 1.288,,Outpost / Cellar,5/2
+Level -4,-6.484 ± 3.102,,Gardens / Shanty Town,4/3
+Level -4,-4.443 ± 1.041,,Walled Village / Great Hall,4/3
+Level -4,-6.729 ± 3.308,,Quarry / Estate,4/2
+Level -4,-7.300 ± 3.878,,Scout / Moat,4/2
+Level -4,-4.605 ± 1.180,,Worker's Village,4/-
+Level -4,-7.235 ± 3.783,,Farming Village / Estate,4/2
+Level -4,-9.375 ± 5.902,,Gardens / Scheme,4/3
+Level -4,-5.224 ± 1.747,,Thief / Menagerie,4/3
+Level -4,-4.956 ± 1.464,,Mint / Haven,5/2
+Level -4,-6.437 ± 2.930,,Thief / Embargo,4/2
+Level -4,-4.945 ± 1.433,,Scout / Tunnel,4/3
+Level -4,-8.350 ± 4.832,,Great Hall / Estate,3/2
+Level -4,-5.152 ± 1.604,,Counting House / Secret Chamber,5/2
+Level -4,-6.173 ± 2.615,,Gardens / Village,4/3
+Level -4,-5.582 ± 2.008,,Caravan / Copper,4/0
+Level -4,-8.715 ± 5.131,,Oasis,3/-
+Level -4,-5.352 ± 1.758,,Thief / Lighthouse,4/2
+Level -4,-4.898 ± 1.294,,Thief / Woodcutter,4/3
+Level -4,-5.307 ± 1.689,,Thief / Scheme,4/3
+Level -4,-4.899 ± 1.277,,Scout / Crossroads,4/2
+Level -4,-7.223 ± 3.581,,Scout / Secret Chamber,4/2
+Level -4,-14.009 ± 10.359,,Secret Chamber,2/-
+Level -4,-5.141 ± 1.485,,Chancellor / Tunnel,3/3
+Level -4,-6.891 ± 3.217,,Great Hall,3/-
+Level -4,-7.415 ± 3.740,,Remodel / Copper,4/0
+Level -4,-7.475 ± 3.779,,Fishing Village / Copper,3/0
+Level -4,-5.341 ± 1.637,,Saboteur / Estate,5/2
+Level -4,-6.528 ± 2.818,,Thief / Hamlet,4/2
+Level -4,-5.291 ± 1.577,,Cartographer / Estate,5/2
+Level -4,-6.174 ± 2.452,,Thief / Cellar,4/2
+Level -4,-5.859 ± 2.133,,Inn / Estate,5/2
+Level -4,-4.854 ± 1.115,,Highway / Estate,5/2
+Level -4,-7.030 ± 3.290,,Duchy / Moat,5/2
+Level -4,-4.812 ± 1.056,,Laboratory / Estate,5/2
+Level -4,-4.744 ± 0.968,,Village / Village,3/3
+Level -4,-6.745 ± 2.965,,Duchy / Cellar,5/2
+Level -4,-5.604 ± 1.816,,Worker's Village / Secret Chamber,4/2
+Level -4,-6.341 ± 2.544,,Smugglers,3/-
+Level -4,-5.545 ± 1.675,,Thief / Oasis,4/3
+Level -4,-4.926 ± 1.049,,Coppersmith / Workshop,4/3
+Level -4,-4.876 ± 0.970,,Throne Room / Village,4/3
+Level -4,-14.380 ± 10.464,,Chancellor / Estate,3/2
+Level -4,-5.829 ± 1.861,,Library / Estate,5/2
+Level -4,-5.021 ± 1.040,,Mint / Herbalist,5/2
+Level -4,-4.920 ± 0.928,,Mint / Copper,5/0
+Level -4,-5.699 ± 1.705,,Scout / Wishing Well,4/3
+Level -4,-12.632 ± 8.635,,Shanty Town / Estate,3/2
+Level -4,-4.972 ± 0.974,,Scout / Great Hall,4/3
+Level -5,-5.357 ± 1.355,,Rabble / Estate,5/2
+Level -5,-7.217 ± 3.176,,Thief / Pearl Diver,4/2
+Level -5,-6.208 ± 2.154,,Worker's Village / Copper,4/0
+Level -5,-7.313 ± 3.259,,Scout / Pawn,4/2
+Level -5,-7.754 ± 3.694,,Duke,5/-
+Level -5,-5.326 ± 1.213,,Thief / Shanty Town,4/3
+Level -5,-5.769 ± 1.639,,Native Village / Native Village,2/2
+Level -5,-5.474 ± 1.343,,Thief / Great Hall,4/3
+Level -5,-8.517 ± 4.380,,Silver / Curse,3/0
+Level -5,-5.626 ± 1.481,,Worker's Village / Native Village,4/2
+Level -5,-5.811 ± 1.655,,Mint / Pearl Diver,5/2
+Level -5,-5.670 ± 1.509,,Coppersmith / Copper,4/0
+Level -5,-5.351 ± 1.153,,Silver / Copper,3/0
+Level -5,-6.853 ± 2.628,,Thief,4/-
+Level -5,-5.634 ± 1.377,,Contraband / Estate,5/2
+Level -5,-5.627 ± 1.360,,Thief / Black Market,4/3
+Level -5,-5.266 ± 0.968,,Great Hall / Great Hall,3/3
+Level -5,-9.504 ± 5.195,,Watchtower,3/-
+Level -5,-5.930 ± 1.563,,Outpost / Secret Chamber,5/2
+Level -5,-5.671 ± 1.275,,Thief / Workshop,4/3
+Level -5,-6.419 ± 2.014,,Throne Room / Hamlet,4/2
+Level -5,-7.513 ± 3.098,,Worker's Village / Estate,4/2
+Level -5,-10.358 ± 5.934,,Gardens,4/-
+Level -5,-6.572 ± 2.112,,Thief / Wishing Well,4/3
+Level -5,-7.045 ± 2.584,,Throne Room / Cellar,4/2
+Level -5,-5.501 ± 1.035,,Market / Estate,5/2
+Level -5,-5.594 ± 1.121,,Thief / Fishing Village,4/3
+Level -5,-7.793 ± 3.273,,Spy / Secret Chamber,4/2
+Level -5,-5.564 ± 1.044,,Throne Room / Great Hall,4/3
+Level -5,-14.570 ± 10.047,,Cellar / Estate,2/2
+Level -5,-7.929 ± 3.391,,Walled Village / Copper,4/0
+Level -5,-6.065 ± 1.517,,Mint / Cellar,5/2
+Level -5,-6.265 ± 1.709,,Outpost / Copper,5/0
+Level -5,-7.322 ± 2.749,,Mining Village / Copper,4/0
+Level -5,-9.104 ± 4.512,,Throne Room / Copper,4/0
+Level -5,-6.609 ± 2.005,,Thief / Moat,4/2
+Level -5,-5.849 ± 1.242,,Council Room / Estate,5/2
+Level -5,-6.234 ± 1.620,,Outpost / Herbalist,5/2
+Level -5,-7.802 ± 3.167,,Village,3/-
+Level -5,-6.672 ± 2.024,,Duchy,5/-
+Level -5,-5.968 ± 1.316,,Scout / Village,4/3
+Level -5,-8.052 ± 3.352,,Duchy / Native Village,5/2
+Level -5,-5.806 ± 1.028,,Festival / Estate,5/2
+Level -5,-6.253 ± 1.467,,Scout / Workshop,4/3
+Level -5,-7.946 ± 3.077,,Thief / Native Village,4/2
+Level -5,-7.224 ± 2.277,,Thief / Tunnel,4/3
+Level -5,-8.151 ± 3.164,,Talisman / Estate,4/2
+Level -6,-7.757 ± 2.742,,Thief / Crossroads,4/2
+Level -6,-8.118 ± 3.095,,Village / Cellar,3/2
+Level -6,-6.075 ± 1.001,,Horn of Plenty,5/-
+Level -6,-9.299 ± 4.129,,Mining Village / Estate,4/2
+Level -6,-7.570 ± 2.399,,Gardens / Great Hall,4/3
+Level -6,-7.897 ± 2.681,,Caravan / Estate,4/2
+Level -6,-7.170 ± 1.899,,Counting House / Estate,5/2
+Level -6,-6.372 ± 1.087,,Thief / Village,4/3
+Level -6,-6.911 ± 1.572,,Mint / Native Village,5/2
+Level -6,-14.940 ± 9.557,,Lighthouse,2/-
+Level -6,-7.160 ± 1.673,,Mint / Moat,5/2
+Level -6,-7.077 ± 1.517,,Mint / Hamlet,5/2
+Level -6,-9.749 ± 4.034,,Coppersmith / Estate,4/2
+Level -6,-8.746 ± 2.907,,Duchy / Copper,5/0
+Level -6,-8.871 ± 3.009,,Horn of Plenty / Copper,5/0
+Level -6,-8.906 ± 3.026,,Horn of Plenty / Estate,5/2
+Level -6,-7.047 ± 1.164,,City / Estate,5/2
+Level -6,-7.306 ± 1.338,,Potion / Estate,4/2
+Level -7,-12.143 ± 6.077,,Thief / Estate,4/2
+Level -7,-7.171 ± 1.021,,Mint,5/-
+Level -7,-13.627 ± 7.462,,Spy / Estate,4/2
+Level -7,-8.775 ± 2.556,,Pirate Ship / Estate,4/2
+Level -7,-18.395 ± 12.174,,Navigator / Estate,4/2
+Level -7,-10.900 ± 4.529,,Walled Village / Estate,4/2
+Level -7,-10.550 ± 4.013,,Thief / Copper,4/0
+Level -7,-8.525 ± 1.801,,Outpost / Estate,5/2
+Level -7,-8.228 ± 1.457,,Silver / Estate,3/2
+Level -7,-11.949 ± 5.033,,Gardens / Estate,4/2
+Level -7,-15.597 ± 8.668,,Cellar,2/-
+Level -8,-8.543 ± 1.526,,Duchy / Estate,5/2
+Level -8,-11.958 ± 4.683,,Village / Copper,3/0
+Level -8,-15.111 ± 7.752,,Copper / Curse,0/0
+Level -8,-14.449 ± 6.955,,Curse,0/-
+Level -8,-14.278 ± 6.744,,Village / Estate,3/2
+Level -9,-10.900 ± 2.885,,Mint / Estate,5/2
+Level -9,-11.880 ± 3.234,,Copper / Copper,0/0
+Level -9,-12.693 ± 3.862,,Estate,2/-
+Level -10,-13.265 ± 4.221,,Curse / Curse,0/0
+Level -10,-15.606 ± 6.006,,Estate / Copper,2/0
+Level -11,-15.097 ± 4.626,,Estate / Estate,2/2
+Level -12,-15.341 ± 4.301,,Copper,0/-

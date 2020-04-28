@@ -1,13 +1,14 @@
---> Recognize combos present (from a combos list)
---> Easier inputting cards (from text?)
+Openings:
 
-Combos:
+1) Download lists of good openings.
 
-1) Extract list of 2-card combos from here:
-http://wiki.dominionstrategy.com/index.php/Combos_and_Counters_List
+    card1   card2   level
 
-2) As the user enters cards, automatically identify combos that are 
-present.
+2) Filter to those currently possible on the board
+    (augment existing cards with money)
 
-3) Print them below the main dataframe.
+    in frontend.
 
+3) Show the remaining openings rank-ordered by level. 
+
+    show openings as df in frontend.
