@@ -1,3 +1,7 @@
+Wish list:
+-- Color code openings.
+-- Filter by coins available.
+
 Openings:
 
 1) Download lists of good openings.
@@ -11,4 +15,6 @@ Openings:
 
 3) Show the remaining openings rank-ordered by level. 
 
-    show openings as df in frontend.
+    show openings as df in frontend
+
+.
